@@ -1,25 +1,74 @@
 {
   "news": [
-    { "title": "한국 경제 성장률 2분기 전망 상향 조정…수출 호조 영향", "url": "https://news.naver.com/section/101" },
-    { "title": "반도체 업황 회복세…삼성·SK하이닉스 3분기 실적 기대", "url": "https://news.naver.com/section/101" },
-    { "title": "미 연준, 금리 동결 유지…연내 인하 신호 내비쳐", "url": "https://news.naver.com/section/101" },
-    { "title": "글로벌 AI 투자 급증…국내 스타트업도 수혜 전망", "url": "https://news.naver.com/section/101" },
-    { "title": "원·달러 환율, 수출 호조에 안정세 유지", "url": "https://news.naver.com/section/101" },
-    { "title": "정부, 중소기업 디지털 전환 지원 2조원 투입 발표", "url": "https://news.naver.com/section/101" },
-    { "title": "국제유가 소폭 하락…배럴당 78달러 선 유지", "url": "https://news.naver.com/section/101" }
+    {
+      "title": "주유소 기름값 5주 연속 하락…전국 평균 휘발윳값 2천9원대",
+      "url": "https://n.news.naver.com/mnews/article/001/0016149300"
+    },
+    {
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000876558"
+    },
+    {
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/437/0000497124"
+    },
+    {
+      "title": "\"최대 9500선이긴 한데\"…두가지 넘으면 '1만피' 보인다",
+      "url": "https://n.news.naver.com/mnews/article/215/0001256018"
+    },
+    {
+      "title": "배민·쿠팡 최대 과징금 넘는 상생안 기각에…기준 뭘까?",
+      "url": "https://n.news.naver.com/mnews/article/003/0014017543"
+    },
+    {
+      "title": "금융硏 “4대은행 가계대출 비중 28%, 미쓰비시UFJ는 3%”",
+      "url": "https://n.news.naver.com/mnews/article/016/0002659146"
+    },
+    {
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/055/0001365961"
+    },
+    {
+      "title": "\"강세장 종료 시그널\"이라 했는데…삼성전자 턱밑까지 추격한 하이닉스",
+      "url": "https://n.news.naver.com/mnews/article/215/0001256017"
+    },
+    {
+      "title": "중동 휴전에도 원·달러 환율 1,531원 마감",
+      "url": "https://n.news.naver.com/mnews/article/448/0000620995"
+    },
+    {
+      "title": "한화, 캐나다에 초대형 LNG 인프라 짓는다…60조 잠수함 수주전 ‘막판 스퍼트’",
+      "url": "https://n.news.naver.com/mnews/article/011/0004633136"
+    }
   ],
   "stocks": {
-    "kospi":  { "value": 2748.50, "change":  12.30, "change_pct":  0.45 },
-    "kosdaq": { "value":  848.20, "change":  -5.10, "change_pct": -0.60 },
-    "nasdaq": { "value": 19853.10, "change": 148.70, "change_pct":  0.75 },
-    "usdkrw": { "value": 1378.50, "change":   2.50, "change_pct":  0.18 }
+    "kospi": {
+      "value": 9052.42,
+      "change": -11.42,
+      "change_pct": -0.13
+    },
+    "kosdaq": {
+      "value": 966.59,
+      "change": -34.34,
+      "change_pct": -3.43
+    },
+    "nasdaq": {
+      "value": 26517.93,
+      "change": 496.27,
+      "change_pct": 1.91
+    },
+    "usdkrw": {
+      "value": 1529.89,
+      "change": 4.47,
+      "change_pct": 0.29
+    }
   },
   "gold": {
-    "price_usd": 3248.50,
-    "price_krw": 4482450,
-    "change": 15.30,
-    "change_pct": 0.47
+    "price_usd": 4172.9,
+    "price_krw": 6384077,
+    "change": -51.2,
+    "change_pct": -1.21
   },
-  "updated": "2026-06-20 06:00",
+  "updated": "2026-06-21 07:02",
   "error": null
 }
