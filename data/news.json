@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "역사 교육 위해 오후 3시 일제히 걸어 닫은 스벅… \"영업 단축 죄송합니다\"",
-      "url": "https://n.news.naver.com/mnews/article/469/0000937916"
+      "title": "금융복합기업집단 자본적정성 비율 177.6%…규제비율 상회",
+      "url": "https://n.news.naver.com/mnews/article/001/0016154962"
     },
     {
-      "title": "시총 1위 바뀐날, 코스피 종가 최고치 또 갈아치웠다 [투자360]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002659897"
+      "title": "최저임금 16.3% 인상 시 일자리 44만개 감소…“혁신투자도 위축”",
+      "url": "https://n.news.naver.com/mnews/article/366/0001173601"
     },
     {
-      "title": "카드론 잔액 43조 돌파…두 달 만에 또 역대 최대",
-      "url": "https://n.news.naver.com/mnews/article/018/0006312267"
+      "title": "스페이스X 또 16% 폭락…손실 고민 커진 추격 매수자들",
+      "url": "https://n.news.naver.com/mnews/article/029/0003033103"
     },
     {
-      "title": "“여름철 45도 넘어도 걱정 없다”…삼성전자, 인도 주거단지에 냉방 솔루션 공급",
-      "url": "https://n.news.naver.com/mnews/article/009/0005696865"
+      "title": "타임폴리오 'TIME 액티브 ETF', 순자산 10조원 돌파…독립계 운용사 첫 사례",
+      "url": "https://n.news.naver.com/mnews/article/018/0006312811"
     },
     {
-      "title": "고개숙인 중기부, “아이디어 보호 위해 원본·기술개발 입증 지원”… 제1차관 “신뢰 회복 우선”",
-      "url": "https://n.news.naver.com/mnews/article/021/0002799473"
+      "title": "캐나다·호주 방산 협력 강화...한국과 캐나다 잠수함 수주전 경쟁 중인 독일, 호주와 손잡아",
+      "url": "https://n.news.naver.com/mnews/article/052/0002369780"
     },
     {
-      "title": "롯데바이오, 송도 캠퍼스 1공장 건설·사용승인 획득",
-      "url": "https://n.news.naver.com/mnews/article/001/0016150733"
+      "title": "2000억 조달 난항 홈플러스, 회생 '빨간불'…존폐 여부 운명의 일주일",
+      "url": "https://n.news.naver.com/mnews/article/003/0014023287"
     },
     {
-      "title": "현대차그룹, 보스턴다이나믹스 '완전 자회사' 밑작업 들어갔나",
-      "url": "https://n.news.naver.com/mnews/article/018/0006312291"
+      "title": "롯데칠성, 44개 음료 가격 인상‥외식·커피도 인상 움직임",
+      "url": "https://n.news.naver.com/mnews/article/214/0001507137"
     },
     {
-      "title": "1000만원 경품에 아이폰까지…청년미래적금 고객 확보 총력전",
-      "url": "https://n.news.naver.com/mnews/article/586/0000132075"
+      "title": "국민연금 이사장 “500조 퇴직연금 시장 참여…독점 우려는 ‘기우’”",
+      "url": "https://n.news.naver.com/mnews/article/018/0006313023"
     },
     {
-      "title": "‘월급 500만원 이상’… 전체 임금근로자의 16.5% 기록",
-      "url": "https://n.news.naver.com/mnews/article/005/0001856287"
+      "title": "마이크론 13% 급락 마감…美반도체주 투매, AI랠리 ‘제동’",
+      "url": "https://n.news.naver.com/mnews/article/016/0002660564"
     },
     {
-      "title": "이찬진 \"단일종목 레버리지, 드러누워 막을걸 후회…부작용 커\"(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016152356"
+      "title": "韓 MSCI 선진지수 편입 어려울 듯…\"외환시장 개방 등 노력 지속할 것\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005375951"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 9052.42,
+      "value": 9114.55,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 966.59,
+      "value": 968.4,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26166.6,
-      "change": -351.33,
-      "change_pct": -1.32
+      "value": 25587.04,
+      "change": -579.56,
+      "change_pct": -2.21
     },
     "usdkrw": {
-      "value": 1536.1,
-      "change": -1.46,
-      "change_pct": -0.09
+      "value": 1530.91,
+      "change": -0.42,
+      "change_pct": -0.03
     }
   },
   "gold": {
-    "price_usd": 4210.7,
-    "price_krw": 6468056,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4129.0,
+    "price_krw": 6321127,
+    "change": -52.9,
+    "change_pct": -1.26
   },
-  "updated": "2026-06-23 07:44",
+  "updated": "2026-06-24 07:09",
   "error": null
 }
