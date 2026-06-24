@@ -1,74 +1,38 @@
 {
   "news": [
     {
-      "title": "금융복합기업집단 자본적정성 비율 177.6%…규제비율 상회",
-      "url": "https://n.news.naver.com/mnews/article/001/0016154962"
-    },
-    {
-      "title": "최저임금 16.3% 인상 시 일자리 44만개 감소…“혁신투자도 위축”",
-      "url": "https://n.news.naver.com/mnews/article/366/0001173601"
-    },
-    {
-      "title": "스페이스X 또 16% 폭락…손실 고민 커진 추격 매수자들",
-      "url": "https://n.news.naver.com/mnews/article/029/0003033103"
-    },
-    {
-      "title": "타임폴리오 'TIME 액티브 ETF', 순자산 10조원 돌파…독립계 운용사 첫 사례",
-      "url": "https://n.news.naver.com/mnews/article/018/0006312811"
-    },
-    {
-      "title": "캐나다·호주 방산 협력 강화...한국과 캐나다 잠수함 수주전 경쟁 중인 독일, 호주와 손잡아",
-      "url": "https://n.news.naver.com/mnews/article/052/0002369780"
-    },
-    {
-      "title": "2000억 조달 난항 홈플러스, 회생 '빨간불'…존폐 여부 운명의 일주일",
-      "url": "https://n.news.naver.com/mnews/article/003/0014023287"
-    },
-    {
-      "title": "롯데칠성, 44개 음료 가격 인상‥외식·커피도 인상 움직임",
-      "url": "https://n.news.naver.com/mnews/article/214/0001507137"
-    },
-    {
-      "title": "국민연금 이사장 “500조 퇴직연금 시장 참여…독점 우려는 ‘기우’”",
-      "url": "https://n.news.naver.com/mnews/article/018/0006313023"
-    },
-    {
-      "title": "마이크론 13% 급락 마감…美반도체주 투매, AI랠리 ‘제동’",
-      "url": "https://n.news.naver.com/mnews/article/016/0002660564"
-    },
-    {
-      "title": "韓 MSCI 선진지수 편입 어려울 듯…\"외환시장 개방 등 노력 지속할 것\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005375951"
+      "title": "네이버 경제 뉴스 보러가기",
+      "url": "https://news.naver.com/section/101"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 9114.55,
+      "value": 8203.84,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 968.4,
+      "value": 891.52,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25587.04,
-      "change": -579.56,
-      "change_pct": -2.21
+      "value": 25476.63,
+      "change": -110.4,
+      "change_pct": -0.43
     },
     "usdkrw": {
-      "value": 1530.91,
-      "change": -0.42,
-      "change_pct": -0.03
+      "value": 1537.55,
+      "change": -1.5,
+      "change_pct": -0.1
     }
   },
   "gold": {
-    "price_usd": 4129.0,
-    "price_krw": 6321127,
-    "change": -52.9,
-    "change_pct": -1.26
+    "price_usd": 4022.6,
+    "price_krw": 6184948,
+    "change": -107.3,
+    "change_pct": -2.6
   },
-  "updated": "2026-06-24 07:09",
+  "updated": "2026-06-25 07:12",
   "error": null
 }
