@@ -1,38 +1,74 @@
 {
   "news": [
     {
-      "title": "네이버 경제 뉴스 보러가기",
-      "url": "https://news.naver.com/section/101"
+      "title": "팍팍한 서울살이…귀농·귀어 가구 4년 만에 늘었다",
+      "url": "https://n.news.naver.com/mnews/article/469/0000938545"
+    },
+    {
+      "title": "신입 월급 450만원·이직률 0.5%…SK하이닉스 ‘꿈의 직장’ 입증",
+      "url": "https://n.news.naver.com/mnews/article/009/0005698964"
+    },
+    {
+      "title": "카카오뱅크, 마스턴캐피탈 인수…\"할부금융 진출\"",
+      "url": "https://n.news.naver.com/mnews/article/648/0000048342"
+    },
+    {
+      "title": "서울 집값 상승폭 확대…전셋값 12년8개월來 최고",
+      "url": "https://n.news.naver.com/mnews/article/003/0014028117"
+    },
+    {
+      "title": "올여름 전력수요 최대 98.8GW 전망...역대 최고치 경신 가능성",
+      "url": "https://n.news.naver.com/mnews/article/052/0002370919"
+    },
+    {
+      "title": "부동산개발산업연구원 출범...\"개발·건설·금융 연대 선언\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005539662"
+    },
+    {
+      "title": "중노위, 현대차 파업 관련 조정 중지 결정…노조, 협상 노력 후 파업 결정할 듯",
+      "url": "https://n.news.naver.com/mnews/article/082/0001387053"
+    },
+    {
+      "title": "“메리츠 2000억 대출 거부”… 파산 직면 홈플러스 호소",
+      "url": "https://n.news.naver.com/mnews/article/005/0001857046"
+    },
+    {
+      "title": "올해 80조원대 교육교부금 연동률 20.79% 대수술 예고",
+      "url": "https://n.news.naver.com/mnews/article/374/0000518309"
+    },
+    {
+      "title": "케이뱅크, EU 은행권 스테이블코인 협력 '판게아' 프로젝트 참여",
+      "url": "https://n.news.naver.com/mnews/article/003/0014026630"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 8203.84,
+      "value": 8471.02,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 891.52,
+      "value": 909.31,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25476.63,
-      "change": -110.4,
-      "change_pct": -0.43
+      "value": 25358.6,
+      "change": -118.04,
+      "change_pct": -0.46
     },
     "usdkrw": {
-      "value": 1537.55,
-      "change": -1.5,
-      "change_pct": -0.1
+      "value": 1544.44,
+      "change": 9.19,
+      "change_pct": 0.6
     }
   },
   "gold": {
-    "price_usd": 4022.6,
-    "price_krw": 6184948,
-    "change": -107.3,
-    "change_pct": -2.6
+    "price_usd": 4041.2,
+    "price_krw": 6241390,
+    "change": 50.9,
+    "change_pct": 1.28
   },
-  "updated": "2026-06-25 07:12",
+  "updated": "2026-06-26 07:17",
   "error": null
 }
