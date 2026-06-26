@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "팍팍한 서울살이…귀농·귀어 가구 4년 만에 늘었다",
-      "url": "https://n.news.naver.com/mnews/article/469/0000938545"
+      "title": "메모리값 폭등에 애플도 인상…맥 최대 20%·아이패드 25%↑",
+      "url": "https://n.news.naver.com/mnews/article/014/0005539903"
     },
     {
-      "title": "신입 월급 450만원·이직률 0.5%…SK하이닉스 ‘꿈의 직장’ 입증",
-      "url": "https://n.news.naver.com/mnews/article/009/0005698964"
+      "title": "국민성장펀드, 리가켐바이오·LIG D&A에 1조원 투자",
+      "url": "https://n.news.naver.com/mnews/article/366/0001174551"
     },
     {
-      "title": "카카오뱅크, 마스턴캐피탈 인수…\"할부금융 진출\"",
-      "url": "https://n.news.naver.com/mnews/article/648/0000048342"
+      "title": "주담대 고정금리 비중 7개월 연속 하락…변동금리 쏠림 심화",
+      "url": "https://n.news.naver.com/mnews/article/056/0012206780"
     },
     {
-      "title": "서울 집값 상승폭 확대…전셋값 12년8개월來 최고",
-      "url": "https://n.news.naver.com/mnews/article/003/0014028117"
+      "title": "경제부총리 \"하반기 전기·가스요금 등 주요 공공요금 동결\"",
+      "url": "https://n.news.naver.com/mnews/article/437/0000498092"
     },
     {
-      "title": "올여름 전력수요 최대 98.8GW 전망...역대 최고치 경신 가능성",
-      "url": "https://n.news.naver.com/mnews/article/052/0002370919"
+      "title": "사이드카에 서킷브레이커…코스피 5.8%↓ 8,400대로 후퇴(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016161902"
     },
     {
-      "title": "부동산개발산업연구원 출범...\"개발·건설·금융 연대 선언\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005539662"
+      "title": "정부, 석유 최고가격 첫 인하… ‘휘발유 1784원·경유 1773원’",
+      "url": "https://n.news.naver.com/mnews/article/366/0001174800"
     },
     {
-      "title": "중노위, 현대차 파업 관련 조정 중지 결정…노조, 협상 노력 후 파업 결정할 듯",
-      "url": "https://n.news.naver.com/mnews/article/082/0001387053"
+      "title": "홈플러스 전단채 피해자들 “MBK, 보증 말고 책임자본 내라”",
+      "url": "https://n.news.naver.com/mnews/article/018/0006316080"
     },
     {
-      "title": "“메리츠 2000억 대출 거부”… 파산 직면 홈플러스 호소",
-      "url": "https://n.news.naver.com/mnews/article/005/0001857046"
+      "title": "'中 저가공세' 속 신형 아반떼 공개…무뇨스 사장 \"가격이 전부 아냐\" [현장+]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005303179"
     },
     {
-      "title": "올해 80조원대 교육교부금 연동률 20.79% 대수술 예고",
-      "url": "https://n.news.naver.com/mnews/article/374/0000518309"
+      "title": "HD현대중공업, 전북 군산조선소 HJ중공업에 7800억 매각",
+      "url": "https://n.news.naver.com/mnews/article/417/0001149193"
     },
     {
-      "title": "케이뱅크, EU 은행권 스테이블코인 협력 '판게아' 프로젝트 참여",
-      "url": "https://n.news.naver.com/mnews/article/003/0014026630"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012207178"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 8471.02,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 909.31,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 25358.6,
-      "change": -118.04,
-      "change_pct": -0.46
+      "value": 25297.62,
+      "change": -60.98,
+      "change_pct": -0.24
     },
     "usdkrw": {
-      "value": 1544.44,
-      "change": 9.19,
-      "change_pct": 0.6
+      "value": 1535.0,
+      "change": -7.76,
+      "change_pct": -0.5
     }
   },
   "gold": {
-    "price_usd": 4041.2,
-    "price_krw": 6241390,
-    "change": 50.9,
-    "change_pct": 1.28
+    "price_usd": 4103.0,
+    "price_krw": 6298105,
+    "change": 72.5,
+    "change_pct": 1.8
   },
-  "updated": "2026-06-26 07:17",
+  "updated": "2026-06-27 07:07",
   "error": null
 }
