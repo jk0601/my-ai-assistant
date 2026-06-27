@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "메모리값 폭등에 애플도 인상…맥 최대 20%·아이패드 25%↑",
-      "url": "https://n.news.naver.com/mnews/article/014/0005539903"
-    },
-    {
-      "title": "국민성장펀드, 리가켐바이오·LIG D&A에 1조원 투자",
-      "url": "https://n.news.naver.com/mnews/article/366/0001174551"
-    },
-    {
-      "title": "주담대 고정금리 비중 7개월 연속 하락…변동금리 쏠림 심화",
-      "url": "https://n.news.naver.com/mnews/article/056/0012206780"
-    },
-    {
-      "title": "경제부총리 \"하반기 전기·가스요금 등 주요 공공요금 동결\"",
-      "url": "https://n.news.naver.com/mnews/article/437/0000498092"
-    },
-    {
-      "title": "사이드카에 서킷브레이커…코스피 5.8%↓ 8,400대로 후퇴(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016161902"
-    },
-    {
-      "title": "정부, 석유 최고가격 첫 인하… ‘휘발유 1784원·경유 1773원’",
-      "url": "https://n.news.naver.com/mnews/article/366/0001174800"
-    },
-    {
-      "title": "홈플러스 전단채 피해자들 “MBK, 보증 말고 책임자본 내라”",
-      "url": "https://n.news.naver.com/mnews/article/018/0006316080"
-    },
-    {
-      "title": "'中 저가공세' 속 신형 아반떼 공개…무뇨스 사장 \"가격이 전부 아냐\" [현장+]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005303179"
-    },
-    {
-      "title": "HD현대중공업, 전북 군산조선소 HJ중공업에 7800억 매각",
-      "url": "https://n.news.naver.com/mnews/article/417/0001149193"
-    },
-    {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012207178"
+      "url": "https://n.news.naver.com/mnews/article/052/0002371634"
+    },
+    {
+      "title": "토스 포스, 점심 이어 저녁에도 결제 시스템 먹통",
+      "url": "https://n.news.naver.com/mnews/article/422/0000878919"
+    },
+    {
+      "title": "용인 반도체 6년 걸려 ‘첫삽’…호남 반도체 반복 땐 적기 놓친다",
+      "url": "https://n.news.naver.com/mnews/article/020/0003729782"
+    },
+    {
+      "title": "다목적 전기차 ‘PV5’ 7인승 확장[부산모빌리티쇼 현장]",
+      "url": "https://n.news.naver.com/mnews/article/020/0003729787"
+    },
+    {
+      "title": "주유소 기름값 6주 연속 하락…전국 평균 휘발윳값 2,007원대",
+      "url": "https://n.news.naver.com/mnews/article/056/0012207327"
+    },
+    {
+      "title": "유명 억만장자 투자자의 비판 \"비트코인, 소리없이 서서히 사라질 것\"",
+      "url": "https://n.news.naver.com/mnews/article/055/0001367734"
+    },
+    {
+      "title": "올해 수도권 주택 27만채 짓겠다더니…넉달간 3만7000채 그쳐",
+      "url": "https://n.news.naver.com/mnews/article/020/0003729772"
+    },
+    {
+      "title": "\"한국처럼 화장해야 남자들에 인기\"…수십만원씩 쓸어담는 외국 여성들",
+      "url": "https://n.news.naver.com/mnews/article/008/0005377912"
+    },
+    {
+      "title": "한국 선박 2척 호르무즈 빠져나왔다…남은 선박은 이제 3척",
+      "url": "https://n.news.naver.com/mnews/article/437/0000498258"
+    },
+    {
+      "title": "김성환 기후부 장관, 호남 반도체 산단 용수 부족 부인…다음주 공식 발표",
+      "url": "https://n.news.naver.com/mnews/article/018/0006316835"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 8411.21,
+      "change": -519.09,
+      "change_pct": -5.81
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 851.37,
+      "change": -36.44,
+      "change_pct": -4.1
     },
     "nasdaq": {
       "value": 25297.62,
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 4103.0,
-    "price_krw": 6298105,
-    "change": 72.5,
-    "change_pct": 1.8
+    "price_usd": 4078.7,
+    "price_krw": 6260804,
+    "change": 48.2,
+    "change_pct": 1.2
   },
-  "updated": "2026-06-27 07:07",
+  "updated": "2026-06-28 06:59",
   "error": null
 }
