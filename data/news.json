@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002371634"
+      "title": "\"중국산 칩 사게 해달라\"…애플, 美 정부에 SOS",
+      "url": "https://n.news.naver.com/mnews/article/015/0005303619"
     },
     {
-      "title": "토스 포스, 점심 이어 저녁에도 결제 시스템 먹통",
-      "url": "https://n.news.naver.com/mnews/article/422/0000878919"
+      "title": "‘빚투’ 광풍…개인 차입·레버리지 금액 420조원 육박",
+      "url": "https://n.news.naver.com/mnews/article/022/0004138907"
     },
     {
-      "title": "용인 반도체 6년 걸려 ‘첫삽’…호남 반도체 반복 땐 적기 놓친다",
-      "url": "https://n.news.naver.com/mnews/article/020/0003729782"
+      "title": "협회서 교육받았다 '다 털렸네'...11만3천명 정보 유출",
+      "url": "https://n.news.naver.com/mnews/article/215/0001256836"
     },
     {
-      "title": "다목적 전기차 ‘PV5’ 7인승 확장[부산모빌리티쇼 현장]",
-      "url": "https://n.news.naver.com/mnews/article/020/0003729787"
+      "title": "카카오 노조, 29일 '로그아웃데이' 진행…교섭 합의 끝내 불발",
+      "url": "https://n.news.naver.com/mnews/article/277/0005782245"
     },
     {
-      "title": "주유소 기름값 6주 연속 하락…전국 평균 휘발윳값 2,007원대",
-      "url": "https://n.news.naver.com/mnews/article/056/0012207327"
+      "title": "청년미래적금 29일부터 출생연도 관계없이 가입 신청",
+      "url": "https://n.news.naver.com/mnews/article/001/0016163256"
     },
     {
-      "title": "유명 억만장자 투자자의 비판 \"비트코인, 소리없이 서서히 사라질 것\"",
-      "url": "https://n.news.naver.com/mnews/article/055/0001367734"
+      "title": "충청·영남까지… 삼성·SK 2000조 역대급 투자 [호남 반도체 투자]",
+      "url": "https://n.news.naver.com/mnews/article/022/0004138814"
     },
     {
-      "title": "올해 수도권 주택 27만채 짓겠다더니…넉달간 3만7000채 그쳐",
-      "url": "https://n.news.naver.com/mnews/article/020/0003729772"
+      "title": "\"학군·학사장교 인턴 지원 불이익 없도록\"…한경협, 회원사에 협조 요청",
+      "url": "https://n.news.naver.com/mnews/article/277/0005782399"
     },
     {
-      "title": "\"한국처럼 화장해야 남자들에 인기\"…수십만원씩 쓸어담는 외국 여성들",
-      "url": "https://n.news.naver.com/mnews/article/008/0005377912"
-    },
-    {
-      "title": "한국 선박 2척 호르무즈 빠져나왔다…남은 선박은 이제 3척",
-      "url": "https://n.news.naver.com/mnews/article/437/0000498258"
+      "title": "카카오톡 기프티콘 환불, 5만원 초과시 95%로 인상",
+      "url": "https://n.news.naver.com/mnews/article/021/0002800866"
     },
     {
       "title": "김성환 기후부 장관, 호남 반도체 산단 용수 부족 부인…다음주 공식 발표",
       "url": "https://n.news.naver.com/mnews/article/018/0006316835"
+    },
+    {
+      "title": "\"로봇이 10초에 1대 조립\"…배전기기에 힘주는 HD현대",
+      "url": "https://n.news.naver.com/mnews/article/015/0005303630"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": -0.24
     },
     "usdkrw": {
-      "value": 1535.0,
-      "change": -7.76,
-      "change_pct": -0.5
+      "value": 1535.11,
+      "change": -11.37,
+      "change_pct": -0.74
     }
   },
   "gold": {
-    "price_usd": 4078.7,
-    "price_krw": 6260804,
-    "change": 48.2,
-    "change_pct": 1.2
+    "price_usd": 4096.3,
+    "price_krw": 6288270,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-06-28 06:59",
+  "updated": "2026-06-29 06:58",
   "error": null
 }
