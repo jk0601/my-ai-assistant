@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "\"중국산 칩 사게 해달라\"…애플, 美 정부에 SOS",
-      "url": "https://n.news.naver.com/mnews/article/015/0005303619"
+      "title": "카카오노조, 오늘 하루 파업…노사, 성과급-고용안정 평행선",
+      "url": "https://n.news.naver.com/mnews/article/020/0003730160"
     },
     {
-      "title": "‘빚투’ 광풍…개인 차입·레버리지 금액 420조원 육박",
-      "url": "https://n.news.naver.com/mnews/article/022/0004138907"
+      "title": "삼성·하이닉스, 수도권 2630조 이어 광주에 800조…이재용 “초격차로 앞서겠다”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004636184"
     },
     {
-      "title": "협회서 교육받았다 '다 털렸네'...11만3천명 정보 유출",
-      "url": "https://n.news.naver.com/mnews/article/215/0001256836"
+      "title": "삼성·SK, 4700조 지역 투자 보따리…정부 \"원스톱 지원\" 약속",
+      "url": "https://n.news.naver.com/mnews/article/629/0000511540"
     },
     {
-      "title": "카카오 노조, 29일 '로그아웃데이' 진행…교섭 합의 끝내 불발",
-      "url": "https://n.news.naver.com/mnews/article/277/0005782245"
+      "title": "최태원 \"서남권에 400조 투자해 반도체 클러스터 신설... 용인 완공도 앞당긴다\"",
+      "url": "https://n.news.naver.com/mnews/article/469/0000939268"
     },
     {
-      "title": "청년미래적금 29일부터 출생연도 관계없이 가입 신청",
-      "url": "https://n.news.naver.com/mnews/article/001/0016163256"
+      "title": "삼성, 대금 지급 개선·3조5000억 규모 금융 등 협력사 지원 확대",
+      "url": "https://n.news.naver.com/mnews/article/029/0003034230"
     },
     {
-      "title": "충청·영남까지… 삼성·SK 2000조 역대급 투자 [호남 반도체 투자]",
-      "url": "https://n.news.naver.com/mnews/article/022/0004138814"
+      "title": "\"집값 뛰자 세금도 껑충\"…지난해 주택 종부세 1조3000억원 넘어",
+      "url": "https://n.news.naver.com/mnews/article/015/0005304111"
     },
     {
-      "title": "\"학군·학사장교 인턴 지원 불이익 없도록\"…한경협, 회원사에 협조 요청",
-      "url": "https://n.news.naver.com/mnews/article/277/0005782399"
+      "title": "신규 박사 3명 중 1명 백수, 역대 최대…'구직 중단' 배 늘어",
+      "url": "https://n.news.naver.com/mnews/article/001/0016163877"
     },
     {
-      "title": "카카오톡 기프티콘 환불, 5만원 초과시 95%로 인상",
-      "url": "https://n.news.naver.com/mnews/article/021/0002800866"
+      "title": "몸값 낮추니 불법은 경쟁…보험사 M&A로 몸집 키우는 금융사들",
+      "url": "https://n.news.naver.com/mnews/article/018/0006318450"
     },
     {
-      "title": "김성환 기후부 장관, 호남 반도체 산단 용수 부족 부인…다음주 공식 발표",
-      "url": "https://n.news.naver.com/mnews/article/018/0006316835"
+      "title": "비용 1.2조원 줄였는데 2000억 더 필요…홈플러스 회생계획 수정안 제출",
+      "url": "https://n.news.naver.com/mnews/article/009/0005700433"
     },
     {
-      "title": "\"로봇이 10초에 1대 조립\"…배전기기에 힘주는 HD현대",
-      "url": "https://n.news.naver.com/mnews/article/015/0005303630"
+      "title": "1분기 지역성장도 반도체 견인…충북 13.8%↑·전남은 마이너스",
+      "url": "https://n.news.naver.com/mnews/article/001/0016164691"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 8411.21,
-      "change": -519.09,
-      "change_pct": -5.81
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 851.37,
-      "change": -36.44,
-      "change_pct": -4.1
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25297.62,
-      "change": -60.98,
-      "change_pct": -0.24
+      "value": 25820.14,
+      "change": 522.53,
+      "change_pct": 2.07
     },
     "usdkrw": {
-      "value": 1535.11,
-      "change": -11.37,
-      "change_pct": -0.74
+      "value": 1540.65,
+      "change": -5.83,
+      "change_pct": -0.38
     }
   },
   "gold": {
-    "price_usd": 4096.3,
-    "price_krw": 6288270,
+    "price_usd": 4030.5,
+    "price_krw": 6209589,
     "change": 0.0,
     "change_pct": 0.0
   },
-  "updated": "2026-06-29 06:58",
+  "updated": "2026-06-30 07:06",
   "error": null
 }
