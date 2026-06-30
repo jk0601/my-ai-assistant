@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "카카오노조, 오늘 하루 파업…노사, 성과급-고용안정 평행선",
-      "url": "https://n.news.naver.com/mnews/article/020/0003730160"
+      "title": "KB금융 \"배달 라이더 등 '긱워커'에 맞춤형 금융지원\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016166351"
     },
     {
-      "title": "삼성·하이닉스, 수도권 2630조 이어 광주에 800조…이재용 “초격차로 앞서겠다”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004636184"
+      "title": "‘슈퍼 엔저’의 늪…엔·달러 162엔 턱밑, 40년 만에 최저치 경신",
+      "url": "https://n.news.naver.com/mnews/article/029/0003034358"
     },
     {
-      "title": "삼성·SK, 4700조 지역 투자 보따리…정부 \"원스톱 지원\" 약속",
-      "url": "https://n.news.naver.com/mnews/article/629/0000511540"
+      "title": "신동빈 ‘원롯데’ 전략, 아들 신유열이 맡는다",
+      "url": "https://n.news.naver.com/mnews/article/005/0001858156"
     },
     {
-      "title": "최태원 \"서남권에 400조 투자해 반도체 클러스터 신설... 용인 완공도 앞당긴다\"",
-      "url": "https://n.news.naver.com/mnews/article/469/0000939268"
+      "title": "삼성·하이닉스 등 서남권에 896조 원 투자",
+      "url": "https://n.news.naver.com/mnews/article/449/0000351078"
     },
     {
-      "title": "삼성, 대금 지급 개선·3조5000억 규모 금융 등 협력사 지원 확대",
-      "url": "https://n.news.naver.com/mnews/article/029/0003034230"
+      "title": "삼성전자 전영현 \"호남에 반도체·AI DC 등 425조 투자\"",
+      "url": "https://n.news.naver.com/mnews/article/374/0000519108"
     },
     {
-      "title": "\"집값 뛰자 세금도 껑충\"…지난해 주택 종부세 1조3000억원 넘어",
-      "url": "https://n.news.naver.com/mnews/article/015/0005304111"
+      "title": "매출 40% 줄어들면 못버텨 … 작년 소상공인 97만곳 폐업",
+      "url": "https://n.news.naver.com/mnews/article/009/0005700842"
     },
     {
-      "title": "신규 박사 3명 중 1명 백수, 역대 최대…'구직 중단' 배 늘어",
-      "url": "https://n.news.naver.com/mnews/article/001/0016163877"
+      "title": "코레일 자회사 5개, 3개로 통합",
+      "url": "https://n.news.naver.com/mnews/article/023/0003984957"
     },
     {
-      "title": "몸값 낮추니 불법은 경쟁…보험사 M&A로 몸집 키우는 금융사들",
-      "url": "https://n.news.naver.com/mnews/article/018/0006318450"
+      "title": "\"강달러+외국인 주식 순매도\" 원·달러 환율, 장중 1550원 위로(상보)",
+      "url": "https://n.news.naver.com/mnews/article/277/0005783375"
     },
     {
-      "title": "비용 1.2조원 줄였는데 2000억 더 필요…홈플러스 회생계획 수정안 제출",
-      "url": "https://n.news.naver.com/mnews/article/009/0005700433"
+      "title": "‘을’ 협상력 강화된다…소상공인 단체협상, 담합 적용서 예외",
+      "url": "https://n.news.naver.com/mnews/article/056/0012208713"
     },
     {
-      "title": "1분기 지역성장도 반도체 견인…충북 13.8%↑·전남은 마이너스",
-      "url": "https://n.news.naver.com/mnews/article/001/0016164691"
+      "title": "LG전자, CEO 직속 '로보틱스사업센터' 신설…로보틱스에 전사 역량 결집",
+      "url": "https://n.news.naver.com/mnews/article/030/0003442802"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 8411.21,
+      "value": 8394.65,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 851.37,
+      "value": 920.57,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25820.14,
-      "change": 522.53,
-      "change_pct": 2.07
+      "value": 26213.72,
+      "change": 393.58,
+      "change_pct": 1.52
     },
     "usdkrw": {
-      "value": 1540.65,
-      "change": -5.83,
-      "change_pct": -0.38
+      "value": 1545.48,
+      "change": 10.24,
+      "change_pct": 0.67
     }
   },
   "gold": {
-    "price_usd": 4030.5,
-    "price_krw": 6209589,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4027.1,
+    "price_krw": 6223802,
+    "change": 4.8,
+    "change_pct": 0.12
   },
-  "updated": "2026-06-30 07:06",
+  "updated": "2026-07-01 07:13",
   "error": null
 }
