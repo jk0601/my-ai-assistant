@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "고유가 직격탄… 6월 소비자물가 3.2% 급등",
-      "url": "https://n.news.naver.com/mnews/article/022/0004140085"
+      "title": "현대차그룹, 영남권에 10년간 42조 투자…AI차·부품·우주 거점 육성",
+      "url": "https://n.news.naver.com/mnews/article/448/0000624185"
     },
     {
-      "title": "이중근 대한노인회장 \"9월까지 회원 800만명 목표\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006320557"
+      "title": "가상자산 가격 일제히 반등… 비트코인 6만1000달러 선 회복",
+      "url": "https://n.news.naver.com/mnews/article/366/0001176418"
     },
     {
-      "title": "하반기 산업기상도…배터리·반도체 '맑음' 석유화학 '비'",
-      "url": "https://n.news.naver.com/mnews/article/001/0016172429"
+      "title": "李대통령, ‘중동전쟁 대응’ 재경부에 피자 쐈다",
+      "url": "https://n.news.naver.com/mnews/article/021/0002802275"
     },
     {
-      "title": "정은경 \"국민연금 리밸런싱, 주식시장 영향 최소화할 것\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014043886"
+      "title": "코스피 또 역대급 ‘롤러코스피’…장중 변동폭 역대 2위",
+      "url": "https://n.news.naver.com/mnews/article/025/0003535219"
     },
     {
-      "title": "2년 표류 끝에…한화오션, 7.8조 KDDX 선도함 우선협상대상자 선정",
-      "url": "https://n.news.naver.com/mnews/article/015/0005305628"
+      "title": "SK 140조·삼성 60조·한화55조…영남권 첨단산업 허브 승부수",
+      "url": "https://n.news.naver.com/mnews/article/082/0001388237"
     },
     {
-      "title": "조현준 회장이 뛴다…효성重, 호주서 3100억원 수주 '잭팟'",
-      "url": "https://n.news.naver.com/mnews/article/030/0003443816"
+      "title": "우리금융, 동양생명 소액주주 반발에…주식매수청구가 10% 상향",
+      "url": "https://n.news.naver.com/mnews/article/648/0000048615"
     },
     {
-      "title": "세계 최초 100% 직류 배전… LS일렉트릭 천안공장 가동",
-      "url": "https://n.news.naver.com/mnews/article/009/0005702080"
+      "title": "1분기 부동산 PF 익스포저 4.5조 감소…연체율은 상승",
+      "url": "https://n.news.naver.com/mnews/article/018/0006321770"
     },
     {
-      "title": "'반도체株 직격탄' 코스피 7600선 마감…코스닥도 휘청",
-      "url": "https://n.news.naver.com/mnews/article/277/0005784843"
+      "title": "셀트리온, 2분기 매출 1조3000억…역대 최대 실적",
+      "url": "https://n.news.naver.com/mnews/article/011/0004637737"
     },
     {
-      "title": "현대차·기아, ‘가상 주행’으로 승차감·안전까지 검증…기술 개발 속도",
-      "url": "https://n.news.naver.com/mnews/article/020/0003731119"
+      "title": "LH 신임 사장에 이성훈 국토교통비서관",
+      "url": "https://n.news.naver.com/mnews/article/081/0003658077"
     },
     {
-      "title": "'거버넌스 안정화' 결단…임종훈, 한미사이언스 지분 821억원 매각",
-      "url": "https://n.news.naver.com/mnews/article/417/0001150082"
+      "title": "마트노조 “정부, 홈플러스 회생 방안 마련하라”",
+      "url": "https://n.news.naver.com/mnews/article/016/0002665459"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 8303.41,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 929.35,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
       "value": 25832.67,
@@ -58,17 +58,17 @@
       "change_pct": -0.8
     },
     "usdkrw": {
-      "value": 1537.99,
-      "change": -10.62,
-      "change_pct": -0.69
+      "value": 1530.15,
+      "change": -21.66,
+      "change_pct": -1.4
     }
   },
   "gold": {
-    "price_usd": 4135.5,
-    "price_krw": 6360357,
-    "change": 67.2,
-    "change_pct": 1.65
+    "price_usd": 4187.3,
+    "price_krw": 6407196,
+    "change": 74.6,
+    "change_pct": 1.81
   },
-  "updated": "2026-07-03 07:02",
+  "updated": "2026-07-04 07:01",
   "error": null
 }
