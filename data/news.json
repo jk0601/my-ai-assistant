@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "현대차그룹, 영남권에 10년간 42조 투자…AI차·부품·우주 거점 육성",
-      "url": "https://n.news.naver.com/mnews/article/448/0000624185"
+      "title": "“위고비 맞으니 반캔으로도 충분”…美 ‘미니 맥주’ 열풍 부는 이유",
+      "url": "https://n.news.naver.com/mnews/article/009/0005702666"
     },
     {
-      "title": "가상자산 가격 일제히 반등… 비트코인 6만1000달러 선 회복",
-      "url": "https://n.news.naver.com/mnews/article/366/0001176418"
+      "title": "6개 기업, 영남권에 피지컬 AI-우주항공 312조 투자",
+      "url": "https://n.news.naver.com/mnews/article/020/0003731474"
     },
     {
-      "title": "李대통령, ‘중동전쟁 대응’ 재경부에 피자 쐈다",
-      "url": "https://n.news.naver.com/mnews/article/021/0002802275"
+      "title": "블룸버그 \"SK하이닉스 美 ADR 상장 수수료율 0.5% 검토\"",
+      "url": "https://n.news.naver.com/mnews/article/448/0000624325"
     },
     {
-      "title": "코스피 또 역대급 ‘롤러코스피’…장중 변동폭 역대 2위",
-      "url": "https://n.news.naver.com/mnews/article/025/0003535219"
+      "title": "결국 멈춰선 홈플러스…이마트·롯데마트 반사이익?",
+      "url": "https://n.news.naver.com/mnews/article/016/0002665665"
     },
     {
-      "title": "SK 140조·삼성 60조·한화55조…영남권 첨단산업 허브 승부수",
-      "url": "https://n.news.naver.com/mnews/article/082/0001388237"
+      "title": "세계 식량가격지수 두 달째 하락…곡물·유제품 내리고 쌀·유지류는 상승",
+      "url": "https://n.news.naver.com/mnews/article/016/0002665696"
     },
     {
-      "title": "우리금융, 동양생명 소액주주 반발에…주식매수청구가 10% 상향",
-      "url": "https://n.news.naver.com/mnews/article/648/0000048615"
+      "title": "스타벅스 결제액 한 달 새 200억 감소…지난해 11월 이후 최저",
+      "url": "https://n.news.naver.com/mnews/article/025/0003535302"
     },
     {
-      "title": "1분기 부동산 PF 익스포저 4.5조 감소…연체율은 상승",
-      "url": "https://n.news.naver.com/mnews/article/018/0006321770"
+      "title": "휘발윳값 7주째 하락…전국 평균 1952원, 경유도 1940원대로",
+      "url": "https://n.news.naver.com/mnews/article/011/0004638077"
     },
     {
-      "title": "셀트리온, 2분기 매출 1조3000억…역대 최대 실적",
-      "url": "https://n.news.naver.com/mnews/article/011/0004637737"
+      "title": "KB금융, 차기 회장 후보 6명 확정… 現 양종희 회장 연임 도전",
+      "url": "https://n.news.naver.com/mnews/article/020/0003731416"
     },
     {
-      "title": "LH 신임 사장에 이성훈 국토교통비서관",
-      "url": "https://n.news.naver.com/mnews/article/081/0003658077"
+      "title": "'더 담아야 하나' 이번엔 '85조'…\"삼전닉스 이벤트 곧 온다\" 개미 두근두근",
+      "url": "https://n.news.naver.com/mnews/article/215/0001257604"
     },
     {
-      "title": "마트노조 “정부, 홈플러스 회생 방안 마련하라”",
-      "url": "https://n.news.naver.com/mnews/article/016/0002665459"
+      "title": "신세계百, 김익영 작가 초대전 '백의 풍경' 개최",
+      "url": "https://n.news.naver.com/mnews/article/421/0009040848"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 8088.34,
+      "change": 440.25,
+      "change_pct": 5.76
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 868.41,
+      "change": 1.69,
+      "change_pct": 0.19
     },
     "nasdaq": {
       "value": 25832.67,
@@ -69,6 +69,6 @@
     "change": 74.6,
     "change_pct": 1.81
   },
-  "updated": "2026-07-04 07:01",
+  "updated": "2026-07-05 06:53",
   "error": null
 }
