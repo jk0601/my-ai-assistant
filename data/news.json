@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "“위고비 맞으니 반캔으로도 충분”…美 ‘미니 맥주’ 열풍 부는 이유",
-      "url": "https://n.news.naver.com/mnews/article/009/0005702666"
+      "title": "한국은행, 삼전닉스 레버리지 ETF에 이례적 경고",
+      "url": "https://n.news.naver.com/mnews/article/005/0001859050"
     },
     {
-      "title": "6개 기업, 영남권에 피지컬 AI-우주항공 312조 투자",
-      "url": "https://n.news.naver.com/mnews/article/020/0003731474"
+      "title": "롯데건설, 대우건설 제치고 1조3628억원 성수4지구 재개발 따냈다",
+      "url": "https://n.news.naver.com/mnews/article/366/0001176917"
     },
     {
-      "title": "블룸버그 \"SK하이닉스 美 ADR 상장 수수료율 0.5% 검토\"",
-      "url": "https://n.news.naver.com/mnews/article/448/0000624325"
+      "title": "韓삼전·하닉 이어…美마이크론, 日공장에 14조원 투입해 HBM 증설",
+      "url": "https://n.news.naver.com/mnews/article/014/0005543752"
     },
     {
-      "title": "결국 멈춰선 홈플러스…이마트·롯데마트 반사이익?",
-      "url": "https://n.news.naver.com/mnews/article/016/0002665665"
+      "title": "삼성 무풍 에어컨, 10년 만에 ‘글로벌 2000만대’",
+      "url": "https://n.news.naver.com/mnews/article/005/0001859062"
     },
     {
-      "title": "세계 식량가격지수 두 달째 하락…곡물·유제품 내리고 쌀·유지류는 상승",
-      "url": "https://n.news.naver.com/mnews/article/016/0002665696"
+      "title": "몸보신 쉽지 않네… 복날 앞둔 삼계탕, 한 그릇에 '2만원' 시대",
+      "url": "https://n.news.naver.com/mnews/article/469/0000940489"
     },
     {
-      "title": "스타벅스 결제액 한 달 새 200억 감소…지난해 11월 이후 최저",
-      "url": "https://n.news.naver.com/mnews/article/025/0003535302"
+      "title": "오늘부터 원·달러 24시간 거래...서학개미도, 수출기업도 실시간 달러 환전",
+      "url": "https://n.news.naver.com/mnews/article/366/0001176938"
     },
     {
-      "title": "휘발윳값 7주째 하락…전국 평균 1952원, 경유도 1940원대로",
-      "url": "https://n.news.naver.com/mnews/article/011/0004638077"
+      "title": "‘노재팬’ 끝난 일본 맥주…수입량 첫 10만t 돌파",
+      "url": "https://n.news.naver.com/mnews/article/366/0001176820"
     },
     {
-      "title": "KB금융, 차기 회장 후보 6명 확정… 現 양종희 회장 연임 도전",
-      "url": "https://n.news.naver.com/mnews/article/020/0003731416"
+      "title": "인공지능 붐·고용한파 겹악재에…20대 ‘사무직 일자리’ 직격탄",
+      "url": "https://n.news.naver.com/mnews/article/087/0001203182"
     },
     {
-      "title": "'더 담아야 하나' 이번엔 '85조'…\"삼전닉스 이벤트 곧 온다\" 개미 두근두근",
-      "url": "https://n.news.naver.com/mnews/article/215/0001257604"
+      "title": "삼성전자, 사내 주택대출 ‘국민평형’ 이하로 제한… 수도권·광역시 85㎡까지만 지원",
+      "url": "https://n.news.naver.com/mnews/article/366/0001176915"
     },
     {
-      "title": "신세계百, 김익영 작가 초대전 '백의 풍경' 개최",
-      "url": "https://n.news.naver.com/mnews/article/421/0009040848"
+      "title": "기아, 사회공헌사업 ‘무브튜유’ 추진…소멸위기지역 식품 사막화 개선 앞장",
+      "url": "https://n.news.naver.com/mnews/article/016/0002665787"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": -0.8
     },
     "usdkrw": {
-      "value": 1530.15,
-      "change": -21.66,
-      "change_pct": -1.4
+      "value": 1529.14,
+      "change": -12.99,
+      "change_pct": -0.84
     }
   },
   "gold": {
     "price_usd": 4187.3,
-    "price_krw": 6407196,
+    "price_krw": 6402967,
     "change": 74.6,
     "change_pct": 1.81
   },
-  "updated": "2026-07-05 06:53",
+  "updated": "2026-07-06 06:56",
   "error": null
 }
