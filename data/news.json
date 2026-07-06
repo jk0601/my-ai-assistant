@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "한국은행, 삼전닉스 레버리지 ETF에 이례적 경고",
-      "url": "https://n.news.naver.com/mnews/article/005/0001859050"
+      "title": "삼성카드, \"7일부터 홈플러스 가맹점에 대금 지급…카드 매출 취소 감소\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009043668"
     },
     {
-      "title": "롯데건설, 대우건설 제치고 1조3628억원 성수4지구 재개발 따냈다",
-      "url": "https://n.news.naver.com/mnews/article/366/0001176917"
+      "title": "삼성전자 반도체, 상반기 성과급 기본급의 최대 100%",
+      "url": "https://n.news.naver.com/mnews/article/422/0000881971"
     },
     {
-      "title": "韓삼전·하닉 이어…美마이크론, 日공장에 14조원 투입해 HBM 증설",
-      "url": "https://n.news.naver.com/mnews/article/014/0005543752"
+      "title": "운용사 의결권 형식적 행사 여전…신한·우리·삼성액티브는 ‘미흡’ 지적",
+      "url": "https://n.news.naver.com/mnews/article/011/0004638680"
     },
     {
-      "title": "삼성 무풍 에어컨, 10년 만에 ‘글로벌 2000만대’",
-      "url": "https://n.news.naver.com/mnews/article/005/0001859062"
+      "title": "최태원 매직 시작된다…\"SK하이닉스, 외국기업 역대 최대 美 ADR\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005306892"
     },
     {
-      "title": "몸보신 쉽지 않네… 복날 앞둔 삼계탕, 한 그릇에 '2만원' 시대",
-      "url": "https://n.news.naver.com/mnews/article/469/0000940489"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000881925"
     },
     {
-      "title": "오늘부터 원·달러 24시간 거래...서학개미도, 수출기업도 실시간 달러 환전",
-      "url": "https://n.news.naver.com/mnews/article/366/0001176938"
+      "title": "구윤철 \"외환시장 24시 개장, 韓자본시장·원화 매력 높일 것\"(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016177179"
     },
     {
-      "title": "‘노재팬’ 끝난 일본 맥주…수입량 첫 10만t 돌파",
-      "url": "https://n.news.naver.com/mnews/article/366/0001176820"
+      "title": "신한은행, 슈퍼앱과 AX 앞세워 고객기반 넓힌다",
+      "url": "https://n.news.naver.com/mnews/article/014/0005544236"
     },
     {
-      "title": "인공지능 붐·고용한파 겹악재에…20대 ‘사무직 일자리’ 직격탄",
-      "url": "https://n.news.naver.com/mnews/article/087/0001203182"
+      "title": "서울 아파트 전세보증금, 신규 계약이 갱신계약보다 8000만원 높아",
+      "url": "https://n.news.naver.com/mnews/article/366/0001176954"
     },
     {
-      "title": "삼성전자, 사내 주택대출 ‘국민평형’ 이하로 제한… 수도권·광역시 85㎡까지만 지원",
-      "url": "https://n.news.naver.com/mnews/article/366/0001176915"
+      "title": "\"노포도 문 닫는데 누가 창업을\"...사업자 증가율 '최저'",
+      "url": "https://n.news.naver.com/mnews/article/215/0001257664"
     },
     {
-      "title": "기아, 사회공헌사업 ‘무브튜유’ 추진…소멸위기지역 식품 사막화 개선 앞장",
-      "url": "https://n.news.naver.com/mnews/article/016/0002665787"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/437/0000499679"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 8088.34,
-      "change": 440.25,
-      "change_pct": 5.76
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 868.41,
-      "change": 1.69,
-      "change_pct": 0.19
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25832.67,
-      "change": -207.36,
-      "change_pct": -0.8
+      "value": 26121.16,
+      "change": 288.49,
+      "change_pct": 1.12
     },
     "usdkrw": {
-      "value": 1529.14,
-      "change": -12.99,
-      "change_pct": -0.84
+      "value": 1529.71,
+      "change": -12.42,
+      "change_pct": -0.81
     }
   },
   "gold": {
     "price_usd": 4187.3,
-    "price_krw": 6402967,
-    "change": 74.6,
-    "change_pct": 1.81
+    "price_krw": 6405354,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-07-06 06:56",
+  "updated": "2026-07-07 07:09",
   "error": null
 }
