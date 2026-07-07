@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "삼성카드, \"7일부터 홈플러스 가맹점에 대금 지급…카드 매출 취소 감소\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009043668"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002375907"
     },
     {
-      "title": "삼성전자 반도체, 상반기 성과급 기본급의 최대 100%",
-      "url": "https://n.news.naver.com/mnews/article/422/0000881971"
+      "title": "해외로 나가는 'K저가커피'… 빽다방, 새 로고 앞세워 일본 진출",
+      "url": "https://n.news.naver.com/mnews/article/015/0005307003"
     },
     {
-      "title": "운용사 의결권 형식적 행사 여전…신한·우리·삼성액티브는 ‘미흡’ 지적",
-      "url": "https://n.news.naver.com/mnews/article/011/0004638680"
+      "title": "\"국산화율 85% 목표…무인기 심장 만들어요\"",
+      "url": "https://n.news.naver.com/mnews/article/009/0005704122"
+    },
+    {
+      "title": "與한정애 \"단일종목 레버리지 ETF로 변동성 우려 커져…필요 제도 보완\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014050441"
+    },
+    {
+      "title": "몰래증여·가장매매 등 수법으로 세금탈루…국세청, 80여명 318억원 추징",
+      "url": "https://n.news.naver.com/mnews/article/009/0005703997"
+    },
+    {
+      "title": "삼성전자, 엔비디아 제치고 \"글로벌 빅테크 새 역사 썼다\"",
+      "url": "https://n.news.naver.com/mnews/article/655/0000031802"
+    },
+    {
+      "title": "\"애국기업 상폐 안돼\"… 주식 사주는 개미들",
+      "url": "https://n.news.naver.com/mnews/article/009/0005704176"
+    },
+    {
+      "title": "성능 경쟁 이겼지만 나토 결속에 눈물…韓 잠수함 세계에 알렸다",
+      "url": "https://n.news.naver.com/mnews/article/277/0005786417"
     },
     {
       "title": "최태원 매직 시작된다…\"SK하이닉스, 외국기업 역대 최대 美 ADR\"",
       "url": "https://n.news.naver.com/mnews/article/015/0005306892"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000881925"
-    },
-    {
-      "title": "구윤철 \"외환시장 24시 개장, 韓자본시장·원화 매력 높일 것\"(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016177179"
-    },
-    {
-      "title": "신한은행, 슈퍼앱과 AX 앞세워 고객기반 넓힌다",
-      "url": "https://n.news.naver.com/mnews/article/014/0005544236"
-    },
-    {
-      "title": "서울 아파트 전세보증금, 신규 계약이 갱신계약보다 8000만원 높아",
-      "url": "https://n.news.naver.com/mnews/article/366/0001176954"
-    },
-    {
-      "title": "\"노포도 문 닫는데 누가 창업을\"...사업자 증가율 '최저'",
-      "url": "https://n.news.naver.com/mnews/article/215/0001257664"
-    },
-    {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/437/0000499679"
+      "title": "한일 국민 과반 \"EU 같은 한일 경제공동체 필요\"",
+      "url": "https://n.news.naver.com/mnews/article/469/0000940897"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 8088.34,
+      "value": 8051.33,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 868.41,
+      "value": 847.07,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26121.16,
-      "change": 288.49,
-      "change_pct": 1.12
+      "value": 25818.69,
+      "change": -302.47,
+      "change_pct": -1.16
     },
     "usdkrw": {
-      "value": 1529.71,
-      "change": -12.42,
-      "change_pct": -0.81
+      "value": 1513.2,
+      "change": -17.8,
+      "change_pct": -1.16
     }
   },
   "gold": {
-    "price_usd": 4187.3,
-    "price_krw": 6405354,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4116.6,
+    "price_krw": 6229239,
+    "change": -38.5,
+    "change_pct": -0.93
   },
-  "updated": "2026-07-07 07:09",
+  "updated": "2026-07-08 07:07",
   "error": null
 }
