@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002375907"
+      "title": "춘천세무서 국세·국세외수입 체납관리단 출범",
+      "url": "https://n.news.naver.com/mnews/article/654/0000189634"
     },
     {
-      "title": "해외로 나가는 'K저가커피'… 빽다방, 새 로고 앞세워 일본 진출",
-      "url": "https://n.news.naver.com/mnews/article/015/0005307003"
+      "title": "이성훈 LH 사장, 첫 현장방문서도 '공급 속도전'...\"서리풀 착공 1년 앞당길 것\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005383149"
     },
     {
-      "title": "\"국산화율 85% 목표…무인기 심장 만들어요\"",
-      "url": "https://n.news.naver.com/mnews/article/009/0005704122"
+      "title": "기아, 송호성·송민수 ‘투톱 체제’ 전환…생산·안전 역량 강화",
+      "url": "https://n.news.naver.com/mnews/article/011/0004639534"
     },
     {
-      "title": "與한정애 \"단일종목 레버리지 ETF로 변동성 우려 커져…필요 제도 보완\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014050441"
+      "title": "“SK하이닉스 美 ADR 공모, ‘몇배’ 초과청약”",
+      "url": "https://n.news.naver.com/mnews/article/016/0002667259"
     },
     {
-      "title": "몰래증여·가장매매 등 수법으로 세금탈루…국세청, 80여명 318억원 추징",
-      "url": "https://n.news.naver.com/mnews/article/009/0005703997"
+      "title": "반도체가 끌어올린 한국 성장률…IMF, 전망치 1.9→2.6% 상향",
+      "url": "https://n.news.naver.com/mnews/article/025/0003536279"
     },
     {
-      "title": "삼성전자, 엔비디아 제치고 \"글로벌 빅테크 새 역사 썼다\"",
-      "url": "https://n.news.naver.com/mnews/article/655/0000031802"
+      "title": "與, 홈플러스 회생 위해 MBK 압박…9일 3자 회동 예고",
+      "url": "https://n.news.naver.com/mnews/article/366/0001177695"
     },
     {
-      "title": "\"애국기업 상폐 안돼\"… 주식 사주는 개미들",
-      "url": "https://n.news.naver.com/mnews/article/009/0005704176"
+      "title": "‘사회연대경제 활성화’ 60억 지원… 신한금융·행안부 업무협약 체결",
+      "url": "https://n.news.naver.com/mnews/article/022/0004141609"
     },
     {
-      "title": "성능 경쟁 이겼지만 나토 결속에 눈물…韓 잠수함 세계에 알렸다",
-      "url": "https://n.news.naver.com/mnews/article/277/0005786417"
+      "title": "[속보]코스피 5% 급락 사이드카 발동…7200선",
+      "url": "https://n.news.naver.com/mnews/article/021/0002803268"
     },
     {
-      "title": "최태원 매직 시작된다…\"SK하이닉스, 외국기업 역대 최대 美 ADR\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005306892"
+      "title": "카카오모빌리티, 르노코리아와 차세대 차량 경험 혁신 맞손",
+      "url": "https://n.news.naver.com/mnews/article/119/0003109373"
     },
     {
-      "title": "한일 국민 과반 \"EU 같은 한일 경제공동체 필요\"",
-      "url": "https://n.news.naver.com/mnews/article/469/0000940897"
+      "title": "“탈모 신소재, 하루 만에 찾아냈다”… LG AI ‘엑사원’의 능력",
+      "url": "https://n.news.naver.com/mnews/article/005/0001859849"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 8051.33,
+      "value": 7656.31,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 847.07,
+      "value": 831.23,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25818.69,
-      "change": -302.47,
-      "change_pct": -1.16
+      "value": 25870.65,
+      "change": 51.96,
+      "change_pct": 0.2
     },
     "usdkrw": {
-      "value": 1513.2,
-      "change": -17.8,
-      "change_pct": -1.16
+      "value": 1505.57,
+      "change": -23.19,
+      "change_pct": -1.52
     }
   },
   "gold": {
-    "price_usd": 4116.6,
-    "price_krw": 6229239,
-    "change": -38.5,
-    "change_pct": -0.93
+    "price_usd": 4086.6,
+    "price_krw": 6152662,
+    "change": -58.7,
+    "change_pct": -1.42
   },
-  "updated": "2026-07-08 07:07",
+  "updated": "2026-07-09 07:01",
   "error": null
 }
