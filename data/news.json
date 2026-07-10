@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "모니터 사양 따라 게임 승률이 달라진다고?···LG디스플레이 “주사율 높을수록 승률 상승”",
-      "url": "https://n.news.naver.com/mnews/article/032/0003457168"
+      "title": "'나스닥' SK하이닉스, 170달러 출발…공모가 대비 14%↑",
+      "url": "https://n.news.naver.com/mnews/article/015/0005308810"
     },
     {
-      "title": "고속도로 휴게소 운영 40년 만 대수술…직계약으로 음식값·서비스 개선",
-      "url": "https://n.news.naver.com/mnews/article/030/0003446309"
+      "title": "은행권 대출한도 축소 도미노…하반기 주담대 '보릿고개'",
+      "url": "https://n.news.naver.com/mnews/article/648/0000048791"
     },
     {
-      "title": "CU, 몽골에 점포 600개 냈다…GS25·노브랜드도 현지 확장",
-      "url": "https://n.news.naver.com/mnews/article/015/0005308028"
+      "title": "합동대응단, 코스닥 알파AI 압수수색…허위 공시로 시세 조종 혐의",
+      "url": "https://n.news.naver.com/mnews/article/003/0014059771"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000883177"
+      "title": "쿠팡은 ‘페이’, 네이버는 ‘물류’로… 서로의 아성 넘보는 이커머스 양강",
+      "url": "https://n.news.naver.com/mnews/article/023/0003986921"
     },
     {
-      "title": "“4일 만에 50% 급등” 개미들 폭풍 매수하더니…상한가 찍고 상폐 위기서 벗어난 ‘이 기업’",
-      "url": "https://n.news.naver.com/mnews/article/011/0004640071"
+      "title": "기업 성과급 '지역화폐' 지급 추진?…정점식 \"與, 급여부터 상품권으로 받길\" 등 [7/10(금) 데일리안 퇴근길 뉴스]",
+      "url": "https://n.news.naver.com/mnews/article/119/0003110249"
     },
     {
-      "title": "서울신라호텔, '라 리스트 톱 1000 호텔' 2년 연속 국내 1위",
-      "url": "https://n.news.naver.com/mnews/article/421/0009049233"
+      "title": "계속 1억 문턱에 머무는 비트코인…이더리움 0.61%↑[크립토마켓]",
+      "url": "https://n.news.naver.com/mnews/article/417/0001151079"
     },
     {
-      "title": "국민은행, 포스코와 업무협약…협력업체 특화 금융 제공",
-      "url": "https://n.news.naver.com/mnews/article/015/0005308318"
+      "title": "국토장관 \"좋은 집 더 빠르게 공급하도록 모듈러 기술 키울 것\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014059395"
     },
     {
-      "title": "“따자하오 대신 신짜오 자주 들리더니”…중국 입국자수 제친 베트남",
-      "url": "https://n.news.naver.com/mnews/article/009/0005705456"
+      "title": "SK하이닉스 미국 상장 전날 밤…뉴욕 한복판에 뜬 초대형 태극기",
+      "url": "https://n.news.naver.com/mnews/article/001/0016187895"
     },
     {
-      "title": "“‘물타기 할까’…275만원에 산 하이닉스, 목표가 235만원 갈렸다” [숫자 뒤의 진실]",
-      "url": "https://n.news.naver.com/mnews/article/022/0004141950"
+      "title": "\"딱 8개 삼전하닉 레버리지가 전세계 반도체주 흔든다\" 직격한 日언론",
+      "url": "https://n.news.naver.com/mnews/article/014/0005546577"
     },
     {
-      "title": "한은 총재 “하반기 외국인 매도세 줄어들 것…원화 강세 여지”",
-      "url": "https://n.news.naver.com/mnews/article/056/0012214889"
+      "title": "중앙일보 워크아웃 개시…'경영권 매각' 추진",
+      "url": "https://n.news.naver.com/mnews/article/215/0001258350"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 7246.79,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 785.0,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26206.89,
-      "change": 336.24,
-      "change_pct": 1.3
+      "value": 26281.61,
+      "change": 74.72,
+      "change_pct": 0.29
     },
     "usdkrw": {
-      "value": 1506.48,
-      "change": -13.38,
-      "change_pct": -0.88
+      "value": 1498.87,
+      "change": -4.48,
+      "change_pct": -0.3
     }
   },
   "gold": {
-    "price_usd": 4135.5,
-    "price_krw": 6230048,
-    "change": 64.6,
-    "change_pct": 1.59
+    "price_usd": 4128.9,
+    "price_krw": 6188684,
+    "change": -1.7,
+    "change_pct": -0.04
   },
-  "updated": "2026-07-10 07:17",
+  "updated": "2026-07-11 06:56",
   "error": null
 }
