@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "SK하이닉스, 나스닥 첫날 '13%' 날았다…\"美수요 예상보다 강해\"",
-      "url": "https://n.news.naver.com/mnews/article/215/0001258361"
+      "title": "靑, 오늘 국가재정전략회의…'미래대응기금' 청사진 제시",
+      "url": "https://n.news.naver.com/mnews/article/421/0009054964"
     },
     {
-      "title": "주유소 기름값 8주 연속 하락…전국 휘발윳값 1천893원",
-      "url": "https://n.news.naver.com/mnews/article/001/0016188488"
+      "title": "가계대출 ‘셧다운’ 분위기…5대 은행 중 3곳 연 증가 목표 초과",
+      "url": "https://n.news.naver.com/mnews/article/028/0002813708"
     },
     {
-      "title": "쿠팡, 간편결제 시장 본격 진출…'로켓페이' 하반기 출시",
-      "url": "https://n.news.naver.com/mnews/article/656/0000181237"
+      "title": "“기업이 인구회복 이끌어야”…김종훈 한미글로벌 회장 국민훈장 모란장 수훈",
+      "url": "https://n.news.naver.com/mnews/article/011/0004640672"
     },
     {
-      "title": "현대건설, ‘디에이치 방배’ 입주자 사전점검… 주거서비스 ‘H 컬처클럽’ 첫 적용",
-      "url": "https://n.news.naver.com/mnews/article/366/0001178440"
+      "title": "시장 흔든 단일종목 레버리지ETF, 대책마련 속도",
+      "url": "https://n.news.naver.com/mnews/article/008/0005384814"
     },
     {
-      "title": "스트래티지 손절은 비트코인 바닥 신호?",
-      "url": "https://n.news.naver.com/mnews/article/648/0000048814"
+      "title": "나스닥 간 SK하이닉스, 통화스와프급 달러 조달…환율 1400원대 끌어내릴까",
+      "url": "https://n.news.naver.com/mnews/article/003/0014061639"
     },
     {
-      "title": "중앙일보, 워크아웃 개시…채권단 75% 이상 동의 확보",
-      "url": "https://n.news.naver.com/mnews/article/366/0001178394"
+      "title": "현대硏 \"美 금리인상 가능성 커져…환율 불안 등 충격 대비해야\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014061726"
     },
     {
-      "title": "계엄의 밤 153분간…사람들 미친듯이 ‘이것’ 사재기했다는데 [Book]",
-      "url": "https://n.news.naver.com/mnews/article/009/0005706051"
+      "title": "우리은행·경찰 공조 확대…금융안전망 더 촘촘해진다",
+      "url": "https://n.news.naver.com/mnews/article/011/0004640698"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/437/0000500562"
+      "title": "ADR 발판 삼은 SK하이닉스…인디애나 넘어 '美 신규 팹' 가능성",
+      "url": "https://n.news.naver.com/mnews/article/008/0005384629"
     },
     {
-      "title": "작년 종부세 강남3구에서 3분의 1 내…더 센 보유세 예고",
-      "url": "https://n.news.naver.com/mnews/article/001/0016189093"
+      "title": "'주택 수' 떼고 '가액'으로?…종부세 판 뒤흔들 부동산 세제개편안 임박",
+      "url": "https://n.news.naver.com/mnews/article/666/0000114872"
     },
     {
-      "title": "하루 만에 1400억 증발…‘빚투 개미’들의 눈물",
-      "url": "https://n.news.naver.com/mnews/article/022/0004142236"
+      "title": "서울시, 소규모 정비사업 전자투표·총회 비용 최대 300만원 지원",
+      "url": "https://n.news.naver.com/mnews/article/277/0005788761"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 0.29
     },
     "usdkrw": {
-      "value": 1498.87,
-      "change": -4.48,
-      "change_pct": -0.3
+      "value": 1498.61,
+      "change": -7.3,
+      "change_pct": -0.48
     }
   },
   "gold": {
-    "price_usd": 4104.1,
-    "price_krw": 6151512,
-    "change": -26.5,
-    "change_pct": -0.64
+    "price_usd": 4113.7,
+    "price_krw": 6164832,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-07-12 06:42",
+  "updated": "2026-07-13 06:43",
   "error": null
 }
