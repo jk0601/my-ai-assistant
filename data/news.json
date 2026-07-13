@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "靑, 오늘 국가재정전략회의…'미래대응기금' 청사진 제시",
-      "url": "https://n.news.naver.com/mnews/article/421/0009054964"
+      "title": "박홍근 \"내년 세수 500조+α…청년·성장동력·지방·인재 투자\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016191705"
     },
     {
-      "title": "가계대출 ‘셧다운’ 분위기…5대 은행 중 3곳 연 증가 목표 초과",
-      "url": "https://n.news.naver.com/mnews/article/028/0002813708"
+      "title": "이찬진, 운용사에 ETF 과장광고 엄중 경고…레버리지 ETF 해법은 '빈손'",
+      "url": "https://n.news.naver.com/mnews/article/088/0001018785"
     },
     {
-      "title": "“기업이 인구회복 이끌어야”…김종훈 한미글로벌 회장 국민훈장 모란장 수훈",
-      "url": "https://n.news.naver.com/mnews/article/011/0004640672"
+      "title": "현대차 노조, 오늘부터 부분 파업…사흘간 공장 12시간 멈춘다",
+      "url": "https://n.news.naver.com/mnews/article/005/0001860605"
     },
     {
-      "title": "시장 흔든 단일종목 레버리지ETF, 대책마련 속도",
-      "url": "https://n.news.naver.com/mnews/article/008/0005384814"
+      "title": "DS증권 “SK하이닉스, ADR 상장만으로 본주 8∼18% 상승 여력”",
+      "url": "https://n.news.naver.com/mnews/article/021/0002804381"
     },
     {
-      "title": "나스닥 간 SK하이닉스, 통화스와프급 달러 조달…환율 1400원대 끌어내릴까",
-      "url": "https://n.news.naver.com/mnews/article/003/0014061639"
+      "title": "\"18억 로또 대박\"…안유진 40억 아파트 당첨에 서민들 '분통'",
+      "url": "https://n.news.naver.com/mnews/article/015/0005309313"
     },
     {
-      "title": "현대硏 \"美 금리인상 가능성 커져…환율 불안 등 충격 대비해야\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014061726"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/437/0000500843"
     },
     {
-      "title": "우리은행·경찰 공조 확대…금융안전망 더 촘촘해진다",
-      "url": "https://n.news.naver.com/mnews/article/011/0004640698"
+      "title": "코레일·SRT, 회원 통합 시작...8월 철도 통합앱 출시",
+      "url": "https://n.news.naver.com/mnews/article/014/0005547476"
     },
     {
-      "title": "ADR 발판 삼은 SK하이닉스…인디애나 넘어 '美 신규 팹' 가능성",
-      "url": "https://n.news.naver.com/mnews/article/008/0005384629"
+      "title": "삼성전자 노조 \"조합원 84%, 호남반도체 반대…노사정 협의하자\"",
+      "url": "https://n.news.naver.com/mnews/article/079/0004167736"
     },
     {
-      "title": "'주택 수' 떼고 '가액'으로?…종부세 판 뒤흔들 부동산 세제개편안 임박",
-      "url": "https://n.news.naver.com/mnews/article/666/0000114872"
+      "title": "LG전자·GS건설 \"이제 아파트는 AI비서\"",
+      "url": "https://n.news.naver.com/mnews/article/009/0005706890"
     },
     {
-      "title": "서울시, 소규모 정비사업 전자투표·총회 비용 최대 300만원 지원",
-      "url": "https://n.news.naver.com/mnews/article/277/0005788761"
+      "title": "오뚜기, 카레·케첩 등 29개 품목 가격 인상…16일부터 최대 17%↑",
+      "url": "https://n.news.naver.com/mnews/article/421/0009056930"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 7475.94,
-      "change": 184.03,
-      "change_pct": 2.52
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 837.43,
-      "change": 43.43,
-      "change_pct": 5.47
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26281.61,
-      "change": 74.72,
-      "change_pct": 0.29
+      "value": 25873.18,
+      "change": -408.43,
+      "change_pct": -1.55
     },
     "usdkrw": {
-      "value": 1498.61,
-      "change": -7.3,
-      "change_pct": -0.48
+      "value": 1497.02,
+      "change": -8.89,
+      "change_pct": -0.59
     }
   },
   "gold": {
-    "price_usd": 4113.7,
-    "price_krw": 6164832,
+    "price_usd": 4008.7,
+    "price_krw": 6001104,
     "change": 0.0,
     "change_pct": 0.0
   },
-  "updated": "2026-07-13 06:43",
+  "updated": "2026-07-14 06:51",
   "error": null
 }
