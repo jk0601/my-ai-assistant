@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "박홍근 \"내년 세수 500조+α…청년·성장동력·지방·인재 투자\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016191705"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012217407"
     },
     {
-      "title": "이찬진, 운용사에 ETF 과장광고 엄중 경고…레버리지 ETF 해법은 '빈손'",
-      "url": "https://n.news.naver.com/mnews/article/088/0001018785"
+      "title": "‘코스피 급락 주범’ 콕 찍은 골드만…“롤러코스피 지지선 6800”",
+      "url": "https://n.news.naver.com/mnews/article/025/0003537494"
     },
     {
-      "title": "현대차 노조, 오늘부터 부분 파업…사흘간 공장 12시간 멈춘다",
-      "url": "https://n.news.naver.com/mnews/article/005/0001860605"
+      "title": "개미에겐 레버리지, 외국인에겐 익절 기회?…정책 책임론 확산",
+      "url": "https://n.news.naver.com/mnews/article/422/0000884851"
     },
     {
-      "title": "DS증권 “SK하이닉스, ADR 상장만으로 본주 8∼18% 상승 여력”",
-      "url": "https://n.news.naver.com/mnews/article/021/0002804381"
+      "title": "앤 英 공주, 정기선 회장과 조선·방산 협력논의…반 세기 이어진 HD현대와의 인연",
+      "url": "https://n.news.naver.com/mnews/article/029/0003037032"
     },
     {
-      "title": "\"18억 로또 대박\"…안유진 40억 아파트 당첨에 서민들 '분통'",
-      "url": "https://n.news.naver.com/mnews/article/015/0005309313"
+      "title": "기로에 선 홈플러스, MBK-노조 면담도 불발",
+      "url": "https://n.news.naver.com/mnews/article/009/0005707478"
+    },
+    {
+      "title": "최태원 \"AI 시대, 회장도 최전선 직접 나가야…SK하이닉스 美투자 더 키운다\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014066305"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/437/0000500843"
+      "url": "https://n.news.naver.com/mnews/article/056/0012217718"
     },
     {
-      "title": "코레일·SRT, 회원 통합 시작...8월 철도 통합앱 출시",
-      "url": "https://n.news.naver.com/mnews/article/014/0005547476"
+      "title": "우리은행도 주택대출 빗장…지점별 매월 10억 제한",
+      "url": "https://n.news.naver.com/mnews/article/008/0005386014"
     },
     {
-      "title": "삼성전자 노조 \"조합원 84%, 호남반도체 반대…노사정 협의하자\"",
-      "url": "https://n.news.naver.com/mnews/article/079/0004167736"
+      "title": "삼성전자, ADR 발행 검토설에 \"검토 안해\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005789958"
     },
     {
-      "title": "LG전자·GS건설 \"이제 아파트는 AI비서\"",
-      "url": "https://n.news.naver.com/mnews/article/009/0005706890"
-    },
-    {
-      "title": "오뚜기, 카레·케첩 등 29개 품목 가격 인상…16일부터 최대 17%↑",
-      "url": "https://n.news.naver.com/mnews/article/421/0009056930"
+      "title": "기업은행, 디지털→AX그룹 재편...부행장 3인 신규 선임",
+      "url": "https://n.news.naver.com/mnews/article/011/0004641565"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 7475.94,
+      "value": 6806.93,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 837.43,
+      "value": 799.36,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25873.18,
-      "change": -408.43,
-      "change_pct": -1.55
+      "value": 26107.01,
+      "change": 233.83,
+      "change_pct": 0.9
     },
     "usdkrw": {
-      "value": 1497.02,
-      "change": -8.89,
-      "change_pct": -0.59
+      "value": 1488.23,
+      "change": -10.25,
+      "change_pct": -0.68
     }
   },
   "gold": {
-    "price_usd": 4008.7,
-    "price_krw": 6001104,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4058.3,
+    "price_krw": 6039683,
+    "change": 61.3,
+    "change_pct": 1.53
   },
-  "updated": "2026-07-14 06:51",
+  "updated": "2026-07-15 06:53",
   "error": null
 }
