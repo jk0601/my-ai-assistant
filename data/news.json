@@ -2,73 +2,73 @@
   "news": [
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012217407"
+      "url": "https://n.news.naver.com/mnews/article/215/0001258819"
     },
     {
-      "title": "‘코스피 급락 주범’ 콕 찍은 골드만…“롤러코스피 지지선 6800”",
-      "url": "https://n.news.naver.com/mnews/article/025/0003537494"
+      "title": "美 상원의원, 고려아연 '프로젝트 크루서블' 방문…\"핵심광물 공급망 강화 기대\"",
+      "url": "https://n.news.naver.com/mnews/article/031/0001042409"
     },
     {
-      "title": "개미에겐 레버리지, 외국인에겐 익절 기회?…정책 책임론 확산",
-      "url": "https://n.news.naver.com/mnews/article/422/0000884851"
+      "title": "홈플러스 회생 불씨 이어가나...MBK 2000억 긴급자금 전액 보증 밝혀",
+      "url": "https://n.news.naver.com/mnews/article/023/0003987797"
     },
     {
-      "title": "앤 英 공주, 정기선 회장과 조선·방산 협력논의…반 세기 이어진 HD현대와의 인연",
-      "url": "https://n.news.naver.com/mnews/article/029/0003037032"
+      "title": "AI가 지탱한 美경기…연준 베이지북 \"제조·건설 활기\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005386743"
     },
     {
-      "title": "기로에 선 홈플러스, MBK-노조 면담도 불발",
-      "url": "https://n.news.naver.com/mnews/article/009/0005707478"
+      "title": "\"청년 대출·이주비 풀자\" vs \"집값 자극\"...부동산 금융정책 격론",
+      "url": "https://n.news.naver.com/mnews/article/014/0005548712"
     },
     {
-      "title": "최태원 \"AI 시대, 회장도 최전선 직접 나가야…SK하이닉스 美투자 더 키운다\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014066305"
+      "title": "\"노후자금 1억 날릴 판\"…李대통령도 지적한 레버리지 ETF [분석+]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005310556"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012217718"
+      "title": "대한상의 제주포럼 개막…최태원 \"AI시대 일하는 방식 바꿔야\"(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016197209"
     },
     {
-      "title": "우리은행도 주택대출 빗장…지점별 매월 10억 제한",
-      "url": "https://n.news.naver.com/mnews/article/008/0005386014"
+      "title": "한국, AI 강국으로 대도약…한경협 제주하계포럼 개막",
+      "url": "https://n.news.naver.com/mnews/article/018/0006331036"
     },
     {
-      "title": "삼성전자, ADR 발행 검토설에 \"검토 안해\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005789958"
+      "title": "취업자 수 한달만에 반등했지만…청년 일자리는 더 줄어",
+      "url": "https://n.news.naver.com/mnews/article/011/0004641696"
     },
     {
-      "title": "기업은행, 디지털→AX그룹 재편...부행장 3인 신규 선임",
-      "url": "https://n.news.naver.com/mnews/article/011/0004641565"
+      "title": "서울 아파트값 뛰니 오피스텔 시장도 '트리플 강세'",
+      "url": "https://n.news.naver.com/mnews/article/001/0016196294"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6806.93,
+      "value": 6856.83,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 799.36,
+      "value": 783.98,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26107.01,
-      "change": 233.83,
-      "change_pct": 0.9
+      "value": 26269.23,
+      "change": 162.22,
+      "change_pct": 0.62
     },
     "usdkrw": {
-      "value": 1488.23,
-      "change": -10.25,
-      "change_pct": -0.68
+      "value": 1485.97,
+      "change": -11.73,
+      "change_pct": -0.78
     }
   },
   "gold": {
-    "price_usd": 4058.3,
-    "price_krw": 6039683,
-    "change": 61.3,
-    "change_pct": 1.53
+    "price_usd": 4066.9,
+    "price_krw": 6043291,
+    "change": 5.8,
+    "change_pct": 0.14
   },
-  "updated": "2026-07-15 06:53",
+  "updated": "2026-07-16 06:53",
   "error": null
 }
