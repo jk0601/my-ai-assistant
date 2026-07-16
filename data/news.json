@@ -1,74 +1,74 @@
 {
   "news": [
     {
+      "title": "5년 전 2%의 유혹…돌아온 '혼합형 금리 폭탄'[금리인상 후폭풍]①",
+      "url": "https://n.news.naver.com/mnews/article/421/0009064724"
+    },
+    {
+      "title": "CJ햇반·사조참치 등 가격 오른다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005310914"
+    },
+    {
+      "title": "보스턴다이나믹스, 아틀라스 '월드컵' 비하인드 공개…\"산업 현장 적용 검증\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014069986"
+    },
+    {
+      "title": "한화오션, 신안우이 해상풍력 발전 착공···“국내 해상풍력 밸류체인 구축”",
+      "url": "https://n.news.naver.com/mnews/article/021/0002805223"
+    },
+    {
+      "title": "\"종부세 가액 중심 손질 필요\" \"보유세 선진국 수준 높여야\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005790943"
+    },
+    {
+      "title": "잠실에 3.3조 돔구장·MICE 복합단지 조성…민투심 통과",
+      "url": "https://n.news.naver.com/mnews/article/008/0005387245"
+    },
+    {
+      "title": "삼성 파운드리 직원 10명 중 8명 “2년 내 이직 고려”…성과급 격차에 커지는 불만",
+      "url": "https://n.news.naver.com/mnews/article/009/0005708444"
+    },
+    {
+      "title": "신현송 \"기준금리 인상 기조 이어나갈 필요\"…추가 인상 시사",
+      "url": "https://n.news.naver.com/mnews/article/469/0000942605"
+    },
+    {
+      "title": "무섭게 추격하는 쿠팡이츠…주인 바뀐 배민, 1위 수성 '박차'(종합)",
+      "url": "https://n.news.naver.com/mnews/article/421/0009064288"
+    },
+    {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/215/0001258819"
-    },
-    {
-      "title": "美 상원의원, 고려아연 '프로젝트 크루서블' 방문…\"핵심광물 공급망 강화 기대\"",
-      "url": "https://n.news.naver.com/mnews/article/031/0001042409"
-    },
-    {
-      "title": "홈플러스 회생 불씨 이어가나...MBK 2000억 긴급자금 전액 보증 밝혀",
-      "url": "https://n.news.naver.com/mnews/article/023/0003987797"
-    },
-    {
-      "title": "AI가 지탱한 美경기…연준 베이지북 \"제조·건설 활기\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005386743"
-    },
-    {
-      "title": "\"청년 대출·이주비 풀자\" vs \"집값 자극\"...부동산 금융정책 격론",
-      "url": "https://n.news.naver.com/mnews/article/014/0005548712"
-    },
-    {
-      "title": "\"노후자금 1억 날릴 판\"…李대통령도 지적한 레버리지 ETF [분석+]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005310556"
-    },
-    {
-      "title": "대한상의 제주포럼 개막…최태원 \"AI시대 일하는 방식 바꿔야\"(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016197209"
-    },
-    {
-      "title": "한국, AI 강국으로 대도약…한경협 제주하계포럼 개막",
-      "url": "https://n.news.naver.com/mnews/article/018/0006331036"
-    },
-    {
-      "title": "취업자 수 한달만에 반등했지만…청년 일자리는 더 줄어",
-      "url": "https://n.news.naver.com/mnews/article/011/0004641696"
-    },
-    {
-      "title": "서울 아파트값 뛰니 오피스텔 시장도 '트리플 강세'",
-      "url": "https://n.news.naver.com/mnews/article/001/0016196294"
+      "url": "https://n.news.naver.com/mnews/article/422/0000885896"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6856.83,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 783.98,
+      "value": 829.43,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26269.23,
-      "change": 162.22,
-      "change_pct": 0.62
+      "value": 25881.95,
+      "change": -387.28,
+      "change_pct": -1.47
     },
     "usdkrw": {
-      "value": 1485.97,
-      "change": -11.73,
-      "change_pct": -0.78
+      "value": 1478.49,
+      "change": -9.39,
+      "change_pct": -0.63
     }
   },
   "gold": {
-    "price_usd": 4066.9,
-    "price_krw": 6043291,
-    "change": 5.8,
-    "change_pct": 0.14
+    "price_usd": 3979.9,
+    "price_krw": 5884242,
+    "change": -64.1,
+    "change_pct": -1.59
   },
-  "updated": "2026-07-16 06:53",
+  "updated": "2026-07-17 06:59",
   "error": null
 }
