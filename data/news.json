@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "5년 전 2%의 유혹…돌아온 '혼합형 금리 폭탄'[금리인상 후폭풍]①",
-      "url": "https://n.news.naver.com/mnews/article/421/0009064724"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000886083"
     },
     {
-      "title": "CJ햇반·사조참치 등 가격 오른다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005310914"
+      "title": "과학 유튜버 궤도 \"AI 시대, 판단과 검증은 결국 인간의 몫\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005549492"
     },
     {
-      "title": "보스턴다이나믹스, 아틀라스 '월드컵' 비하인드 공개…\"산업 현장 적용 검증\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014069986"
+      "title": "우버, 배달의민족 품는다",
+      "url": "https://n.news.naver.com/mnews/article/032/0003458674"
     },
     {
-      "title": "한화오션, 신안우이 해상풍력 발전 착공···“국내 해상풍력 밸류체인 구축”",
-      "url": "https://n.news.naver.com/mnews/article/021/0002805223"
+      "title": "“8월에 또 오를 수도”···긴축 고삐 죄는 한은, 다시 ‘고금리 예금’ 시대 막 오르나[경제뭔데]",
+      "url": "https://n.news.naver.com/mnews/article/032/0003458812"
     },
     {
-      "title": "\"종부세 가액 중심 손질 필요\" \"보유세 선진국 수준 높여야\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005790943"
+      "title": "TSMC 2분기 매출 58조원 사상 최대…美에 147조원 추가 투자",
+      "url": "https://n.news.naver.com/mnews/article/030/0003448618"
     },
     {
-      "title": "잠실에 3.3조 돔구장·MICE 복합단지 조성…민투심 통과",
-      "url": "https://n.news.naver.com/mnews/article/008/0005387245"
+      "title": "韓, FIT-P 가입 공식화…\"신통상 규범 논의 선점\"",
+      "url": "https://n.news.naver.com/mnews/article/374/0000522248"
     },
     {
-      "title": "삼성 파운드리 직원 10명 중 8명 “2년 내 이직 고려”…성과급 격차에 커지는 불만",
-      "url": "https://n.news.naver.com/mnews/article/009/0005708444"
+      "title": "메가프로젝트 전력 공급 ‘돛’ 달았다",
+      "url": "https://n.news.naver.com/mnews/article/032/0003458671"
     },
     {
-      "title": "신현송 \"기준금리 인상 기조 이어나갈 필요\"…추가 인상 시사",
-      "url": "https://n.news.naver.com/mnews/article/469/0000942605"
-    },
-    {
-      "title": "무섭게 추격하는 쿠팡이츠…주인 바뀐 배민, 1위 수성 '박차'(종합)",
-      "url": "https://n.news.naver.com/mnews/article/421/0009064288"
+      "title": "최태원 “하이닉스 주식, 샀다 팔았다 말고 갖고 있는 게 좋아”",
+      "url": "https://n.news.naver.com/mnews/article/022/0004143811"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000885896"
+      "url": "https://n.news.naver.com/mnews/article/055/0001373178"
+    },
+    {
+      "title": "현대차 4시간 2차 부분파업 예고…임단협 길어지나",
+      "url": "https://n.news.naver.com/mnews/article/025/0003538297"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6820.6,
+      "change": -463.81,
+      "change_pct": -6.37
     },
     "kosdaq": {
-      "value": 829.43,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 791.84,
+      "change": -37.59,
+      "change_pct": -4.53
     },
     "nasdaq": {
-      "value": 25881.95,
-      "change": -387.28,
-      "change_pct": -1.47
+      "value": 25520.24,
+      "change": -361.71,
+      "change_pct": -1.4
     },
     "usdkrw": {
-      "value": 1478.49,
-      "change": -9.39,
-      "change_pct": -0.63
+      "value": 1487.46,
+      "change": 1.26,
+      "change_pct": 0.08
     }
   },
   "gold": {
-    "price_usd": 3979.9,
-    "price_krw": 5884242,
-    "change": -64.1,
-    "change_pct": -1.59
+    "price_usd": 4023.0,
+    "price_krw": 5984051,
+    "change": 37.4,
+    "change_pct": 0.94
   },
-  "updated": "2026-07-17 06:59",
+  "updated": "2026-07-18 06:45",
   "error": null
 }
