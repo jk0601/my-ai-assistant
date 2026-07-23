@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "쿠팡CFS \"인천 물류센터 화재 피해 판매자, 재고 손실 전액 보상\"",
-      "url": "https://n.news.naver.com/mnews/article/079/0004170999"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000888313"
     },
     {
-      "title": "김정관 장관 “대미투자 1호, 8월 말~9월 발표 가능…에너지 중심 논의”",
-      "url": "https://n.news.naver.com/mnews/article/025/0003539513"
+      "title": "미래에셋컨설팅, 코빗 잔여 지분 인수…97.15%까지 확대",
+      "url": "https://n.news.naver.com/mnews/article/374/0000523242"
     },
     {
-      "title": "\"성과급으로 회사 재산 유출\" 주주단체, 삼전닉스 대표·김영훈 장관 고발",
-      "url": "https://n.news.naver.com/mnews/article/014/0005551266"
+      "title": "상반기 고꾸라진 현대차…하반기 반전카드는",
+      "url": "https://n.news.naver.com/mnews/article/648/0000049138"
     },
     {
-      "title": "1인당 가계 순자산 2억7400만원, 일본 제쳤다",
-      "url": "https://n.news.naver.com/mnews/article/374/0000523021"
+      "title": "부친 명의로 사업, 캐리어엔 현금다발···고액 체납자 은닉재산 13억원 압류",
+      "url": "https://n.news.naver.com/mnews/article/032/0003459910"
     },
     {
-      "title": "신세계백화점 AI 연구, 국제 머신러닝 학회 논문 채택",
-      "url": "https://n.news.naver.com/mnews/article/421/0009073922"
+      "title": "국내 첫 시멘트산업 상생협약, 강원특별자치도 멍석 깔았다",
+      "url": "https://n.news.naver.com/mnews/article/016/0002674099"
     },
     {
-      "title": "롯데백화점 해외 점포, K패션 해외진출 ‘특급 도우미’",
-      "url": "https://n.news.naver.com/mnews/article/025/0003539176"
+      "title": "KB·신한 상반기 실적 사상 최대…증권이 살렸다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006335761"
     },
     {
-      "title": "한국GM 노사, 파업 끝에 극적 합의…성과급 1500만원에 후속 차종 확보",
-      "url": "https://n.news.naver.com/mnews/article/016/0002673630"
+      "title": "\"SK하닉 레버리지 1.2억 투자, 7400만원 손실\"…'고수' 여경옥 셰프 인증",
+      "url": "https://n.news.naver.com/mnews/article/421/0009076248"
     },
     {
-      "title": "포스코그룹, 국내 첫 첨단제조 인큐베이팅센터 개소… “실증·양산부터 판로까지 전 주기 지원”",
-      "url": "https://n.news.naver.com/mnews/article/366/0001180906"
+      "title": "NH증권, 상반기 순이익 9652억 '역대 최대' …전년비 107.6%↑",
+      "url": "https://n.news.naver.com/mnews/article/003/0014084713"
     },
     {
-      "title": "홈플러스 \"영업 정상화 박차…인력 최소화해 비용 절감\"",
-      "url": "https://n.news.naver.com/mnews/article/079/0004170795"
+      "title": "\"잔금대출 막혔다\" 수분양자 호소에…李대통령 \"일리 있다\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005389911"
     },
     {
-      "title": "LG디스플레이, 2분기 1,077억 원 영업손실... 5년만에 상반기 흑자",
-      "url": "https://n.news.naver.com/mnews/article/469/0000943700"
+      "title": "LG엔솔, 中 EVE에너지 미국 ITC 제소..배터리 특허전 확대",
+      "url": "https://n.news.naver.com/mnews/article/008/0005389775"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6747.95,
+      "value": 6797.7,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 753.34,
+      "value": 751.09,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25690.9,
-      "change": -146.31,
-      "change_pct": -0.57
+      "value": 25137.69,
+      "change": -553.21,
+      "change_pct": -2.15
     },
     "usdkrw": {
-      "value": 1476.35,
-      "change": -3.37,
-      "change_pct": -0.23
+      "value": 1474.13,
+      "change": -1.5,
+      "change_pct": -0.1
     }
   },
   "gold": {
-    "price_usd": 4135.0,
-    "price_krw": 6104707,
-    "change": 63.9,
-    "change_pct": 1.57
+    "price_usd": 4052.3,
+    "price_krw": 5973617,
+    "change": -94.6,
+    "change_pct": -2.28
   },
-  "updated": "2026-07-23 07:00",
+  "updated": "2026-07-24 07:00",
   "error": null
 }
