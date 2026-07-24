@@ -1,74 +1,74 @@
 {
   "news": [
     {
+      "title": "트럼프 '조선업 SOS' 1년 8개월 만에 美 워싱턴에 '한미 조선협력센터' 개소",
+      "url": "https://n.news.naver.com/mnews/article/030/0003450521"
+    },
+    {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000888313"
+      "url": "https://n.news.naver.com/mnews/article/422/0000888442"
     },
     {
-      "title": "미래에셋컨설팅, 코빗 잔여 지분 인수…97.15%까지 확대",
-      "url": "https://n.news.naver.com/mnews/article/374/0000523242"
+      "title": "삼닉 레버리지 예탁금… 31일부터 3천만원 상향",
+      "url": "https://n.news.naver.com/mnews/article/009/0005711948"
     },
     {
-      "title": "상반기 고꾸라진 현대차…하반기 반전카드는",
-      "url": "https://n.news.naver.com/mnews/article/648/0000049138"
+      "title": "“생큐 코스피”… KB·신한금융 ‘실적 잭팟’",
+      "url": "https://n.news.naver.com/mnews/article/081/0003664214"
     },
     {
-      "title": "부친 명의로 사업, 캐리어엔 현금다발···고액 체납자 은닉재산 13억원 압류",
-      "url": "https://n.news.naver.com/mnews/article/032/0003459910"
+      "title": "한화오션, 美 전략수송함 공동 설계 착수… “‘마스가’ 핵심 동력될 것”",
+      "url": "https://n.news.naver.com/mnews/article/366/0001181463"
     },
     {
-      "title": "국내 첫 시멘트산업 상생협약, 강원특별자치도 멍석 깔았다",
-      "url": "https://n.news.naver.com/mnews/article/016/0002674099"
+      "title": "외인+기관 5조원 폭탄매도...코스피 '검은 금요일' 6700선 내줬다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005390604"
     },
     {
-      "title": "KB·신한 상반기 실적 사상 최대…증권이 살렸다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006335761"
+      "title": "\"건축 기금 후원부터 장학사업까지\"...현대차그룹, 탈북 청소년 학교 '여명학교' 지원",
+      "url": "https://n.news.naver.com/mnews/article/014/0005552470"
     },
     {
-      "title": "\"SK하닉 레버리지 1.2억 투자, 7400만원 손실\"…'고수' 여경옥 셰프 인증",
-      "url": "https://n.news.naver.com/mnews/article/421/0009076248"
+      "title": "최태원·젠슨 황, 미국서 만찬 회동…'AI 동맹' 재확인",
+      "url": "https://n.news.naver.com/mnews/article/215/0001259899"
     },
     {
-      "title": "NH증권, 상반기 순이익 9652억 '역대 최대' …전년비 107.6%↑",
-      "url": "https://n.news.naver.com/mnews/article/003/0014084713"
+      "title": "\"무사히 퇴점하게 해달라\"…홈플러스 점주들 호소",
+      "url": "https://n.news.naver.com/mnews/article/003/0014087168"
     },
     {
-      "title": "\"잔금대출 막혔다\" 수분양자 호소에…李대통령 \"일리 있다\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005389911"
-    },
-    {
-      "title": "LG엔솔, 中 EVE에너지 미국 ITC 제소..배터리 특허전 확대",
-      "url": "https://n.news.naver.com/mnews/article/008/0005389775"
+      "title": "네이버·두나무 합병 걸림돌 완화···규제합리화위, 특금법 개정안 개선 권고[종합]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006336578"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6797.7,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 751.09,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 25137.69,
-      "change": -553.21,
-      "change_pct": -2.15
+      "value": 24975.82,
+      "change": -161.87,
+      "change_pct": -0.64
     },
     "usdkrw": {
-      "value": 1474.13,
-      "change": -1.5,
-      "change_pct": -0.1
+      "value": 1459.42,
+      "change": -16.21,
+      "change_pct": -1.1
     }
   },
   "gold": {
-    "price_usd": 4052.3,
-    "price_krw": 5973617,
-    "change": -94.6,
-    "change_pct": -2.28
+    "price_usd": 4055.7,
+    "price_krw": 5918969,
+    "change": 9.1,
+    "change_pct": 0.22
   },
-  "updated": "2026-07-24 07:00",
+  "updated": "2026-07-25 06:59",
   "error": null
 }
