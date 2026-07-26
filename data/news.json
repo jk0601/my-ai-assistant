@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "\"국민 1인당 AI비서 하나씩\" SK 최태원, '샌프란시스코 AI 선언' 적극 뒷받침하기로",
-      "url": "https://n.news.naver.com/mnews/article/448/0000629344"
+      "title": "HD현대삼호, 美 타코마항 항만크레인 4기 수주…마스가 협력 본격화",
+      "url": "https://n.news.naver.com/mnews/article/119/0003114907"
     },
     {
-      "title": "“공제 줄이고 특례 없애야”…부동산 토론회 전날 나온 국회 ‘보유세 보고서’",
-      "url": "https://n.news.naver.com/mnews/article/009/0005712155"
+      "title": "현대차그룹, 美 실리콘밸리 혁신거점 15년…미래 인재까지 선점한다",
+      "url": "https://n.news.naver.com/mnews/article/421/0009079153"
     },
     {
-      "title": "두나무 품는 네이버 '청신호'…특금법 예외 규정 신설 권고",
-      "url": "https://n.news.naver.com/mnews/article/003/0014087114"
+      "title": "국세청장 “강남 ‘똘똘한 한채’ 장특공제 200억 넘기도…역진성 끝판왕”",
+      "url": "https://n.news.naver.com/mnews/article/081/0003664698"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000888865"
+      "title": "'아빠 찬스' 없이는 힘드나…2030 주택 보유율 27%",
+      "url": "https://n.news.naver.com/mnews/article/057/0001960425"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/214/0001513852"
+      "title": "삼전·닉스 레버리지 열풍 계속…‘예탁금 상향’ 조기시행으로 변동성 잦아들까",
+      "url": "https://n.news.naver.com/mnews/article/028/0002815777"
     },
     {
-      "title": "李대통령 \"AI 황금시대 초입\"…젠슨 황 \"SK와 5000억달러 협력\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005794422"
+      "title": "재개발·재건축 '쾌속추진'…서울시, 전 자치구 '정비사업 아카데미'",
+      "url": "https://n.news.naver.com/mnews/article/277/0005794710"
     },
     {
-      "title": "중동발 전쟁악재 반복…비트코인 6만6000달러 반납",
-      "url": "https://n.news.naver.com/mnews/article/008/0005390720"
+      "title": "고금리에 지방은행·캐피털도 건전성 ‘경고등’",
+      "url": "https://n.news.naver.com/mnews/article/011/0004645316"
     },
     {
-      "title": "美 관세 압박에 쿠팡 논란까지…워싱턴서 ‘전방위 설득전’",
-      "url": "https://n.news.naver.com/mnews/article/016/0002674903"
+      "title": "SK하이닉스, 2분기 영업익 64조원 전망…이익률 75% 넘을 수도",
+      "url": "https://n.news.naver.com/mnews/article/031/0001044852"
     },
     {
-      "title": "\"널뛰는 증시, 오히려 좋아\"…요즘 투자자들 몰린 곳 [ETF언박싱]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006336769"
+      "title": "KB국민은행, JP모간 키넥시스 활용…수출입 기업결제 서비스 출시",
+      "url": "https://n.news.naver.com/mnews/article/277/0005794610"
     },
     {
-      "title": "증시 훈풍에 금융지주 웃었다…상반기 순익 13.1조 '역대 최대'",
-      "url": "https://n.news.naver.com/mnews/article/421/0009078946"
+      "title": "현정은 현대그룹 회장 \"배움의 본질, 기술보다 사람에서 시작\"",
+      "url": "https://n.news.naver.com/mnews/article/469/0000944402"
     }
   ],
   "stocks": {
@@ -48,9 +48,9 @@
       "change_pct": -5.72
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 748.22,
+      "change": -42.06,
+      "change_pct": -5.32
     },
     "nasdaq": {
       "value": 24975.82,
@@ -58,17 +58,17 @@
       "change_pct": -0.64
     },
     "usdkrw": {
-      "value": 1462.1,
-      "change": -11.94,
-      "change_pct": -0.81
+      "value": 1459.42,
+      "change": -14.62,
+      "change_pct": -0.99
     }
   },
   "gold": {
-    "price_usd": 4067.6,
-    "price_krw": 5947238,
-    "change": 21.0,
-    "change_pct": 0.52
+    "price_usd": 4070.8,
+    "price_krw": 5941007,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-07-26 06:48",
+  "updated": "2026-07-27 06:54",
   "error": null
 }
