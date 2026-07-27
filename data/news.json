@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "HD현대삼호, 美 타코마항 항만크레인 4기 수주…마스가 협력 본격화",
-      "url": "https://n.news.naver.com/mnews/article/119/0003114907"
+      "title": "관세청, 상반기 불법 외환거래 7.2조 적발",
+      "url": "https://n.news.naver.com/mnews/article/011/0004645698"
     },
     {
-      "title": "현대차그룹, 美 실리콘밸리 혁신거점 15년…미래 인재까지 선점한다",
-      "url": "https://n.news.naver.com/mnews/article/421/0009079153"
+      "title": "소상공인 신용점수 낮아도 '매출·성장성 데이터'로 대출된다",
+      "url": "https://n.news.naver.com/mnews/article/079/0004172212"
     },
     {
-      "title": "국세청장 “강남 ‘똘똘한 한채’ 장특공제 200억 넘기도…역진성 끝판왕”",
-      "url": "https://n.news.naver.com/mnews/article/081/0003664698"
+      "title": "우리은행 손잡은 쿠팡, 원화코인 시장 도전장",
+      "url": "https://n.news.naver.com/mnews/article/015/0005314335"
     },
     {
-      "title": "'아빠 찬스' 없이는 힘드나…2030 주택 보유율 27%",
-      "url": "https://n.news.naver.com/mnews/article/057/0001960425"
+      "title": "소비자 심리 3개월 연속 개선‥\"반도체 수출 호조·임금 상승 기대\"",
+      "url": "https://n.news.naver.com/mnews/article/214/0001514242"
     },
     {
-      "title": "삼전·닉스 레버리지 열풍 계속…‘예탁금 상향’ 조기시행으로 변동성 잦아들까",
-      "url": "https://n.news.naver.com/mnews/article/028/0002815777"
+      "title": "두산에 SK실트론 지분 매각… 7개월 협상, 이르면 31일 결론",
+      "url": "https://n.news.naver.com/mnews/article/023/0003989910"
     },
     {
-      "title": "재개발·재건축 '쾌속추진'…서울시, 전 자치구 '정비사업 아카데미'",
-      "url": "https://n.news.naver.com/mnews/article/277/0005794710"
+      "title": "“최저임금 인상, 소상공인 외면한 ‘악수’…  10명중 4명은 월수익 200만원도 안돼”",
+      "url": "https://n.news.naver.com/mnews/article/021/0002807249"
     },
     {
-      "title": "고금리에 지방은행·캐피털도 건전성 ‘경고등’",
-      "url": "https://n.news.naver.com/mnews/article/011/0004645316"
+      "title": "두산에너빌리티, 중국 라이양 원전 5·6호기 핵심 단조품 수주…초대형 소재 경쟁력 재확인",
+      "url": "https://n.news.naver.com/mnews/article/014/0005553135"
     },
     {
-      "title": "SK하이닉스, 2분기 영업익 64조원 전망…이익률 75% 넘을 수도",
-      "url": "https://n.news.naver.com/mnews/article/031/0001044852"
+      "title": "국토장관 \"'김윤덕표 공급' 추진…상가·사무실 공실 활용\"(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016217681"
     },
     {
-      "title": "KB국민은행, JP모간 키넥시스 활용…수출입 기업결제 서비스 출시",
-      "url": "https://n.news.naver.com/mnews/article/277/0005794610"
+      "title": "이재용·최태원 샌프란 이어 시칠리아 구글캠프 나란히 참석",
+      "url": "https://n.news.naver.com/mnews/article/214/0001514183"
     },
     {
-      "title": "현정은 현대그룹 회장 \"배움의 본질, 기술보다 사람에서 시작\"",
-      "url": "https://n.news.naver.com/mnews/article/469/0000944402"
+      "title": "청년 차주·실수요자 집단대출 숨통 트이나",
+      "url": "https://n.news.naver.com/mnews/article/014/0005553594"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6690.62,
-      "change": -406.27,
-      "change_pct": -5.72
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 748.22,
-      "change": -42.06,
-      "change_pct": -5.32
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 24975.82,
-      "change": -161.87,
-      "change_pct": -0.64
+      "value": 24932.08,
+      "change": -43.74,
+      "change_pct": -0.18
     },
     "usdkrw": {
-      "value": 1459.42,
-      "change": -14.62,
-      "change_pct": -0.99
+      "value": 1465.79,
+      "change": -8.25,
+      "change_pct": -0.56
     }
   },
   "gold": {
-    "price_usd": 4070.8,
-    "price_krw": 5941007,
+    "price_usd": 4078.6,
+    "price_krw": 5978371,
     "change": 0.0,
     "change_pct": 0.0
   },
-  "updated": "2026-07-27 06:54",
+  "updated": "2026-07-28 07:00",
   "error": null
 }
