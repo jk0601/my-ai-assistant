@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "관세청, 상반기 불법 외환거래 7.2조 적발",
-      "url": "https://n.news.naver.com/mnews/article/011/0004645698"
+      "title": "삼전닉스 레버리지 ‘투자액 20% 한도’ 검토…금융위 “시장 안정 최우선”",
+      "url": "https://n.news.naver.com/mnews/article/028/0002816033"
     },
     {
-      "title": "소상공인 신용점수 낮아도 '매출·성장성 데이터'로 대출된다",
-      "url": "https://n.news.naver.com/mnews/article/079/0004172212"
+      "title": "한미약품, 2분기 영업익 1311억·117% 급증…기술이전 및 주력약 성장 성과",
+      "url": "https://n.news.naver.com/mnews/article/016/0002676311"
     },
     {
-      "title": "우리은행 손잡은 쿠팡, 원화코인 시장 도전장",
-      "url": "https://n.news.naver.com/mnews/article/015/0005314335"
+      "title": "금리 공포 현실화… ‘지금 싼’ 변동형 금리로 몰린다",
+      "url": "https://n.news.naver.com/mnews/article/005/0001863694"
     },
     {
-      "title": "소비자 심리 3개월 연속 개선‥\"반도체 수출 호조·임금 상승 기대\"",
-      "url": "https://n.news.naver.com/mnews/article/214/0001514242"
+      "title": "중국의 노광장비·D램 역습… 반도체 ‘차이나 리스크’ 현실화",
+      "url": "https://n.news.naver.com/mnews/article/021/0002807492"
     },
     {
-      "title": "두산에 SK실트론 지분 매각… 7개월 협상, 이르면 31일 결론",
-      "url": "https://n.news.naver.com/mnews/article/023/0003989910"
+      "title": "금융위, 저PBR 기업 공표 기준 공개…3년간 하위 25%(코스피)·10%(코스닥) 대상",
+      "url": "https://n.news.naver.com/mnews/article/016/0002676212"
     },
     {
-      "title": "“최저임금 인상, 소상공인 외면한 ‘악수’…  10명중 4명은 월수익 200만원도 안돼”",
-      "url": "https://n.news.naver.com/mnews/article/021/0002807249"
+      "title": "한화시스템, 2분기 영업익 1037억…전년비 219%↑",
+      "url": "https://n.news.naver.com/mnews/article/119/0003115786"
     },
     {
-      "title": "두산에너빌리티, 중국 라이양 원전 5·6호기 핵심 단조품 수주…초대형 소재 경쟁력 재확인",
-      "url": "https://n.news.naver.com/mnews/article/014/0005553135"
+      "title": "'검은 화요일' 코스피 10% 급락…금융위 \"진정 안 되면 레버리지 투자한도 검토\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005554107"
     },
     {
-      "title": "국토장관 \"'김윤덕표 공급' 추진…상가·사무실 공실 활용\"(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016217681"
+      "title": "'도봉산 자락' 방학동 2800가구 대단지 탈바꿈…신통기획 확정",
+      "url": "https://n.news.naver.com/mnews/article/421/0009082833"
     },
     {
-      "title": "이재용·최태원 샌프란 이어 시칠리아 구글캠프 나란히 참석",
-      "url": "https://n.news.naver.com/mnews/article/214/0001514183"
+      "title": "[단독] 대미투자 1호 프로젝트, 텍사스 가스발전소 낙점",
+      "url": "https://n.news.naver.com/mnews/article/015/0005314841"
     },
     {
-      "title": "청년 차주·실수요자 집단대출 숨통 트이나",
-      "url": "https://n.news.naver.com/mnews/article/014/0005553594"
+      "title": "비자, 직원 7% 감원…CEO \"AI가 업무 방식 바꾸고 있다\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005554230"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6690.62,
+      "value": 6755.75,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 748.22,
+      "value": 764.86,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 24932.08,
-      "change": -43.74,
-      "change_pct": -0.18
+      "value": 24876.91,
+      "change": -55.17,
+      "change_pct": -0.22
     },
     "usdkrw": {
-      "value": 1465.79,
-      "change": -8.25,
-      "change_pct": -0.56
+      "value": 1453.52,
+      "change": -4.49,
+      "change_pct": -0.31
     }
   },
   "gold": {
-    "price_usd": 4078.6,
-    "price_krw": 5978371,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4028.8,
+    "price_krw": 5855941,
+    "change": -45.7,
+    "change_pct": -1.12
   },
-  "updated": "2026-07-28 07:00",
+  "updated": "2026-07-29 06:58",
   "error": null
 }
