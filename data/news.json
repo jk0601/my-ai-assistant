@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "삼전닉스 레버리지 ‘투자액 20% 한도’ 검토…금융위 “시장 안정 최우선”",
-      "url": "https://n.news.naver.com/mnews/article/028/0002816033"
+      "title": "삼성물산, 분기 영업익 첫 1조 돌파",
+      "url": "https://n.news.naver.com/mnews/article/015/0005315319"
     },
     {
-      "title": "한미약품, 2분기 영업익 1311억·117% 급증…기술이전 및 주력약 성장 성과",
-      "url": "https://n.news.naver.com/mnews/article/016/0002676311"
+      "title": "가상자산 과세 5개월 앞인데…국회 “정부 인프라 여전히 미흡”",
+      "url": "https://n.news.naver.com/mnews/article/018/0006339295"
     },
     {
-      "title": "금리 공포 현실화… ‘지금 싼’ 변동형 금리로 몰린다",
-      "url": "https://n.news.naver.com/mnews/article/005/0001863694"
+      "title": "대출한도 줄인 국민은행, 금리도 인상…최대 0.53%P 상향",
+      "url": "https://n.news.naver.com/mnews/article/016/0002676997"
     },
     {
-      "title": "중국의 노광장비·D램 역습… 반도체 ‘차이나 리스크’ 현실화",
-      "url": "https://n.news.naver.com/mnews/article/021/0002807492"
+      "title": "토지 소유자 2000만명 돌파…국민 10명 중 4명 땅 가졌다",
+      "url": "https://n.news.naver.com/mnews/article/025/0003540880"
     },
     {
-      "title": "금융위, 저PBR 기업 공표 기준 공개…3년간 하위 25%(코스피)·10%(코스닥) 대상",
-      "url": "https://n.news.naver.com/mnews/article/016/0002676212"
+      "title": "구윤철 “실거주 1주택은 더 지원, 비거주·다주택은 합당한 부담”",
+      "url": "https://n.news.naver.com/mnews/article/028/0002816234"
     },
     {
-      "title": "한화시스템, 2분기 영업익 1037억…전년비 219%↑",
-      "url": "https://n.news.naver.com/mnews/article/119/0003115786"
+      "title": "이억원 \"대출 풀리면 부동산 불안해져…오히려 주거 사다리 멀어진다\"",
+      "url": "https://n.news.naver.com/mnews/article/374/0000524427"
     },
     {
-      "title": "'검은 화요일' 코스피 10% 급락…금융위 \"진정 안 되면 레버리지 투자한도 검토\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005554107"
+      "title": "SK하이닉스, 2분기 매출 79조·영업이익 60조‥상반기 매출 첫 100조 원 돌파",
+      "url": "https://n.news.naver.com/mnews/article/214/0001514547"
     },
     {
-      "title": "'도봉산 자락' 방학동 2800가구 대단지 탈바꿈…신통기획 확정",
-      "url": "https://n.news.naver.com/mnews/article/421/0009082833"
+      "title": "“삼전닉스 레버리지 폐지하라”…국회 앞 근조화환",
+      "url": "https://n.news.naver.com/mnews/article/020/0003737412"
     },
     {
-      "title": "[단독] 대미투자 1호 프로젝트, 텍사스 가스발전소 낙점",
-      "url": "https://n.news.naver.com/mnews/article/015/0005314841"
+      "title": "씨티 “개인 레버리지ETF 투자로 56조원 손실 추정”…고점 물린 개미들 ‘비명’",
+      "url": "https://n.news.naver.com/mnews/article/022/0004146887"
     },
     {
-      "title": "비자, 직원 7% 감원…CEO \"AI가 업무 방식 바꾸고 있다\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005554230"
+      "title": "부울경 5월 출생아, 2021년 이후 최다 기록",
+      "url": "https://n.news.naver.com/mnews/article/082/0001391758"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6755.75,
+      "value": 6023.66,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 764.86,
+      "value": 705.85,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 24876.91,
-      "change": -55.17,
-      "change_pct": -0.22
+      "value": 24442.94,
+      "change": -433.97,
+      "change_pct": -1.74
     },
     "usdkrw": {
-      "value": 1453.52,
-      "change": -4.49,
-      "change_pct": -0.31
+      "value": 1443.65,
+      "change": -20.79,
+      "change_pct": -1.42
     }
   },
   "gold": {
-    "price_usd": 4028.8,
-    "price_krw": 5855941,
-    "change": -45.7,
-    "change_pct": -1.12
+    "price_usd": 4126.0,
+    "price_krw": 5956499,
+    "change": 89.7,
+    "change_pct": 2.22
   },
-  "updated": "2026-07-29 06:58",
+  "updated": "2026-07-30 06:55",
   "error": null
 }
