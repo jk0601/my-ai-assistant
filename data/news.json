@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "삼성물산, 분기 영업익 첫 1조 돌파",
-      "url": "https://n.news.naver.com/mnews/article/015/0005315319"
+      "title": "삼전닉스 레버리지 규제 강화…\"개인 투자액 20% 이내 제한 검토\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005315410"
     },
     {
-      "title": "가상자산 과세 5개월 앞인데…국회 “정부 인프라 여전히 미흡”",
-      "url": "https://n.news.naver.com/mnews/article/018/0006339295"
+      "title": "반도체·AI주 급등…뉴욕증시 상승 마감",
+      "url": "https://n.news.naver.com/mnews/article/374/0000524756"
     },
     {
-      "title": "대출한도 줄인 국민은행, 금리도 인상…최대 0.53%P 상향",
-      "url": "https://n.news.naver.com/mnews/article/016/0002676997"
+      "title": "배재규 한투운용 대표 “단일종목 레버리지, 상폐보다는 자연 소멸 최선”",
+      "url": "https://n.news.naver.com/mnews/article/648/0000049381"
     },
     {
-      "title": "토지 소유자 2000만명 돌파…국민 10명 중 4명 땅 가졌다",
-      "url": "https://n.news.naver.com/mnews/article/025/0003540880"
+      "title": "아모레퍼시픽 2분기 영업익 53%↑…국내·외 동시 성장",
+      "url": "https://n.news.naver.com/mnews/article/417/0001153756"
     },
     {
-      "title": "구윤철 “실거주 1주택은 더 지원, 비거주·다주택은 합당한 부담”",
-      "url": "https://n.news.naver.com/mnews/article/028/0002816234"
+      "title": "배터리 3사, 2분기 일제히 흑자 전환… 캐즘 본격화 이후 처음",
+      "url": "https://n.news.naver.com/mnews/article/023/0003990578"
     },
     {
-      "title": "이억원 \"대출 풀리면 부동산 불안해져…오히려 주거 사다리 멀어진다\"",
-      "url": "https://n.news.naver.com/mnews/article/374/0000524427"
+      "title": "한은 \"프로젝트 아고라, 실제 운영 환경에서도 안정적 가동\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005797005"
     },
     {
-      "title": "SK하이닉스, 2분기 매출 79조·영업이익 60조‥상반기 매출 첫 100조 원 돌파",
-      "url": "https://n.news.naver.com/mnews/article/214/0001514547"
+      "title": "美 연준 매파적 동결…한은, 기준금리 인상 속도 내나",
+      "url": "https://n.news.naver.com/mnews/article/001/0016223059"
     },
     {
-      "title": "“삼전닉스 레버리지 폐지하라”…국회 앞 근조화환",
-      "url": "https://n.news.naver.com/mnews/article/020/0003737412"
+      "title": "포스코DX, 2분기 영업이익 42% 감소…전분기 대비는 170% 반등",
+      "url": "https://n.news.naver.com/mnews/article/009/0005714388"
     },
     {
-      "title": "씨티 “개인 레버리지ETF 투자로 56조원 손실 추정”…고점 물린 개미들 ‘비명’",
-      "url": "https://n.news.naver.com/mnews/article/022/0004146887"
+      "title": "LG디스플레이, '국민성장펀드' 지원 기업 선정…3조원 규모 투자 속도",
+      "url": "https://n.news.naver.com/mnews/article/092/0002432576"
     },
     {
-      "title": "부울경 5월 출생아, 2021년 이후 최다 기록",
-      "url": "https://n.news.naver.com/mnews/article/082/0001391758"
+      "title": "삼성전자, 2Q 영업익 89.5조 '역대 최대'...DX는 사상 첫 적자",
+      "url": "https://n.news.naver.com/mnews/article/092/0002432459"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6023.66,
+      "value": 5663.24,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 705.85,
+      "value": 662.68,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 24442.94,
-      "change": -433.97,
-      "change_pct": -1.74
+      "value": 25122.18,
+      "change": 679.24,
+      "change_pct": 2.78
     },
     "usdkrw": {
-      "value": 1443.65,
-      "change": -20.79,
-      "change_pct": -1.42
+      "value": 1422.4,
+      "change": -30.76,
+      "change_pct": -2.12
     }
   },
   "gold": {
-    "price_usd": 4126.0,
-    "price_krw": 5956499,
-    "change": 89.7,
-    "change_pct": 2.22
+    "price_usd": 4162.8,
+    "price_krw": 5921166,
+    "change": 128.1,
+    "change_pct": 3.17
   },
-  "updated": "2026-07-30 06:55",
+  "updated": "2026-07-31 07:04",
   "error": null
 }
