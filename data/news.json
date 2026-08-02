@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "'집값 상승' 전망에 주담대 2조 넘게 쑥…'빚투' 신용대출도 1.4조↑",
-      "url": "https://n.news.naver.com/mnews/article/003/0014102720"
+      "title": "KTX·SRT 통합앱 '코레일+' 3일 출시…기존 앱도 당분간 유지",
+      "url": "https://n.news.naver.com/mnews/article/001/0016228823"
     },
     {
-      "title": "가뭄 장기화에 농업용수 비상…정부, 남부지역 21억원 긴급 추가 지원",
-      "url": "https://n.news.naver.com/mnews/article/018/0006341922"
+      "title": "산업부, 중동전쟁 긴급 점검 “호르무즈·홍해 동시 차질도 대비”",
+      "url": "https://n.news.naver.com/mnews/article/056/0012229744"
     },
     {
-      "title": "해수부 부산 신청사 부지 경쟁 4파전…내달 7일 발표",
-      "url": "https://n.news.naver.com/mnews/article/277/0005797493"
+      "title": "하나금융, 청라 이전 기념 관계사 캠페인…금리우대 쿠폰 등 지급",
+      "url": "https://n.news.naver.com/mnews/article/422/0000891544"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012229602"
+      "title": "“금융당국, ‘단일종목 레버리지 배율 하향’ 긴급조치권 추진”",
+      "url": "https://n.news.naver.com/mnews/article/449/0000355224"
     },
     {
-      "title": "최태원·노태문, 나란히 자사주 매입..삼전닉스 \"책임경영 의지\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005555777"
+      "title": "\"유럽서 먼저 알아줬다\"...LG전자 '히트펌프' 제주 1위 사업자 선정",
+      "url": "https://n.news.naver.com/mnews/article/014/0005555926"
     },
     {
-      "title": "금융위, ‘개인정보 유출’ 롯데카드에 1.5개월 업무정지",
-      "url": "https://n.news.naver.com/mnews/article/029/0003040052"
+      "title": "정의선, 튀르키예공장서 아이오닉3 점검…유럽공략 전략 논의",
+      "url": "https://n.news.naver.com/mnews/article/001/0016228776"
     },
     {
-      "title": "\"SK하닉이 상한가 칠줄 알았나\" 10조 털린 개미들, 외국인이 8.7조 쓸어담아",
-      "url": "https://n.news.naver.com/mnews/article/014/0005555801"
+      "title": "5월 서울 고가 아파트 거래 급증… 양도세 중과 전 급매 던졌나",
+      "url": "https://n.news.naver.com/mnews/article/081/0003666831"
     },
     {
-      "title": "“삼전 HBM, 내년 SK하닉 추월”… 역전 시기 당겨졌다",
-      "url": "https://n.news.naver.com/mnews/article/029/0003040085"
+      "title": "“젠슨 황, 되레 거품 키운다”…韓증시 ‘투기 실험장’ 비꼰 외신",
+      "url": "https://n.news.naver.com/mnews/article/025/0003541767"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012229561"
+      "title": "베트남 산업도시로 간 롯데마트…17호점 '박장점' 개점",
+      "url": "https://n.news.naver.com/mnews/article/030/0003453300"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/437/0000504037"
+      "title": "보일러 대신 '이것'…친환경 난방으로 親에너지 전환 수요 노린다",
+      "url": "https://n.news.naver.com/mnews/hotissue/article/008/0005394533?type=series&cid=2001085"
     }
   ],
   "stocks": {
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 4049.1,
-    "price_krw": 5816937,
-    "change": -51.0,
-    "change_pct": -1.24
+    "price_usd": 4107.0,
+    "price_krw": 5900116,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-08-02 06:48",
+  "updated": "2026-08-03 06:50",
   "error": null
 }
