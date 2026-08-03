@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "KTX·SRT 통합앱 '코레일+' 3일 출시…기존 앱도 당분간 유지",
-      "url": "https://n.news.naver.com/mnews/article/001/0016228823"
+      "title": "시가 40억원 아파트, 종부세 ‘실거주 325만원·비거주 1114만원’…매물 출회 늘까[2026 세제개편]",
+      "url": "https://n.news.naver.com/mnews/article/277/0005798267"
     },
     {
-      "title": "산업부, 중동전쟁 긴급 점검 “호르무즈·홍해 동시 차질도 대비”",
-      "url": "https://n.news.naver.com/mnews/article/056/0012229744"
+      "title": "신세계그룹, 프리즈서울 해드라인 파트너 참여…정용진 “리테일·예술 결합”",
+      "url": "https://n.news.naver.com/mnews/article/009/0005715732"
     },
     {
-      "title": "하나금융, 청라 이전 기념 관계사 캠페인…금리우대 쿠폰 등 지급",
-      "url": "https://n.news.naver.com/mnews/article/422/0000891544"
+      "title": "‘PBR 하위 기업’ 주식 재평가… 주가 누르기 뒤 상속·증여 차단 [2026 세제 개편안]",
+      "url": "https://n.news.naver.com/mnews/article/022/0004148075"
     },
     {
-      "title": "“금융당국, ‘단일종목 레버리지 배율 하향’ 긴급조치권 추진”",
-      "url": "https://n.news.naver.com/mnews/article/449/0000355224"
+      "title": "현대차·기아, 7월 美 판매량 16만5284대…역대 최대",
+      "url": "https://n.news.naver.com/mnews/article/277/0005797918"
     },
     {
-      "title": "\"유럽서 먼저 알아줬다\"...LG전자 '히트펌프' 제주 1위 사업자 선정",
-      "url": "https://n.news.naver.com/mnews/article/014/0005555926"
+      "title": "코스피, 5% 내린 6200선 마감…코스닥은 2% 올랐다",
+      "url": "https://n.news.naver.com/mnews/article/277/0005798198"
     },
     {
-      "title": "정의선, 튀르키예공장서 아이오닉3 점검…유럽공략 전략 논의",
-      "url": "https://n.news.naver.com/mnews/article/001/0016228776"
+      "title": "상반기 기업 직접금융 조달 15% 감소…CP·단기사채 68%↑",
+      "url": "https://n.news.naver.com/mnews/article/015/0005316981"
     },
     {
-      "title": "5월 서울 고가 아파트 거래 급증… 양도세 중과 전 급매 던졌나",
-      "url": "https://n.news.naver.com/mnews/article/081/0003666831"
+      "title": "모건스탠리, 코스피 '비중 확대'로 상향…\"'구천피' 간다\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005316748"
     },
     {
-      "title": "“젠슨 황, 되레 거품 키운다”…韓증시 ‘투기 실험장’ 비꼰 외신",
-      "url": "https://n.news.naver.com/mnews/article/025/0003541767"
+      "title": "'예탁금 3천만' 이틀만에 단일레버리지 거래대금 10분의 1로 축소",
+      "url": "https://n.news.naver.com/mnews/article/374/0000525322"
     },
     {
-      "title": "베트남 산업도시로 간 롯데마트…17호점 '박장점' 개점",
-      "url": "https://n.news.naver.com/mnews/article/030/0003453300"
+      "title": "국내서 만들고 팔면 稅 혜택·지방투자 공제도 1.5배…잠재성장률 띄운다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006343337"
     },
     {
-      "title": "보일러 대신 '이것'…친환경 난방으로 親에너지 전환 수요 노린다",
-      "url": "https://n.news.naver.com/mnews/hotissue/article/008/0005394533?type=series&cid=2001085"
+      "title": "점주 10% 뭉치면 가맹본부와 교섭",
+      "url": "https://n.news.naver.com/mnews/article/015/0005316880"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6595.45,
-      "change": 1001.89,
-      "change_pct": 17.91
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 719.76,
-      "change": 74.98,
-      "change_pct": 11.63
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25373.85,
-      "change": 251.67,
-      "change_pct": 1.0
+      "value": 25913.9,
+      "change": 540.05,
+      "change_pct": 2.13
     },
     "usdkrw": {
-      "value": 1436.6,
-      "change": 16.0,
-      "change_pct": 1.13
+      "value": 1428.73,
+      "change": -6.97,
+      "change_pct": -0.49
     }
   },
   "gold": {
-    "price_usd": 4107.0,
-    "price_krw": 5900116,
+    "price_usd": 4110.9,
+    "price_krw": 5873366,
     "change": 0.0,
     "change_pct": 0.0
   },
-  "updated": "2026-08-03 06:50",
+  "updated": "2026-08-04 07:02",
   "error": null
 }
