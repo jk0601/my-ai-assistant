@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "시가 40억원 아파트, 종부세 ‘실거주 325만원·비거주 1114만원’…매물 출회 늘까[2026 세제개편]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005798267"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/374/0000525530"
     },
     {
-      "title": "신세계그룹, 프리즈서울 해드라인 파트너 참여…정용진 “리테일·예술 결합”",
-      "url": "https://n.news.naver.com/mnews/article/009/0005715732"
+      "title": "셀트리온제약, 2분기 영업이익 193억원…분기 최대 실적",
+      "url": "https://n.news.naver.com/mnews/article/001/0016233435"
     },
     {
-      "title": "‘PBR 하위 기업’ 주식 재평가… 주가 누르기 뒤 상속·증여 차단 [2026 세제 개편안]",
-      "url": "https://n.news.naver.com/mnews/article/022/0004148075"
+      "title": "코스닥 5% 급등에 3일 연속 '매수 사이드카' 발동‥올 들어 17번째",
+      "url": "https://n.news.naver.com/mnews/article/214/0001515766"
     },
     {
-      "title": "현대차·기아, 7월 美 판매량 16만5284대…역대 최대",
-      "url": "https://n.news.naver.com/mnews/article/277/0005797918"
+      "title": "쿠팡 “국세청 3천억 과세 불복”...인천 화재 손실 3분기 반영",
+      "url": "https://n.news.naver.com/mnews/article/009/0005716702"
     },
     {
-      "title": "코스피, 5% 내린 6200선 마감…코스닥은 2% 올랐다",
-      "url": "https://n.news.naver.com/mnews/article/277/0005798198"
+      "title": "단일종목 레버리지 예탁금 상향 이튿날, 16종 거래대금 시행 직전의 1/10 수준",
+      "url": "https://n.news.naver.com/mnews/article/214/0001515628"
     },
     {
-      "title": "상반기 기업 직접금융 조달 15% 감소…CP·단기사채 68%↑",
-      "url": "https://n.news.naver.com/mnews/article/015/0005316981"
+      "title": "인천공항, 6.9兆 '우즈벡 신공항' 품었다…창립 이래 '최대 규모' 수주",
+      "url": "https://n.news.naver.com/mnews/article/014/0005556898"
     },
     {
-      "title": "모건스탠리, 코스피 '비중 확대'로 상향…\"'구천피' 간다\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005316748"
+      "title": "'주가 누르기' 방지 할증 과세에 \"억울한 기업 속출 가능성… 보완 필요\"",
+      "url": "https://n.news.naver.com/mnews/article/469/0000946263"
     },
     {
-      "title": "'예탁금 3천만' 이틀만에 단일레버리지 거래대금 10분의 1로 축소",
-      "url": "https://n.news.naver.com/mnews/article/374/0000525322"
+      "title": "산업부 \"올해 호남 클러스터 사업자·후보지 결정\" 업무보고",
+      "url": "https://n.news.naver.com/mnews/article/214/0001515832"
     },
     {
-      "title": "국내서 만들고 팔면 稅 혜택·지방투자 공제도 1.5배…잠재성장률 띄운다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006343337"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002388693"
     },
     {
-      "title": "점주 10% 뭉치면 가맹본부와 교섭",
-      "url": "https://n.news.naver.com/mnews/article/015/0005316880"
+      "title": "소비자물가 둔화·근원물가는 상승…채권시장 금리 전망은(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016232810"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6595.45,
+      "value": 6257.45,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 719.76,
+      "value": 737.35,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25913.9,
-      "change": 540.05,
-      "change_pct": 2.13
+      "value": 26584.99,
+      "change": 671.09,
+      "change_pct": 2.59
     },
     "usdkrw": {
-      "value": 1428.73,
-      "change": -6.97,
-      "change_pct": -0.49
+      "value": 1429.28,
+      "change": -6.42,
+      "change_pct": -0.45
     }
   },
   "gold": {
-    "price_usd": 4110.9,
-    "price_krw": 5873366,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4134.2,
+    "price_krw": 5908929,
+    "change": 100.5,
+    "change_pct": 2.49
   },
-  "updated": "2026-08-04 07:02",
+  "updated": "2026-08-05 07:06",
   "error": null
 }
