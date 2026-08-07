@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "\"방한객 수보다 체류기간·지출 늘려야\" 한은의 제언",
-      "url": "https://n.news.naver.com/mnews/article/215/0001261265"
+      "title": "김정관 \"52시간 손봐야 중국과 경쟁\" 작심발언",
+      "url": "https://n.news.naver.com/mnews/article/015/0005318202"
     },
     {
-      "title": "\"전력망 확충 더는 못 미룬다\"... 김성환, 반대 주민과 3번째 직접 대화",
-      "url": "https://n.news.naver.com/mnews/article/047/0002524681"
+      "title": "중고차 '숨은 수수료' 없앤다…총액 표시 의무화·하자보증 강화",
+      "url": "https://n.news.naver.com/mnews/article/421/0009100418"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000892798"
+      "title": "레버리지 '풍선효과'?…단일종목 막히자 지수로 몰렸다",
+      "url": "https://n.news.naver.com/mnews/article/119/0003119152"
     },
     {
-      "title": "코스피 3.76% 상승 6,600 턱밑서 마감‥코스닥 나흘째 상승",
-      "url": "https://n.news.naver.com/mnews/article/214/0001516087"
+      "title": "현대백화점·콘진원, 국내 패션 브랜드 해외 진출에 '맞손'",
+      "url": "https://n.news.naver.com/mnews/article/001/0016238597"
     },
     {
-      "title": "HD현대 첨단기술 품는 美방산조선소… 美군함 한국건조 ‘마스가’ 순풍 타나",
-      "url": "https://n.news.naver.com/mnews/article/081/0003668022"
+      "title": "포스코퓨처엠, 국내 배터리사 뚫었다…첫 LFP 양극재 공급",
+      "url": "https://n.news.naver.com/mnews/article/374/0000526088"
     },
     {
-      "title": "AI 가속기 위에 쌓는다...삼성전자, zHBM 공개 \"최대 8배 높은 성능\"",
-      "url": "https://n.news.naver.com/mnews/article/437/0000504646"
+      "title": "외국인 핫스팟 뜨더니…롯데쇼핑, 2분기 영업이익 121.2% 증가",
+      "url": "https://n.news.naver.com/mnews/article/015/0005318340"
     },
     {
-      "title": "“아반떼만 믿고 있는데”…현대차, 파업이 또 발목잡나",
-      "url": "https://n.news.naver.com/mnews/article/018/0006345224"
+      "title": "반도체 수출 196%↑… 3% 성장률 기대 - K자 양극화 우려 ‘공존’",
+      "url": "https://n.news.naver.com/mnews/article/021/0002809635"
     },
     {
-      "title": "우본·산은, 1조 규모 ‘AI 인프라 펀드’ 공동 출자",
-      "url": "https://n.news.naver.com/mnews/article/011/0004648859"
+      "title": "코스피, 외국인 '사자'에 1.32% 상승…6300선 회복",
+      "url": "https://n.news.naver.com/mnews/article/018/0006346671"
     },
     {
-      "title": "스페이스X 첫 실적서 매출 92% 급증… 머스크, 1조달러 목표 제시",
-      "url": "https://n.news.naver.com/mnews/article/366/0001184511"
+      "title": "다이먼 \"레버리지 사상 최고…누군가 시장 흔들 위험\"",
+      "url": "https://n.news.naver.com/mnews/article/055/0001378820"
     },
     {
-      "title": "과징금에 발목 잡힌 쿠팡…매출 13조 찍고도 적자",
-      "url": "https://n.news.naver.com/mnews/article/018/0006344719"
+      "title": "반도체 호황에도 고용 뚝…'K자 성장' 현실화",
+      "url": "https://n.news.naver.com/mnews/article/018/0006346314"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6358.95,
+      "value": 6291.85,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 780.72,
+      "value": 803.23,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26363.44,
-      "change": -221.55,
-      "change_pct": -0.83
+      "value": 26348.35,
+      "change": -15.09,
+      "change_pct": -0.06
     },
     "usdkrw": {
-      "value": 1421.99,
-      "change": -6.51,
-      "change_pct": -0.46
+      "value": 1420.58,
+      "change": -0.58,
+      "change_pct": -0.04
     }
   },
   "gold": {
-    "price_usd": 4308.0,
-    "price_krw": 6125932,
-    "change": 212.6,
-    "change_pct": 5.19
+    "price_usd": 4289.5,
+    "price_krw": 6093577,
+    "change": 43.7,
+    "change_pct": 1.03
   },
-  "updated": "2026-08-06 07:07",
+  "updated": "2026-08-07 10:00",
   "error": null
 }
