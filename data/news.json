@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "김정관 \"52시간 손봐야 중국과 경쟁\" 작심발언",
-      "url": "https://n.news.naver.com/mnews/article/015/0005318202"
+      "title": "SK하이닉스, 용인·청주에 54조 투자 확정",
+      "url": "https://n.news.naver.com/mnews/article/015/0005318545"
     },
     {
-      "title": "중고차 '숨은 수수료' 없앤다…총액 표시 의무화·하자보증 강화",
-      "url": "https://n.news.naver.com/mnews/article/421/0009100418"
+      "title": "이언주 “미장 무조건 떠나라? 강압적 행정…ISA개편안 원점 재검토해야”",
+      "url": "https://n.news.naver.com/mnews/article/009/0005717866"
     },
     {
-      "title": "레버리지 '풍선효과'?…단일종목 막히자 지수로 몰렸다",
-      "url": "https://n.news.naver.com/mnews/article/119/0003119152"
+      "title": "홈플러스, 67개 점포 가오픈… 13일 정식 개장 [뉴시스Pic]",
+      "url": "https://n.news.naver.com/mnews/article/003/0014114583"
     },
     {
-      "title": "현대백화점·콘진원, 국내 패션 브랜드 해외 진출에 '맞손'",
-      "url": "https://n.news.naver.com/mnews/article/001/0016238597"
+      "title": "부동산 공급 대책에 뜨거운 감자된 ‘용산공원’… 시민들은 “녹지 지켜야”[르포]",
+      "url": "https://n.news.naver.com/mnews/article/366/0001185013"
     },
     {
-      "title": "포스코퓨처엠, 국내 배터리사 뚫었다…첫 LFP 양극재 공급",
-      "url": "https://n.news.naver.com/mnews/article/374/0000526088"
+      "title": "포스코, 인터·DX 지분 일부 매각",
+      "url": "https://n.news.naver.com/mnews/article/015/0005318628"
     },
     {
-      "title": "외국인 핫스팟 뜨더니…롯데쇼핑, 2분기 영업이익 121.2% 증가",
-      "url": "https://n.news.naver.com/mnews/article/015/0005318340"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/055/0001378857"
     },
     {
-      "title": "반도체 수출 196%↑… 3% 성장률 기대 - K자 양극화 우려 ‘공존’",
-      "url": "https://n.news.naver.com/mnews/article/021/0002809635"
+      "title": "KDB생명 본입찰, 한화·흥국·한투 3파전…삼성·교보 '불참'",
+      "url": "https://n.news.naver.com/mnews/article/277/0005800403"
     },
     {
-      "title": "코스피, 외국인 '사자'에 1.32% 상승…6300선 회복",
-      "url": "https://n.news.naver.com/mnews/article/018/0006346671"
+      "title": "SK하이닉스, 주당 375원 분기배당…3분기 추가 주주환원책 발표",
+      "url": "https://n.news.naver.com/mnews/article/022/0004149243"
     },
     {
-      "title": "다이먼 \"레버리지 사상 최고…누군가 시장 흔들 위험\"",
-      "url": "https://n.news.naver.com/mnews/article/055/0001378820"
+      "title": "엔비디아도 인정했다…\"미래 AI 승부처는 '메모리 지휘' 능력\"",
+      "url": "https://n.news.naver.com/mnews/article/469/0000946796"
     },
     {
-      "title": "반도체 호황에도 고용 뚝…'K자 성장' 현실화",
-      "url": "https://n.news.naver.com/mnews/article/018/0006346314"
+      "title": "11주에 SK하닉 '하한가' 직행…프리마켓 상·하한가 주문, 한달간 금지",
+      "url": "https://n.news.naver.com/mnews/article/008/0005397107"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6291.85,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 803.23,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26348.35,
-      "change": -15.09,
-      "change_pct": -0.06
+      "value": 26690.62,
+      "change": 342.27,
+      "change_pct": 1.3
     },
     "usdkrw": {
-      "value": 1420.58,
-      "change": -0.58,
-      "change_pct": -0.04
+      "value": 1407.45,
+      "change": -13.71,
+      "change_pct": -0.96
     }
   },
   "gold": {
-    "price_usd": 4289.5,
-    "price_krw": 6093577,
-    "change": 43.7,
-    "change_pct": 1.03
+    "price_usd": 4401.3,
+    "price_krw": 6194609,
+    "change": 159.3,
+    "change_pct": 3.76
   },
-  "updated": "2026-08-07 10:00",
+  "updated": "2026-08-08 06:33",
   "error": null
 }
