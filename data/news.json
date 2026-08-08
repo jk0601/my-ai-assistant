@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "SK하이닉스, 용인·청주에 54조 투자 확정",
-      "url": "https://n.news.naver.com/mnews/article/015/0005318545"
+      "title": "농협, 폭염·가뭄 지원 확대…재해자금 3천억 긴급 지원",
+      "url": "https://n.news.naver.com/mnews/article/001/0016239783"
     },
     {
-      "title": "이언주 “미장 무조건 떠나라? 강압적 행정…ISA개편안 원점 재검토해야”",
-      "url": "https://n.news.naver.com/mnews/article/009/0005717866"
+      "title": "삼성은 쌓고 SK는 잇고…'포스트 HBM' 주도권 누가 잡을까[비즈토크<상>]",
+      "url": "https://n.news.naver.com/mnews/article/629/0000522828"
     },
     {
-      "title": "홈플러스, 67개 점포 가오픈… 13일 정식 개장 [뉴시스Pic]",
-      "url": "https://n.news.naver.com/mnews/article/003/0014114583"
+      "title": "주유소 기름값 12주 연속 하락…휘발유·경유 1800원대",
+      "url": "https://n.news.naver.com/mnews/article/119/0003119643"
     },
     {
-      "title": "부동산 공급 대책에 뜨거운 감자된 ‘용산공원’… 시민들은 “녹지 지켜야”[르포]",
-      "url": "https://n.news.naver.com/mnews/article/366/0001185013"
+      "title": "구윤철 “非거주 1주택 예외규정 더 풀 수도”…세제개편 발표 4일만에 완화 시사[Pick코노미]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004649787"
     },
     {
-      "title": "포스코, 인터·DX 지분 일부 매각",
-      "url": "https://n.news.naver.com/mnews/article/015/0005318628"
+      "title": "주주환원 외치고 7% 오른 마이크론…말 아끼고 17% 깎인 하이닉스",
+      "url": "https://n.news.naver.com/mnews/article/009/0005718230"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001378857"
+      "title": "개별 기술주 사들이는 서학개미…아마존·마이크론에 베팅",
+      "url": "https://n.news.naver.com/mnews/article/011/0004649821"
     },
     {
-      "title": "KDB생명 본입찰, 한화·흥국·한투 3파전…삼성·교보 '불참'",
-      "url": "https://n.news.naver.com/mnews/article/277/0005800403"
+      "title": "블룸버그 \"SK하이닉스, 中충칭 패키징공장 지분매각 검토\"",
+      "url": "https://n.news.naver.com/mnews/article/374/0000526345"
     },
     {
-      "title": "SK하이닉스, 주당 375원 분기배당…3분기 추가 주주환원책 발표",
-      "url": "https://n.news.naver.com/mnews/article/022/0004149243"
+      "title": "‘말 많은’ 생산적 금융 ISA 전면 재검토하나…이 대통령, 개편안 질타",
+      "url": "https://n.news.naver.com/mnews/article/009/0005718222"
     },
     {
-      "title": "엔비디아도 인정했다…\"미래 AI 승부처는 '메모리 지휘' 능력\"",
-      "url": "https://n.news.naver.com/mnews/article/469/0000946796"
+      "title": "HBM 부족에 엔비디아도 사양 조정…'루빈 울트라' 메모리 축소 검토",
+      "url": "https://n.news.naver.com/mnews/article/031/0001048178"
     },
     {
-      "title": "11주에 SK하닉 '하한가' 직행…프리마켓 상·하한가 주문, 한달간 금지",
-      "url": "https://n.news.naver.com/mnews/article/008/0005397107"
+      "title": "美 “폴리실리콘 쓴 제품 15% 관세” 中저가공세 차단",
+      "url": "https://n.news.naver.com/mnews/article/020/0003739437"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6258.77,
+      "change": -37.61,
+      "change_pct": -0.6
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 798.81,
+      "change": -2.86,
+      "change_pct": -0.36
     },
     "nasdaq": {
       "value": 26690.62,
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 4401.3,
-    "price_krw": 6194609,
-    "change": 159.3,
-    "change_pct": 3.76
+    "price_usd": 4340.7,
+    "price_krw": 6109318,
+    "change": 98.7,
+    "change_pct": 2.33
   },
-  "updated": "2026-08-08 06:33",
+  "updated": "2026-08-09 06:23",
   "error": null
 }
