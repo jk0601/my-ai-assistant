@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "농협, 폭염·가뭄 지원 확대…재해자금 3천억 긴급 지원",
-      "url": "https://n.news.naver.com/mnews/article/001/0016239783"
+      "title": "신현송이 지목한 성장·물가 나왔다…금리 인상 시점은",
+      "url": "https://n.news.naver.com/mnews/article/003/0014115986"
     },
     {
-      "title": "삼성은 쌓고 SK는 잇고…'포스트 HBM' 주도권 누가 잡을까[비즈토크<상>]",
-      "url": "https://n.news.naver.com/mnews/article/629/0000522828"
+      "title": "‘로맨스 스캠·대리구매 사기’ 계좌 5000건 거래정지…FIU, 신종피싱 조기 차단",
+      "url": "https://n.news.naver.com/mnews/article/029/0003041379"
     },
     {
-      "title": "주유소 기름값 12주 연속 하락…휘발유·경유 1800원대",
-      "url": "https://n.news.naver.com/mnews/article/119/0003119643"
+      "title": "신혼부부 보금자리론 소득계산법 바꾼다...중위소득 연계도 검토",
+      "url": "https://n.news.naver.com/mnews/article/011/0004649988"
     },
     {
-      "title": "구윤철 “非거주 1주택 예외규정 더 풀 수도”…세제개편 발표 4일만에 완화 시사[Pick코노미]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004649787"
+      "title": "모처럼 북적인 홈플 매장… 신선식품 등 빈 매대도",
+      "url": "https://n.news.naver.com/mnews/article/014/0005559052"
     },
     {
-      "title": "주주환원 외치고 7% 오른 마이크론…말 아끼고 17% 깎인 하이닉스",
-      "url": "https://n.news.naver.com/mnews/article/009/0005718230"
+      "title": "[단독] 강남권 그린벨트 풀어 2만가구 공급",
+      "url": "https://n.news.naver.com/mnews/article/009/0005718588"
     },
     {
-      "title": "개별 기술주 사들이는 서학개미…아마존·마이크론에 베팅",
-      "url": "https://n.news.naver.com/mnews/article/011/0004649821"
+      "title": "24만개 레일 위로, AI 장보기 로봇 '씽씽'",
+      "url": "https://n.news.naver.com/mnews/article/008/0005397490"
     },
     {
-      "title": "블룸버그 \"SK하이닉스, 中충칭 패키징공장 지분매각 검토\"",
-      "url": "https://n.news.naver.com/mnews/article/374/0000526345"
+      "title": "\"무서운 경고 그 애널리스트 아냐?\"…삼전닉스 놀라운 '뷰' 보니",
+      "url": "https://n.news.naver.com/mnews/article/215/0001261710"
     },
     {
-      "title": "‘말 많은’ 생산적 금융 ISA 전면 재검토하나…이 대통령, 개편안 질타",
-      "url": "https://n.news.naver.com/mnews/article/009/0005718222"
+      "title": "“주식 못 믿겠다”…35조 뭉칫돈 은행으로 ‘역머니무브’ [머니뭐니]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002681285"
     },
     {
-      "title": "HBM 부족에 엔비디아도 사양 조정…'루빈 울트라' 메모리 축소 검토",
-      "url": "https://n.news.naver.com/mnews/article/031/0001048178"
+      "title": "정부, ISA·주가 누르기 방지법 재검토…李 대통령 지시 후속",
+      "url": "https://n.news.naver.com/mnews/article/421/0009104652"
     },
     {
-      "title": "美 “폴리실리콘 쓴 제품 15% 관세” 中저가공세 차단",
-      "url": "https://n.news.naver.com/mnews/article/020/0003739437"
+      "title": "‘빚투 후폭풍’… 청년·고령층 대출 연체율 ‘적신호’",
+      "url": "https://n.news.naver.com/mnews/article/082/0001393145"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 1.3
     },
     "usdkrw": {
-      "value": 1407.45,
-      "change": -13.71,
-      "change_pct": -0.96
+      "value": 1407.78,
+      "change": -14.52,
+      "change_pct": -1.02
     }
   },
   "gold": {
-    "price_usd": 4340.7,
-    "price_krw": 6109318,
-    "change": 98.7,
-    "change_pct": 2.33
+    "price_usd": 4399.7,
+    "price_krw": 6193809,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-08-09 06:23",
+  "updated": "2026-08-10 06:25",
   "error": null
 }
