@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "삼성전자·日 NTT도코모, AI-RAN으로 통신 품질 최적화",
-      "url": "https://n.news.naver.com/mnews/article/031/0001048360"
+      "title": "GS, 2분기 영업익 1.7조…석화·발전 부진 정유로 메웠다",
+      "url": "https://n.news.naver.com/mnews/article/648/0000049726"
     },
     {
-      "title": "새벽 5시부터 ‘대출런’…5년 만에 부활한 대출총량제 공포",
-      "url": "https://n.news.naver.com/mnews/article/025/0003543534"
+      "title": "김윤덕 \"그린벨트 해제해서라도 공급…세제개편안 충격 줄일 것\"(종합)",
+      "url": "https://n.news.naver.com/mnews/article/421/0009108606"
     },
     {
-      "title": "코스닥 5% 급등에 매수 사이드카…코스피 1% 상승세",
-      "url": "https://n.news.naver.com/mnews/article/028/0002817822"
+      "title": "하나금융, 광복 81주년 맞아 대전·서울 현충원 묘역 2000기 정비",
+      "url": "https://n.news.naver.com/mnews/article/015/0005319605"
     },
     {
-      "title": "KB증권, 삼성전자 목표가 60만원 유지…“주주환원 200조 전망”",
-      "url": "https://n.news.naver.com/mnews/article/138/0002237133"
+      "title": "에코프로비엠, ‘7650억원’ 니켈 베팅…‘20%대 마진’ 노린다 [비즈360]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002682053"
     },
     {
-      "title": "교보생명 신창재 \"사냥꾼형 아닌 농부형 설계사 양성해야\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016241880"
+      "title": "한은 부총재 \"경기충격 없다면 기준금리 추가 인상 가능성 커\"",
+      "url": "https://n.news.naver.com/mnews/article/437/0000505625"
     },
     {
-      "title": "SK바이오사이언스, 실적 개선에 영업손실 58% 줄여...글로벌 사업 확대 '속도'",
-      "url": "https://n.news.naver.com/mnews/article/014/0005559532"
+      "title": "원룸 '깜깜이' 관리비 끝…중개사가 '확인'해야",
+      "url": "https://n.news.naver.com/mnews/article/648/0000049720"
     },
     {
-      "title": "이 대통령도 지적한 ISA를 어쩌나… 딜레마 빠진 정부",
-      "url": "https://n.news.naver.com/mnews/article/005/0001865987"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/001/0016244537"
     },
     {
-      "title": "'연 19.4%' 청년미래적금 138.5만명 가입...9월 추가모집 검토",
-      "url": "https://n.news.naver.com/mnews/article/014/0005559670"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/374/0000526905"
     },
     {
-      "title": "中사업 잇단 정리 나선 SK그룹…하이닉스 충칭공장까지 리밸런싱 저울질",
-      "url": "https://n.news.naver.com/mnews/article/003/0014117358"
+      "title": "반도체·화장품 수출 훈풍에… 코스피·코스닥 동반 상승",
+      "url": "https://n.news.naver.com/mnews/article/008/0005398703"
     },
     {
-      "title": "서울 20평대도 15억원 넘었다…분양가 전국 평균 '3배'",
-      "url": "https://n.news.naver.com/mnews/article/586/0000135576"
+      "title": "한화, 1.7조 들여 '오스탈 USA' 인수 추진…美 함정시장 정조준",
+      "url": "https://n.news.naver.com/mnews/article/018/0006349340"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6258.77,
+      "value": 6299.66,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 798.81,
+      "value": 854.47,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26605.36,
-      "change": -85.26,
-      "change_pct": -0.32
+      "value": 26445.45,
+      "change": -159.91,
+      "change_pct": -0.6
     },
     "usdkrw": {
-      "value": 1417.67,
-      "change": -4.63,
-      "change_pct": -0.33
+      "value": 1412.51,
+      "change": 5.51,
+      "change_pct": 0.39
     }
   },
   "gold": {
-    "price_usd": 4448.6,
-    "price_krw": 6306646,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4427.8,
+    "price_krw": 6254311,
+    "change": 66.0,
+    "change_pct": 1.51
   },
-  "updated": "2026-08-11 06:35",
+  "updated": "2026-08-12 06:39",
   "error": null
 }
