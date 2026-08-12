@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "GS, 2분기 영업익 1.7조…석화·발전 부진 정유로 메웠다",
-      "url": "https://n.news.naver.com/mnews/article/648/0000049726"
+      "title": "나스닥 0.54%↑…CPI 안도·AI 투자 기대에 반등 성공[뉴욕마감]",
+      "url": "https://n.news.naver.com/mnews/article/421/0009111162"
     },
     {
-      "title": "김윤덕 \"그린벨트 해제해서라도 공급…세제개편안 충격 줄일 것\"(종합)",
-      "url": "https://n.news.naver.com/mnews/article/421/0009108606"
+      "title": "한전, 2분기 영업익 감소…부채는 201조로 ↑",
+      "url": "https://n.news.naver.com/mnews/article/422/0000895079"
     },
     {
-      "title": "하나금융, 광복 81주년 맞아 대전·서울 현충원 묘역 2000기 정비",
-      "url": "https://n.news.naver.com/mnews/article/015/0005319605"
+      "title": "광진구, 청년월세 지원 150명으로 확대…신혼부부 포함",
+      "url": "https://n.news.naver.com/mnews/article/277/0005802112"
     },
     {
-      "title": "에코프로비엠, ‘7650억원’ 니켈 베팅…‘20%대 마진’ 노린다 [비즈360]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002682053"
+      "title": "경기도, 취업자 늘어도 고용률은 뒷걸음…지난달 실업자 24.8% 급증",
+      "url": "https://n.news.naver.com/mnews/article/666/0000118951"
     },
     {
-      "title": "한은 부총재 \"경기충격 없다면 기준금리 추가 인상 가능성 커\"",
-      "url": "https://n.news.naver.com/mnews/article/437/0000505625"
+      "title": "전남광주특별시-삼성-SK-한전, ‘호남권 반도체클러스터 전력공급’ 업무협약",
+      "url": "https://n.news.naver.com/mnews/article/081/0003669732"
     },
     {
-      "title": "원룸 '깜깜이' 관리비 끝…중개사가 '확인'해야",
-      "url": "https://n.news.naver.com/mnews/article/648/0000049720"
+      "title": "\"IT기업보다 더 IT기업 같은 회사\" 현대차그룹 AX 성과 본격화",
+      "url": "https://n.news.naver.com/mnews/article/648/0000049751"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/001/0016244537"
+      "title": "메리츠금융 상반기 순익 1.47조 '역대 최대'",
+      "url": "https://n.news.naver.com/mnews/article/422/0000895114"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/374/0000526905"
+      "title": "대한항공·아시아나항공 합병 결의…\"12월 통합 앞두고 협업 강화\"",
+      "url": "https://n.news.naver.com/mnews/article/422/0000894896"
     },
     {
-      "title": "반도체·화장품 수출 훈풍에… 코스피·코스닥 동반 상승",
-      "url": "https://n.news.naver.com/mnews/article/008/0005398703"
+      "title": "한 총리 \"신산업 분야 '규제 걸림돌' 리스트업…속도감 있게 개선할 것\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014123379"
     },
     {
-      "title": "한화, 1.7조 들여 '오스탈 USA' 인수 추진…美 함정시장 정조준",
-      "url": "https://n.news.naver.com/mnews/article/018/0006349340"
+      "title": "국세청 '고액체납자' 전담팀 신설…재계 저승사자, 끝까지 추적",
+      "url": "https://n.news.naver.com/mnews/article/656/0000183872"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6299.66,
+      "value": 6345.53,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 854.47,
+      "value": 857.84,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26445.45,
-      "change": -159.91,
-      "change_pct": -0.6
+      "value": 26588.49,
+      "change": 143.04,
+      "change_pct": 0.54
     },
     "usdkrw": {
-      "value": 1412.51,
-      "change": 5.51,
-      "change_pct": 0.39
+      "value": 1416.68,
+      "change": -0.63,
+      "change_pct": -0.04
     }
   },
   "gold": {
-    "price_usd": 4427.8,
-    "price_krw": 6254311,
-    "change": 66.0,
-    "change_pct": 1.51
+    "price_usd": 4469.0,
+    "price_krw": 6331142,
+    "change": 86.0,
+    "change_pct": 1.96
   },
-  "updated": "2026-08-12 06:39",
+  "updated": "2026-08-13 06:39",
   "error": null
 }
