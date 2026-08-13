@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "나스닥 0.54%↑…CPI 안도·AI 투자 기대에 반등 성공[뉴욕마감]",
-      "url": "https://n.news.naver.com/mnews/article/421/0009111162"
+      "title": "중국, 글로벌 완성차 시장 습격… 미국 “막아야” 성명, 한국은 무방비",
+      "url": "https://n.news.naver.com/mnews/article/021/0002811236"
     },
     {
-      "title": "한전, 2분기 영업익 감소…부채는 201조로 ↑",
-      "url": "https://n.news.naver.com/mnews/article/422/0000895079"
+      "title": "“인도∙아시아∙태평양 AI 데이터센터 시장 넓힌다”…삼성전자, 인도 푸네 생산라인 준공",
+      "url": "https://n.news.naver.com/mnews/article/666/0000119117"
     },
     {
-      "title": "광진구, 청년월세 지원 150명으로 확대…신혼부부 포함",
-      "url": "https://n.news.naver.com/mnews/article/277/0005802112"
+      "title": "'한강뷰' 염창공원에 무주택자 1000호...경기 광주·남양주에 2.6만호",
+      "url": "https://n.news.naver.com/mnews/article/008/0005399566"
     },
     {
-      "title": "경기도, 취업자 늘어도 고용률은 뒷걸음…지난달 실업자 24.8% 급증",
-      "url": "https://n.news.naver.com/mnews/article/666/0000118951"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002392983"
     },
     {
-      "title": "전남광주특별시-삼성-SK-한전, ‘호남권 반도체클러스터 전력공급’ 업무협약",
-      "url": "https://n.news.naver.com/mnews/article/081/0003669732"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002392575"
     },
     {
-      "title": "\"IT기업보다 더 IT기업 같은 회사\" 현대차그룹 AX 성과 본격화",
-      "url": "https://n.news.naver.com/mnews/article/648/0000049751"
+      "title": "태광산업, 모다크릴 생산능력 2배 확대…글로벌 '톱2' 굳힌다",
+      "url": "https://n.news.naver.com/mnews/article/014/0005561326"
     },
     {
-      "title": "메리츠금융 상반기 순익 1.47조 '역대 최대'",
-      "url": "https://n.news.naver.com/mnews/article/422/0000895114"
+      "title": "낸드 3위 첫 진입한 中양쯔메모리…마이크론·샌디스크 제쳤다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005320588"
     },
     {
-      "title": "대한항공·아시아나항공 합병 결의…\"12월 통합 앞두고 협업 강화\"",
-      "url": "https://n.news.naver.com/mnews/article/422/0000894896"
+      "title": "'탱크데이 후폭풍'에 스타벅스 2분기 적자 전환… 영업손실 184억 원",
+      "url": "https://n.news.naver.com/mnews/article/656/0000183976"
     },
     {
-      "title": "한 총리 \"신산업 분야 '규제 걸림돌' 리스트업…속도감 있게 개선할 것\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014123379"
+      "title": "한 달 만에 정식 개장한 홈플러스… 인파 몰렸지만 매대 곳곳엔 ‘빈칸’[르포]",
+      "url": "https://n.news.naver.com/mnews/article/366/0001186046"
     },
     {
-      "title": "국세청 '고액체납자' 전담팀 신설…재계 저승사자, 끝까지 추적",
-      "url": "https://n.news.naver.com/mnews/article/656/0000183872"
+      "title": "HMM, 올 2분기 영업이익 3541억 원…전년比 52↑",
+      "url": "https://n.news.naver.com/mnews/article/021/0002811281"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6345.53,
+      "value": 6579.04,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 857.84,
+      "value": 858.91,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26588.49,
-      "change": 143.04,
-      "change_pct": 0.54
+      "value": 26803.03,
+      "change": 214.54,
+      "change_pct": 0.81
     },
     "usdkrw": {
-      "value": 1416.68,
-      "change": -0.63,
-      "change_pct": -0.04
+      "value": 1418.25,
+      "change": 6.07,
+      "change_pct": 0.43
     }
   },
   "gold": {
-    "price_usd": 4469.0,
-    "price_krw": 6331142,
-    "change": 86.0,
-    "change_pct": 1.96
+    "price_usd": 4407.1,
+    "price_krw": 6250369,
+    "change": -1.8,
+    "change_pct": -0.04
   },
-  "updated": "2026-08-13 06:39",
+  "updated": "2026-08-14 06:38",
   "error": null
 }
