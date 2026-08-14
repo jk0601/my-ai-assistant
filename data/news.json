@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "중국, 글로벌 완성차 시장 습격… 미국 “막아야” 성명, 한국은 무방비",
-      "url": "https://n.news.naver.com/mnews/article/021/0002811236"
+      "title": "‘반값 한우’에 문전성시…홈플, 반짝 특수 넘어설까",
+      "url": "https://n.news.naver.com/mnews/article/032/0003464151"
     },
     {
-      "title": "“인도∙아시아∙태평양 AI 데이터센터 시장 넓힌다”…삼성전자, 인도 푸네 생산라인 준공",
-      "url": "https://n.news.naver.com/mnews/article/666/0000119117"
+      "title": "세아제강지주, 매출 23% 늘었는데 508억 적자…英해상풍력 비용 선반영",
+      "url": "https://n.news.naver.com/mnews/article/016/0002684173"
     },
     {
-      "title": "'한강뷰' 염창공원에 무주택자 1000호...경기 광주·남양주에 2.6만호",
-      "url": "https://n.news.naver.com/mnews/article/008/0005399566"
+      "title": "2금융 내몰린 대출난민… 가계대출 총량 완화로 숨통틔나",
+      "url": "https://n.news.naver.com/mnews/article/014/0005561431"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002392983"
+      "title": "박정원 두산 회장 455억원… 상반기 총수 보수 1위 올라",
+      "url": "https://n.news.naver.com/mnews/article/023/0003993140"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002392575"
+      "title": "LG·엔비디아 '휴머노이드 로봇' 개발…내년 1분기 공개",
+      "url": "https://n.news.naver.com/mnews/article/018/0006351900"
     },
     {
-      "title": "태광산업, 모다크릴 생산능력 2배 확대…글로벌 '톱2' 굳힌다",
-      "url": "https://n.news.naver.com/mnews/article/014/0005561326"
+      "title": "15거래일 만에 돌아온 '7000피'…외국인 매수세 뒷받침",
+      "url": "https://n.news.naver.com/mnews/article/277/0005803146"
     },
     {
-      "title": "낸드 3위 첫 진입한 中양쯔메모리…마이크론·샌디스크 제쳤다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005320588"
+      "title": "롯데손보, 2분기 흑자 전환…기본자본도 2600억 증가",
+      "url": "https://n.news.naver.com/mnews/article/018/0006352055"
     },
     {
-      "title": "'탱크데이 후폭풍'에 스타벅스 2분기 적자 전환… 영업손실 184억 원",
-      "url": "https://n.news.naver.com/mnews/article/656/0000183976"
+      "title": "두나무, 상반기 순이익 74% 급감한 1천84억…\"글로벌 시장 전반 위축\"",
+      "url": "https://n.news.naver.com/mnews/article/374/0000527626"
     },
     {
-      "title": "한 달 만에 정식 개장한 홈플러스… 인파 몰렸지만 매대 곳곳엔 ‘빈칸’[르포]",
-      "url": "https://n.news.naver.com/mnews/article/366/0001186046"
+      "title": "英 BBC, ‘롤러코스피’에 투자금 잃은 개미 조명…“결혼·사업 자금 날려”",
+      "url": "https://n.news.naver.com/mnews/article/022/0004151036"
     },
     {
-      "title": "HMM, 올 2분기 영업이익 3541억 원…전년比 52↑",
-      "url": "https://n.news.naver.com/mnews/article/021/0002811281"
+      "title": "빗썸, 상반기 영업이익 149억원..매출액 1688억",
+      "url": "https://n.news.naver.com/mnews/article/014/0005561851"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6579.04,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 858.91,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26803.03,
-      "change": 214.54,
-      "change_pct": 0.81
+      "value": 26729.16,
+      "change": -73.87,
+      "change_pct": -0.28
     },
     "usdkrw": {
-      "value": 1418.25,
-      "change": 6.07,
-      "change_pct": 0.43
+      "value": 1416.48,
+      "change": 0.02,
+      "change_pct": 0.0
     }
   },
   "gold": {
-    "price_usd": 4407.1,
-    "price_krw": 6250369,
-    "change": -1.8,
-    "change_pct": -0.04
+    "price_usd": 4432.0,
+    "price_krw": 6277839,
+    "change": 68.4,
+    "change_pct": 1.57
   },
-  "updated": "2026-08-14 06:38",
+  "updated": "2026-08-15 06:19",
   "error": null
 }
