@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "‘반값 한우’에 문전성시…홈플, 반짝 특수 넘어설까",
-      "url": "https://n.news.naver.com/mnews/article/032/0003464151"
+      "title": "집값 안정 겨냥한 공급대책…'다섯 가지 카드' 나왔다[비즈토크<상>]",
+      "url": "https://n.news.naver.com/mnews/article/629/0000524871"
     },
     {
-      "title": "세아제강지주, 매출 23% 늘었는데 508억 적자…英해상풍력 비용 선반영",
-      "url": "https://n.news.naver.com/mnews/article/016/0002684173"
+      "title": "‘낙동강 카드뮴 오염 의혹’ 석포제련소…警, 영풍 고문 재수사로 새국면..지역사회 갈등도↑",
+      "url": "https://n.news.naver.com/mnews/article/021/0002811596"
     },
     {
-      "title": "2금융 내몰린 대출난민… 가계대출 총량 완화로 숨통틔나",
-      "url": "https://n.news.naver.com/mnews/article/014/0005561431"
+      "title": "용산구 “용산공원에 주택? 강력 반대…서울 도심 마지막 국가공원”",
+      "url": "https://n.news.naver.com/mnews/article/020/0003741100"
     },
     {
-      "title": "박정원 두산 회장 455억원… 상반기 총수 보수 1위 올라",
-      "url": "https://n.news.naver.com/mnews/article/023/0003993140"
+      "title": "상반기 '연봉킹' 올해도 두산 박정원 455억…이재용 10년째 무보수",
+      "url": "https://n.news.naver.com/mnews/article/079/0004179037"
     },
     {
-      "title": "LG·엔비디아 '휴머노이드 로봇' 개발…내년 1분기 공개",
-      "url": "https://n.news.naver.com/mnews/article/018/0006351900"
+      "title": "SK이노, 테라파워와 국내외 SMR 사업 박차…'AI 풀스택' 강화",
+      "url": "https://n.news.naver.com/mnews/article/008/0005400432"
     },
     {
-      "title": "15거래일 만에 돌아온 '7000피'…외국인 매수세 뒷받침",
-      "url": "https://n.news.naver.com/mnews/article/277/0005803146"
+      "title": "상반기 유통 오너家 연봉 1위는 롯데 신동빈…112억 수령, 2위는?",
+      "url": "https://n.news.naver.com/mnews/article/366/0001186457"
     },
     {
-      "title": "롯데손보, 2분기 흑자 전환…기본자본도 2600억 증가",
-      "url": "https://n.news.naver.com/mnews/article/018/0006352055"
+      "title": "“반도체 지금 팔아라?” 충격적 65만→35만원, 삼성전자 목표주가 믿어도 되나",
+      "url": "https://n.news.naver.com/mnews/article/016/0002684379"
     },
     {
-      "title": "두나무, 상반기 순이익 74% 급감한 1천84억…\"글로벌 시장 전반 위축\"",
-      "url": "https://n.news.naver.com/mnews/article/374/0000527626"
+      "title": "이틀새 9000억 몰렸다…서학개미 쓸어담은 '이 종목'",
+      "url": "https://n.news.naver.com/mnews/article/018/0006352466"
     },
     {
-      "title": "英 BBC, ‘롤러코스피’에 투자금 잃은 개미 조명…“결혼·사업 자금 날려”",
-      "url": "https://n.news.naver.com/mnews/article/022/0004151036"
+      "title": "‘한미 관세협상 주도’ 여한구 산업부 통상교섭본부장 직권면직",
+      "url": "https://n.news.naver.com/mnews/article/016/0002684305"
     },
     {
-      "title": "빗썸, 상반기 영업이익 149억원..매출액 1688억",
-      "url": "https://n.news.naver.com/mnews/article/014/0005561851"
+      "title": "삼성전기 장덕현 사장, 상반기 보수 6.4억원 수령",
+      "url": "https://n.news.naver.com/mnews/article/018/0006352155"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6977.94,
+      "change": 164.6,
+      "change_pct": 2.42
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 864.65,
+      "change": 3.28,
+      "change_pct": 0.38
     },
     "nasdaq": {
       "value": 26729.16,
@@ -58,17 +58,17 @@
       "change_pct": -0.28
     },
     "usdkrw": {
-      "value": 1416.48,
-      "change": 0.02,
-      "change_pct": 0.0
+      "value": 1412.0,
+      "change": -4.85,
+      "change_pct": -0.34
     }
   },
   "gold": {
-    "price_usd": 4432.0,
-    "price_krw": 6277839,
-    "change": 68.4,
-    "change_pct": 1.57
+    "price_usd": 4380.4,
+    "price_krw": 6185124,
+    "change": 16.8,
+    "change_pct": 0.39
   },
-  "updated": "2026-08-15 06:19",
+  "updated": "2026-08-16 06:14",
   "error": null
 }
