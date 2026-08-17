@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "세븐일레븐 가성비 위스키 100만병 돌파…3만원 미만 매출 비중 77%",
-      "url": "https://n.news.naver.com/mnews/article/030/0003457750"
+      "title": "김가네 1호점도 폐업…줄줄이 문 닫는 김밥집들",
+      "url": "https://n.news.naver.com/mnews/article/005/0001867411"
     },
     {
-      "title": "수익률이 좋아서 폐지?…퇴출되는 액티브 ETF",
-      "url": "https://n.news.naver.com/mnews/article/081/0003670817"
+      "title": "서울 청년 이사비·중개료 40만원 지원…나도 받을 수 있을까? [부동산360]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002684761"
     },
     {
-      "title": "\"안 팔길 잘했다\"…삼전·닉스, '300조' 역대급 주주환원 기대도",
-      "url": "https://n.news.naver.com/mnews/article/014/0005562068"
+      "title": "이재현 CJ 회장 \"전 세계의 K-라이프스타일 리더 돼야\"",
+      "url": "https://n.news.naver.com/mnews/article/374/0000527790"
     },
     {
-      "title": "신규 대출여력 30조 금융권 배분 본격 착수…19일 첫 실무회의",
-      "url": "https://n.news.naver.com/mnews/article/056/0012238613"
+      "title": "구직 청년 64% \"희망 직무 5년 내 AI로 대체·축소될 것\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016255240"
     },
     {
-      "title": "미국인들은 왜 올리브영에 열광하는가…‘K-스킨케어’ 인기 비결",
-      "url": "https://n.news.naver.com/mnews/article/021/0002811728"
+      "title": "국힘 \"정부 용산공원 개발, 부동산 정책 실패 국면 전환 임시방편\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014130805"
     },
     {
-      "title": "김정관 산업장관 긴급 미국행…대미투자·통상 현안 논의",
-      "url": "https://n.news.naver.com/mnews/article/014/0005562152"
+      "title": "‘PB상품 판매목표 강제’ 다비치안경에 14억 과징금",
+      "url": "https://n.news.naver.com/mnews/article/020/0003741356"
     },
     {
-      "title": "4대은행 상반기 평균 급여 7150만원…삼성전자보다 높아",
-      "url": "https://n.news.naver.com/mnews/article/448/0000633811"
+      "title": "영업 재개에 묶인 돈 풀렸다…카드사, 홈플러스 대금 지급 전격 재개",
+      "url": "https://n.news.naver.com/mnews/article/243/0000101770"
     },
     {
-      "title": "美 전역 누비는 비비고 만두…'K-만두' 산실 CJ제일제당 보몬트 공장[르포]",
-      "url": "https://n.news.naver.com/mnews/article/421/0009116072"
-    },
-    {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/449/0000356985"
+      "title": "금감원, 9월 '소비자보호 대국민 보고대회'…이찬진 첫 작품[1mm금융톡]",
+      "url": "https://n.news.naver.com/mnews/article/277/0005803667"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/437/0000506407"
+      "url": "https://n.news.naver.com/mnews/article/055/0001381214"
+    },
+    {
+      "title": "4대 은행, 폭우 피해 금융지원…구호 텐트·급식 차량도(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016255127"
     }
   ],
   "stocks": {
@@ -53,22 +53,22 @@
       "change_pct": 0.38
     },
     "nasdaq": {
-      "value": 26729.16,
-      "change": -73.87,
-      "change_pct": -0.28
+      "value": 26644.91,
+      "change": -84.25,
+      "change_pct": -0.32
     },
     "usdkrw": {
-      "value": 1416.48,
-      "change": -0.37,
-      "change_pct": -0.03
+      "value": 1414.9,
+      "change": -1.95,
+      "change_pct": -0.14
     }
   },
   "gold": {
-    "price_usd": 4437.3,
-    "price_krw": 6285346,
+    "price_usd": 4473.1,
+    "price_krw": 6328989,
     "change": 0.0,
     "change_pct": 0.0
   },
-  "updated": "2026-08-17 06:14",
+  "updated": "2026-08-18 06:20",
   "error": null
 }
