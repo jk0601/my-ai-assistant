@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "김가네 1호점도 폐업…줄줄이 문 닫는 김밥집들",
-      "url": "https://n.news.naver.com/mnews/article/005/0001867411"
+      "title": "AI 훈풍에 낸드 상위 5개사 매출 77% 급증…마이크론 3위로",
+      "url": "https://n.news.naver.com/mnews/article/374/0000527995"
     },
     {
-      "title": "서울 청년 이사비·중개료 40만원 지원…나도 받을 수 있을까? [부동산360]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002684761"
+      "title": "코픽스 3.18%, 4개월째 상승",
+      "url": "https://n.news.naver.com/mnews/article/014/0005562937"
     },
     {
-      "title": "이재현 CJ 회장 \"전 세계의 K-라이프스타일 리더 돼야\"",
-      "url": "https://n.news.naver.com/mnews/article/374/0000527790"
+      "title": "현대건설, 테라파워 원전 최대 8기 설계·조달·시공 우선권",
+      "url": "https://n.news.naver.com/mnews/article/025/0003545049"
     },
     {
-      "title": "구직 청년 64% \"희망 직무 5년 내 AI로 대체·축소될 것\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016255240"
+      "title": "재개장 첫날 106억 찍은 홈플러스…미뤘던 대금 지급 나선 카드사들",
+      "url": "https://n.news.naver.com/mnews/article/022/0004151710"
     },
     {
-      "title": "국힘 \"정부 용산공원 개발, 부동산 정책 실패 국면 전환 임시방편\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014130805"
+      "title": "“인크레더블” 외치며 엄지척…매디슨 황, LG와 2시간30분 ‘로봇 회동’",
+      "url": "https://n.news.naver.com/mnews/article/018/0006353408"
     },
     {
-      "title": "‘PB상품 판매목표 강제’ 다비치안경에 14억 과징금",
-      "url": "https://n.news.naver.com/mnews/article/020/0003741356"
+      "title": "한은 \"청년 일자리 감소 94%가 AI 고노출 업종서 발생\"",
+      "url": "https://n.news.naver.com/mnews/article/448/0000634194"
     },
     {
-      "title": "영업 재개에 묶인 돈 풀렸다…카드사, 홈플러스 대금 지급 전격 재개",
-      "url": "https://n.news.naver.com/mnews/article/243/0000101770"
+      "title": "현대차 노조, 10년 만에 전면 파업…임금협상 끝내 결렬",
+      "url": "https://n.news.naver.com/mnews/article/009/0005722586"
     },
     {
-      "title": "금감원, 9월 '소비자보호 대국민 보고대회'…이찬진 첫 작품[1mm금융톡]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005803667"
+      "title": "한국앤컴퍼니그룹, 독립유공자 후손 지원 ‘815런’ 후원",
+      "url": "https://n.news.naver.com/mnews/article/016/0002684861"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001381214"
+      "title": "\"전세난민 될까봐 무섭다\"…2030 '내 집 마련' 열풍",
+      "url": "https://n.news.naver.com/mnews/article/018/0006353223"
     },
     {
-      "title": "4대 은행, 폭우 피해 금융지원…구호 텐트·급식 차량도(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016255127"
+      "title": "국토부, 수도권 150만호+α 공급 속도전…공공·민간 총력",
+      "url": "https://n.news.naver.com/mnews/article/374/0000528059"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6977.94,
-      "change": 164.6,
-      "change_pct": 2.42
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 864.65,
-      "change": 3.28,
-      "change_pct": 0.38
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26644.91,
-      "change": -84.25,
-      "change_pct": -0.32
+      "value": 26289.71,
+      "change": -355.2,
+      "change_pct": -1.33
     },
     "usdkrw": {
-      "value": 1414.9,
-      "change": -1.95,
-      "change_pct": -0.14
+      "value": 1412.24,
+      "change": -3.13,
+      "change_pct": -0.22
     }
   },
   "gold": {
-    "price_usd": 4473.1,
-    "price_krw": 6328989,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4389.5,
+    "price_krw": 6199027,
+    "change": -28.3,
+    "change_pct": -0.64
   },
-  "updated": "2026-08-18 06:20",
+  "updated": "2026-08-19 06:17",
   "error": null
 }
