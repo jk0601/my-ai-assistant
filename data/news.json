@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "AI 훈풍에 낸드 상위 5개사 매출 77% 급증…마이크론 3위로",
-      "url": "https://n.news.naver.com/mnews/article/374/0000527995"
+      "title": "50살 ‘더 플라자’, 2029년 최고급 호텔로 재탄생한다",
+      "url": "https://n.news.naver.com/mnews/article/023/0003993774"
     },
     {
-      "title": "코픽스 3.18%, 4개월째 상승",
-      "url": "https://n.news.naver.com/mnews/article/014/0005562937"
+      "title": "HD현대重 잠수함, 창사 후 첫 수출 눈앞",
+      "url": "https://n.news.naver.com/mnews/article/015/0005322564"
     },
     {
-      "title": "현대건설, 테라파워 원전 최대 8기 설계·조달·시공 우선권",
-      "url": "https://n.news.naver.com/mnews/article/025/0003545049"
+      "title": "금융당국, 은행별 목표치 배분협의 돌입…이달 내 마무리 목표",
+      "url": "https://n.news.naver.com/mnews/article/001/0016259834"
     },
     {
-      "title": "재개장 첫날 106억 찍은 홈플러스…미뤘던 대금 지급 나선 카드사들",
-      "url": "https://n.news.naver.com/mnews/article/022/0004151710"
+      "title": "'968㎜ 괴물 폭우' 덮친 거제…전북농협, 피해복구 구슬땀",
+      "url": "https://n.news.naver.com/mnews/article/003/0014135915"
     },
     {
-      "title": "“인크레더블” 외치며 엄지척…매디슨 황, LG와 2시간30분 ‘로봇 회동’",
-      "url": "https://n.news.naver.com/mnews/article/018/0006353408"
+      "title": "KDI, 올 성장률 2.5→3.2% 상향…반도체 영향이 0.6%p",
+      "url": "https://n.news.naver.com/mnews/article/003/0014134962"
     },
     {
-      "title": "한은 \"청년 일자리 감소 94%가 AI 고노출 업종서 발생\"",
-      "url": "https://n.news.naver.com/mnews/article/448/0000634194"
+      "title": "\"저가 커피라고 얕봤는데 큰일 났다\"…스타벅스 바짝 추격하는 메가커피",
+      "url": "https://n.news.naver.com/mnews/article/277/0005804683"
     },
     {
-      "title": "현대차 노조, 10년 만에 전면 파업…임금협상 끝내 결렬",
-      "url": "https://n.news.naver.com/mnews/article/009/0005722586"
+      "title": "현대차, 환골탈태 5세대 ‘투싼’ 공개",
+      "url": "https://n.news.naver.com/mnews/article/032/0003465227"
     },
     {
-      "title": "한국앤컴퍼니그룹, 독립유공자 후손 지원 ‘815런’ 후원",
-      "url": "https://n.news.naver.com/mnews/article/016/0002684861"
+      "title": "구윤철 부총리 “對美 투자 1호 프로젝트로 에너지 분야 관심”",
+      "url": "https://n.news.naver.com/mnews/article/366/0001187093"
     },
     {
-      "title": "\"전세난민 될까봐 무섭다\"…2030 '내 집 마련' 열풍",
-      "url": "https://n.news.naver.com/mnews/article/018/0006353223"
+      "title": "삼성전자, 파운드리 생산 가격 최대 15% 인상",
+      "url": "https://n.news.naver.com/mnews/article/014/0005563755"
     },
     {
-      "title": "국토부, 수도권 150만호+α 공급 속도전…공공·민간 총력",
-      "url": "https://n.news.naver.com/mnews/article/374/0000528059"
+      "title": "中 양쯔메모리도 내년 중 IPO...상장 전 ‘지도검수’ 마쳐",
+      "url": "https://n.news.naver.com/mnews/article/015/0005322451"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6977.94,
+      "value": 6869.83,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 864.65,
+      "value": 834.2,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26289.71,
-      "change": -355.2,
-      "change_pct": -1.33
+      "value": 26331.09,
+      "change": 41.38,
+      "change_pct": 0.16
     },
     "usdkrw": {
-      "value": 1412.24,
-      "change": -3.13,
-      "change_pct": -0.22
+      "value": 1386.34,
+      "change": -28.39,
+      "change_pct": -2.01
     }
   },
   "gold": {
-    "price_usd": 4389.5,
-    "price_krw": 6199027,
-    "change": -28.3,
-    "change_pct": -0.64
+    "price_usd": 4580.7,
+    "price_krw": 6350407,
+    "change": 214.7,
+    "change_pct": 4.92
   },
-  "updated": "2026-08-19 06:17",
+  "updated": "2026-08-20 06:19",
   "error": null
 }
