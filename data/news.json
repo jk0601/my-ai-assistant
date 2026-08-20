@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "50살 ‘더 플라자’, 2029년 최고급 호텔로 재탄생한다",
-      "url": "https://n.news.naver.com/mnews/article/023/0003993774"
+      "title": "한은 신임 부총재에 ‘국제통’ 권민수 부총재보 임명",
+      "url": "https://n.news.naver.com/mnews/article/028/0002819485"
     },
     {
-      "title": "HD현대重 잠수함, 창사 후 첫 수출 눈앞",
-      "url": "https://n.news.naver.com/mnews/article/015/0005322564"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002395651"
     },
     {
-      "title": "금융당국, 은행별 목표치 배분협의 돌입…이달 내 마무리 목표",
-      "url": "https://n.news.naver.com/mnews/article/001/0016259834"
+      "title": "4대 은행 금융사고 10년간 5500억원…‘사기’가 절반",
+      "url": "https://n.news.naver.com/mnews/article/032/0003465278"
     },
     {
-      "title": "'968㎜ 괴물 폭우' 덮친 거제…전북농협, 피해복구 구슬땀",
-      "url": "https://n.news.naver.com/mnews/article/003/0014135915"
+      "title": "'3대 메가'로 260TWh 추가 수요…12차 전기본 토론회",
+      "url": "https://n.news.naver.com/mnews/article/079/0004180514"
     },
     {
-      "title": "KDI, 올 성장률 2.5→3.2% 상향…반도체 영향이 0.6%p",
-      "url": "https://n.news.naver.com/mnews/article/003/0014134962"
+      "title": "부산항서 첫 북극항로 컨테이너선 뜬다…부산시, 팬스타와 시범운항 협약",
+      "url": "https://n.news.naver.com/mnews/article/277/0005805288"
     },
     {
-      "title": "\"저가 커피라고 얕봤는데 큰일 났다\"…스타벅스 바짝 추격하는 메가커피",
-      "url": "https://n.news.naver.com/mnews/article/277/0005804683"
+      "title": "100세 이상 ‘장수 남성’ 급증…비결은 ‘덜 먹기·대인 관계’",
+      "url": "https://n.news.naver.com/mnews/article/029/0003043323"
     },
     {
-      "title": "현대차, 환골탈태 5세대 ‘투싼’ 공개",
-      "url": "https://n.news.naver.com/mnews/article/032/0003465227"
+      "title": "오세훈 \"용산공원 주거 전용은 역사의 죄인\"…캠프킴·경리단 등 절충안 제시",
+      "url": "https://n.news.naver.com/mnews/article/008/0005402450"
     },
     {
-      "title": "구윤철 부총리 “對美 투자 1호 프로젝트로 에너지 분야 관심”",
-      "url": "https://n.news.naver.com/mnews/article/366/0001187093"
+      "title": "SK하이닉스 성과급 60% 자사주로…적자 땐 임금 일부 이연",
+      "url": "https://n.news.naver.com/mnews/article/008/0005402593"
     },
     {
-      "title": "삼성전자, 파운드리 생산 가격 최대 15% 인상",
-      "url": "https://n.news.naver.com/mnews/article/014/0005563755"
+      "title": "삼성전자 동행노조, 21일 3000명 집회…DS와 보상 격차 반발",
+      "url": "https://n.news.naver.com/mnews/article/586/0000136329"
     },
     {
-      "title": "中 양쯔메모리도 내년 중 IPO...상장 전 ‘지도검수’ 마쳐",
-      "url": "https://n.news.naver.com/mnews/article/015/0005322451"
+      "title": "석화 재편 ‘대산 1호’ 조건부 결합 승인…가격 인상 제한",
+      "url": "https://n.news.naver.com/mnews/article/029/0003043362"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6869.83,
+      "value": 6471.17,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 834.2,
+      "value": 824.46,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26331.09,
-      "change": 41.38,
-      "change_pct": 0.16
+      "value": 26067.17,
+      "change": -263.92,
+      "change_pct": -1.0
     },
     "usdkrw": {
-      "value": 1386.34,
-      "change": -28.39,
-      "change_pct": -2.01
+      "value": 1393.98,
+      "change": -19.6,
+      "change_pct": -1.39
     }
   },
   "gold": {
-    "price_usd": 4580.7,
-    "price_krw": 6350407,
-    "change": 214.7,
-    "change_pct": 4.92
+    "price_usd": 4575.1,
+    "price_krw": 6377598,
+    "change": 85.7,
+    "change_pct": 1.91
   },
-  "updated": "2026-08-20 06:19",
+  "updated": "2026-08-21 06:22",
   "error": null
 }
