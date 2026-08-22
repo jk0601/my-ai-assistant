@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "삼성전자 \"올해 최대 110조 원 주주환원‥3분기에 30조 현금배당\"",
-      "url": "https://n.news.naver.com/mnews/article/214/0001519316"
+      "title": "금융위 등 이전 내주 국무회의 심의 가능성…공공기관 반발 고조",
+      "url": "https://n.news.naver.com/mnews/article/001/0016265003"
     },
     {
-      "title": "4억 뇌물에 1.7조억 수주 '유리한 평가' 악재…LIG D&A, 급락",
-      "url": "https://n.news.naver.com/mnews/article/015/0005323146"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002396575"
     },
     {
-      "title": "美재무 구두개입에도 솟구친 국채 금리…월마트 악재까지[뉴욕마감]",
-      "url": "https://n.news.naver.com/mnews/article/008/0005402793"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/214/0001519358"
     },
     {
-      "title": "4대 금융그룹, 수해 지역에 각 5억 기부… 금융지원도 병행",
-      "url": "https://n.news.naver.com/mnews/article/469/0000949342"
+      "title": "\"다음주 투자전략 보니…엔비디아 실적 관건\"[주末머니]",
+      "url": "https://n.news.naver.com/mnews/article/277/0005805971"
     },
     {
-      "title": "9차 석유 최고가격 '휘발유 1784원·경유 1773원' 동결…\"민생 부담 고려\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005403175"
+      "title": "\"금리 잡으려다 달러 잡았다\"…미화 3개월만 최저, 날개 단 금·비트코인",
+      "url": "https://n.news.naver.com/mnews/article/008/0005403197"
     },
     {
-      "title": "3천500여명 모인 삼성전자 DX 노조…\"경영실패 책임져라\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016264432"
+      "title": "주유소 기름값 14주 연속 하락…휘발유 1,862원·경유 1,845원",
+      "url": "https://n.news.naver.com/mnews/article/056/0012242491"
     },
     {
-      "title": "“어제는 닉스, 오늘은 삼전”…코스피, 주주환원 기대에 6900선 회복[투자360]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002686864"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/437/0000507303"
     },
     {
-      "title": "'용산 청년주택' 띄운 與… 부동산 민심 위기에 표심 잡기 승부수",
-      "url": "https://n.news.naver.com/mnews/article/469/0000949217"
+      "title": "mRNA 암 백신 시대 ‘성큼’…네오이뮨텍 첫 기술수출로 주목 [바이오 주간 결산]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006356033"
     },
     {
-      "title": "LG전자, 국제 디자인 어워드서 17개 상 휩쓸어…로봇 클로이드 3관왕",
-      "url": "https://n.news.naver.com/mnews/article/011/0004653774"
+      "title": "② 길목에 선 물류거점 부산…새 성장엔진 '해양수도권'[북극항로 시대]",
+      "url": "https://n.news.naver.com/mnews/article/001/0016264621"
     },
     {
-      "title": "금호타이어 노사, 총파업 문턱서 임단협 잠정합의…기본급 3%↑·격려금 850만원",
-      "url": "https://n.news.naver.com/mnews/article/277/0005805828"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/437/0000507352"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6912.95,
+      "change": 60.37,
+      "change_pct": 0.88
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 801.94,
+      "change": -38.95,
+      "change_pct": -4.63
     },
     "nasdaq": {
       "value": 26180.46,
@@ -58,17 +58,17 @@
       "change_pct": 0.43
     },
     "usdkrw": {
-      "value": 1385.98,
-      "change": -3.42,
-      "change_pct": -0.25
+      "value": 1383.9,
+      "change": -6.89,
+      "change_pct": -0.5
     }
   },
   "gold": {
-    "price_usd": 4661.6,
-    "price_krw": 6460884,
-    "change": 145.3,
-    "change_pct": 3.22
+    "price_usd": 4624.1,
+    "price_krw": 6399292,
+    "change": 107.8,
+    "change_pct": 2.39
   },
-  "updated": "2026-08-22 06:17",
+  "updated": "2026-08-23 06:15",
   "error": null
 }
