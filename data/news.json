@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "금융위 등 이전 내주 국무회의 심의 가능성…공공기관 반발 고조",
-      "url": "https://n.news.naver.com/mnews/article/001/0016265003"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/055/0001382627"
+    },
+    {
+      "title": "파업 미룬 현대차 노조…돌파구 열리나",
+      "url": "https://n.news.naver.com/mnews/article/011/0004654270"
+    },
+    {
+      "title": "술 줄이는 한국인…작년 주류 출고량 IMF 이후 최저",
+      "url": "https://n.news.naver.com/mnews/article/082/0001394967"
+    },
+    {
+      "title": "빅테크 채권 폭탄, 美국채금리 올렸다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005403503"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002396575"
+      "url": "https://n.news.naver.com/mnews/article/057/0001965085"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/214/0001519358"
+      "title": "올해 상반기 은행권 순이익 13조 8천억...소폭 감소",
+      "url": "https://n.news.naver.com/mnews/article/052/0002397014"
     },
     {
-      "title": "\"다음주 투자전략 보니…엔비디아 실적 관건\"[주末머니]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005805971"
+      "title": "대기업 세금 감면액 82% 늘어날 때…中企는 4% 증가 그쳐",
+      "url": "https://n.news.naver.com/mnews/article/020/0003742693"
     },
     {
-      "title": "\"금리 잡으려다 달러 잡았다\"…미화 3개월만 최저, 날개 단 금·비트코인",
-      "url": "https://n.news.naver.com/mnews/article/008/0005403197"
+      "title": "삼성전자 지분 9.999999986%… 삼성생명·화재, 주주환원 갈래길",
+      "url": "https://n.news.naver.com/mnews/article/005/0001868483"
     },
     {
-      "title": "주유소 기름값 14주 연속 하락…휘발유 1,862원·경유 1,845원",
-      "url": "https://n.news.naver.com/mnews/article/056/0012242491"
+      "title": "“땀 흘려 번 돈에서 세금 더 뜯겨?”…고소득자 근소세, 양도세율보다 11.5%p 높아",
+      "url": "https://n.news.naver.com/mnews/article/009/0005724551"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/437/0000507303"
-    },
-    {
-      "title": "mRNA 암 백신 시대 ‘성큼’…네오이뮨텍 첫 기술수출로 주목 [바이오 주간 결산]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006356033"
-    },
-    {
-      "title": "② 길목에 선 물류거점 부산…새 성장엔진 '해양수도권'[북극항로 시대]",
-      "url": "https://n.news.naver.com/mnews/article/001/0016264621"
-    },
-    {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/437/0000507352"
+      "title": "금융위까지 지방으로?…공공기관 2차 이전 '초읽기'",
+      "url": "https://n.news.naver.com/mnews/article/374/0000528846"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 0.43
     },
     "usdkrw": {
-      "value": 1383.9,
-      "change": -6.89,
-      "change_pct": -0.5
+      "value": 1385.89,
+      "change": -4.9,
+      "change_pct": -0.35
     }
   },
   "gold": {
-    "price_usd": 4624.1,
-    "price_krw": 6399292,
-    "change": 107.8,
-    "change_pct": 2.39
+    "price_usd": 4680.6,
+    "price_krw": 6486796,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-08-23 06:15",
+  "updated": "2026-08-24 06:15",
   "error": null
 }
