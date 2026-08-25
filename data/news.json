@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "위고비·마운자로 불법 해외직구 기승…작년 연간치 3.5배 적발",
-      "url": "https://n.news.naver.com/mnews/article/055/0001382862"
-    },
-    {
-      "title": "1분기 임금근로 일자리 29.2만개 ↑…청년 일자리 부진은 지속",
-      "url": "https://n.news.naver.com/mnews/article/014/0005565431"
-    },
-    {
-      "title": "“美는 100% 주는데, 한국은 50%”... 삼전 110조 주주환원이 적다고?",
-      "url": "https://n.news.naver.com/mnews/article/023/0003994516"
-    },
-    {
-      "title": "원/달러 환율 13개월 만에 최저…장중 1,370원대로 하락(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016267824"
-    },
-    {
-      "title": "“운동회 날 엄마가 싸준 그 맛”… 4만원 김밥, 美 테니스 성지 사로잡다",
-      "url": "https://n.news.naver.com/mnews/article/023/0003994727"
-    },
-    {
-      "title": "대한상의 경제연구총괄에 이시욱[Biz & Now]",
-      "url": "https://n.news.naver.com/mnews/article/025/0003546477"
-    },
-    {
-      "title": "LS일렉트릭, 美 빅테크 데이터센터에 2309억원 전력설비 공급",
-      "url": "https://n.news.naver.com/mnews/article/082/0001395131"
-    },
-    {
-      "title": "미국보다 일본 국채 금리가 더 중요하다",
-      "url": "https://n.news.naver.com/mnews/article/028/0002819773"
+      "title": "중국·일본은 국가 총력전…포스코는 '기업 주도 자원 전쟁'",
+      "url": "https://n.news.naver.com/mnews/article/001/0016269697"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/374/0000528967"
+      "url": "https://n.news.naver.com/mnews/article/448/0000635415"
     },
     {
-      "title": "LG전자, 에티오피아 청년 자립 지원 10년…누적 졸업생 679명",
-      "url": "https://n.news.naver.com/mnews/article/421/0009128489"
+      "title": "“자사주 소각에 창사 이래 첫 배당까지”… 주가 부진에 주주환원 나선 게임업계",
+      "url": "https://n.news.naver.com/mnews/article/366/0001188248"
+    },
+    {
+      "title": "SK하이닉스 ‘주식 성과급’ 부결, 조합원 50.1% 반대… 단 25표차",
+      "url": "https://n.news.naver.com/mnews/article/081/0003673480"
+    },
+    {
+      "title": "\"AI·IoT로 학교 안전 지켜요\"…에스원 무인운영 솔루션 확산",
+      "url": "https://n.news.naver.com/mnews/article/029/0003044082"
+    },
+    {
+      "title": "2주택 피하려 1채는 회사 명의로…국세청 ‘법인주택 사적 유용’ 적발",
+      "url": "https://n.news.naver.com/mnews/article/020/0003743149"
+    },
+    {
+      "title": "한미 비만약 기술 3.1兆 수출… 임주현 부회장 리더십 빛났다",
+      "url": "https://n.news.naver.com/mnews/article/021/0002813766"
+    },
+    {
+      "title": "엔비디아, '삼성생산' 추론가속기 그록3 양산 돌입…고객사 확보",
+      "url": "https://n.news.naver.com/mnews/article/055/0001383163"
+    },
+    {
+      "title": "‘조사 거부’ 초강수 둔 쿠팡…공정위와 강대강 충돌",
+      "url": "https://n.news.naver.com/mnews/article/018/0006357885"
+    },
+    {
+      "title": "MBK \"최윤범 측 선행투자 뒤 회삿돈 후속투자\"…고려아연 \"자의적 짜깁기\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005807155"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6912.95,
+      "value": 6696.96,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 801.94,
+      "value": 813.33,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25980.19,
-      "change": -200.27,
-      "change_pct": -0.76
+      "value": 26151.3,
+      "change": 171.11,
+      "change_pct": 0.66
     },
     "usdkrw": {
-      "value": 1381.69,
-      "change": -9.1,
-      "change_pct": -0.65
+      "value": 1380.0,
+      "change": -4.98,
+      "change_pct": -0.36
     }
   },
   "gold": {
-    "price_usd": 4710.0,
-    "price_krw": 6507759,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4715.9,
+    "price_krw": 6507941,
+    "change": 75.1,
+    "change_pct": 1.62
   },
-  "updated": "2026-08-25 06:22",
+  "updated": "2026-08-26 06:21",
   "error": null
 }
