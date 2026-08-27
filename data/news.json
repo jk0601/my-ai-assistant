@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "중국·일본은 국가 총력전…포스코는 '기업 주도 자원 전쟁'",
-      "url": "https://n.news.naver.com/mnews/article/001/0016269697"
+      "title": "박현주 회장 \"배당만 늘렸으면 삼전닉스 없었다\"…先투자 강조",
+      "url": "https://n.news.naver.com/mnews/article/277/0005807815"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/448/0000635415"
+      "url": "https://n.news.naver.com/mnews/article/055/0001383678"
     },
     {
-      "title": "“자사주 소각에 창사 이래 첫 배당까지”… 주가 부진에 주주환원 나선 게임업계",
-      "url": "https://n.news.naver.com/mnews/article/366/0001188248"
+      "title": "다올증권 \"SK바이오팜, 새 뇌전증 치료제 도입…목표가↑\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016273446"
     },
     {
-      "title": "SK하이닉스 ‘주식 성과급’ 부결, 조합원 50.1% 반대… 단 25표차",
-      "url": "https://n.news.naver.com/mnews/article/081/0003673480"
+      "title": "출산율 0.9명대 눈앞…반등 뒤엔 ‘20대 절벽’[Pick코노미]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004655596"
     },
     {
-      "title": "\"AI·IoT로 학교 안전 지켜요\"…에스원 무인운영 솔루션 확산",
-      "url": "https://n.news.naver.com/mnews/article/029/0003044082"
+      "title": "생보사 ‘본업’ 부진에도… 투자 대박에 상반기 보험사 순익 9조 넘어",
+      "url": "https://n.news.naver.com/mnews/article/023/0003995173"
     },
     {
-      "title": "2주택 피하려 1채는 회사 명의로…국세청 ‘법인주택 사적 유용’ 적발",
-      "url": "https://n.news.naver.com/mnews/article/020/0003743149"
+      "title": "영호남 산업용 전기료, 최대 10% 낮아진다",
+      "url": "https://n.news.naver.com/mnews/article/023/0003995019"
     },
     {
-      "title": "한미 비만약 기술 3.1兆 수출… 임주현 부회장 리더십 빛났다",
-      "url": "https://n.news.naver.com/mnews/article/021/0002813766"
+      "title": "김윤덕-오세훈 면담 후 공방…\"용산불가론 안돼\"vs\"철회가 전제\"(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016272929"
     },
     {
-      "title": "엔비디아, '삼성생산' 추론가속기 그록3 양산 돌입…고객사 확보",
-      "url": "https://n.news.naver.com/mnews/article/055/0001383163"
+      "title": "140개 중소기업이 라스베이거스에 집결했다",
+      "url": "https://n.news.naver.com/mnews/article/005/0001869136"
     },
     {
-      "title": "‘조사 거부’ 초강수 둔 쿠팡…공정위와 강대강 충돌",
-      "url": "https://n.news.naver.com/mnews/article/018/0006357885"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012244548"
     },
     {
-      "title": "MBK \"최윤범 측 선행투자 뒤 회삿돈 후속투자\"…고려아연 \"자의적 짜깁기\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005807155"
+      "title": "쿠팡 조사거부에…與 “美 반대해도 온플법 추진”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004655510"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6696.96,
+      "value": 6972.59,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 813.33,
+      "value": 832.01,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26151.3,
-      "change": 171.11,
-      "change_pct": 0.66
+      "value": 26130.2,
+      "change": -21.1,
+      "change_pct": -0.08
     },
     "usdkrw": {
-      "value": 1380.0,
-      "change": -4.98,
-      "change_pct": -0.36
+      "value": 1382.58,
+      "change": 1.09,
+      "change_pct": 0.08
     }
   },
   "gold": {
-    "price_usd": 4715.9,
-    "price_krw": 6507941,
-    "change": 75.1,
-    "change_pct": 1.62
+    "price_usd": 4670.8,
+    "price_krw": 6457754,
+    "change": 32.7,
+    "change_pct": 0.71
   },
-  "updated": "2026-08-26 06:21",
+  "updated": "2026-08-27 09:23",
   "error": null
 }
