@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "43.3조원으로 판 키운 청년정책…첫경력·자립·결혼까지 잇는다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006359764"
+      "title": "한화·두산 '자사주 소각' 승부수…HD현대는 배당에 방점[주주환원시대④]",
+      "url": "https://n.news.naver.com/mnews/article/003/0014155968"
     },
     {
-      "title": "SK하이닉스, ‘한·미 HBM 벨트’ 만든다…美 수십만장 패키징 선언",
-      "url": "https://n.news.naver.com/mnews/article/011/0004656089"
+      "title": "“1주택 거주·비거주 차등 과세는 위험한 사회 실험”… 전월세 대란·중저가 쏠림 부른다",
+      "url": "https://n.news.naver.com/mnews/article/022/0004154605"
     },
     {
-      "title": "효성 조현준 \"각자의 길 갔으면\" 호소에도…응답 없는 동생 조현문",
-      "url": "https://n.news.naver.com/mnews/article/629/0000528633"
+      "title": "종부세 21년…'매' 들어도 서울 집값은 제 갈 길 갔다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005406584"
     },
     {
-      "title": "자영업자 코로나 대출, 최대 6조 탕감해준다",
-      "url": "https://n.news.naver.com/mnews/article/011/0004656261"
+      "title": "다음주 800조 슈퍼예산 공개... 반도체 훈풍에 역대급 세수",
+      "url": "https://n.news.naver.com/mnews/article/661/0000082394"
     },
     {
-      "title": "CPTPP 가입논의 다시 운 띄운 정부…이번엔 결론 낼까",
-      "url": "https://n.news.naver.com/mnews/article/001/0016277685"
+      "title": "롯데마트, 인도네시아 끌라빠가딩점 재단장…K푸드 콘텐츠 결합",
+      "url": "https://n.news.naver.com/mnews/article/001/0016278248"
     },
     {
-      "title": "기술력과 결제 네트워크 만났다…두나무-비자, 스테이블코인 협력",
-      "url": "https://n.news.naver.com/mnews/article/016/0002689596"
+      "title": "주유소 기름값 15주째 하락…휘발유·경유 1,800원대",
+      "url": "https://n.news.naver.com/mnews/article/422/0000900619"
     },
     {
-      "title": "국민연금 상반기 수익률 27.2%…국내주식 107.37%",
-      "url": "https://n.news.naver.com/mnews/article/277/0005808583"
+      "title": "뉴욕증시, 워시 '매파 발언'에 일제 하락",
+      "url": "https://n.news.naver.com/mnews/article/055/0001384319"
     },
     {
-      "title": "기아, '6년 연속 무분규' 달성..임단협 찬반 투표 '가결'",
-      "url": "https://n.news.naver.com/mnews/article/008/0005406340"
+      "title": "월요일 국장 어쩌나…中 창신메모리 '깜짝' 실적 발표",
+      "url": "https://n.news.naver.com/mnews/article/448/0000636286"
     },
     {
-      "title": "삼성바이오, 3조원 주주배정 유증…폴리펩타이드 인수·공장 증설에 투입",
-      "url": "https://n.news.naver.com/mnews/article/015/0005325788"
+      "title": "정부, CPTPP 가입 논의 재개…농업계 반발 여전",
+      "url": "https://n.news.naver.com/mnews/article/422/0000900639"
     },
     {
-      "title": "[단독] 회생 근거 ‘빈껍데기’인데… 홈플은 “채권단 동의 사실상 확보”",
-      "url": "https://n.news.naver.com/mnews/article/005/0001869424"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/448/0000636239"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6788.88,
+      "change": -123.49,
+      "change_pct": -1.79
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 838.41,
+      "change": 0.76,
+      "change_pct": 0.09
     },
     "nasdaq": {
       "value": 26402.42,
@@ -58,9 +58,9 @@
       "change_pct": -0.52
     },
     "usdkrw": {
-      "value": 1375.67,
-      "change": -7.82,
-      "change_pct": -0.57
+      "value": 1371.5,
+      "change": -8.95,
+      "change_pct": -0.65
     }
   },
   "gold": {
@@ -69,6 +69,6 @@
     "change": -105.6,
     "change_pct": -2.29
   },
-  "updated": "2026-08-29 12:00",
+  "updated": "2026-08-30 07:57",
   "error": null
 }
