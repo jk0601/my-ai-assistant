@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "한화·두산 '자사주 소각' 승부수…HD현대는 배당에 방점[주주환원시대④]",
-      "url": "https://n.news.naver.com/mnews/article/003/0014155968"
-    },
-    {
-      "title": "“1주택 거주·비거주 차등 과세는 위험한 사회 실험”… 전월세 대란·중저가 쏠림 부른다",
-      "url": "https://n.news.naver.com/mnews/article/022/0004154605"
-    },
-    {
-      "title": "종부세 21년…'매' 들어도 서울 집값은 제 갈 길 갔다",
-      "url": "https://n.news.naver.com/mnews/article/008/0005406584"
-    },
-    {
-      "title": "다음주 800조 슈퍼예산 공개... 반도체 훈풍에 역대급 세수",
-      "url": "https://n.news.naver.com/mnews/article/661/0000082394"
-    },
-    {
-      "title": "롯데마트, 인도네시아 끌라빠가딩점 재단장…K푸드 콘텐츠 결합",
-      "url": "https://n.news.naver.com/mnews/article/001/0016278248"
-    },
-    {
-      "title": "주유소 기름값 15주째 하락…휘발유·경유 1,800원대",
-      "url": "https://n.news.naver.com/mnews/article/422/0000900619"
-    },
-    {
-      "title": "뉴욕증시, 워시 '매파 발언'에 일제 하락",
-      "url": "https://n.news.naver.com/mnews/article/055/0001384319"
-    },
-    {
-      "title": "월요일 국장 어쩌나…中 창신메모리 '깜짝' 실적 발표",
-      "url": "https://n.news.naver.com/mnews/article/448/0000636286"
-    },
-    {
-      "title": "정부, CPTPP 가입 논의 재개…농업계 반발 여전",
-      "url": "https://n.news.naver.com/mnews/article/422/0000900639"
+      "title": "中 CXMT ‘깜짝 실적’…삼전·하닉엔 호재일까 악재일까",
+      "url": "https://n.news.naver.com/mnews/article/023/0003995638"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/448/0000636239"
+      "url": "https://n.news.naver.com/mnews/article/056/0012247402"
+    },
+    {
+      "title": "한일 청년, 결혼·출산의 조건은 '경제적 안정'…경제계 직접 나선다",
+      "url": "https://n.news.naver.com/mnews/article/277/0005809139"
+    },
+    {
+      "title": "수도권 거점 환승센터 35곳 확충… 광역버스 회차율 50%로 올린다",
+      "url": "https://n.news.naver.com/mnews/article/666/0000121129"
+    },
+    {
+      "title": "전쟁·관세·AI 투자붐에 글로벌 긴축 기조…韓도 고금리 장기화 압력",
+      "url": "https://n.news.naver.com/mnews/article/018/0006360585"
+    },
+    {
+      "title": "근원물가 2%대 중반 되면 ‘가격 도미노 인상’…기준금리 인상 뒷받침",
+      "url": "https://n.news.naver.com/mnews/article/028/0002820747"
+    },
+    {
+      "title": "'한국인 실종 추정 지점' 영상 나왔는데...\"헬기 좀 띄워주세요\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006360586"
+    },
+    {
+      "title": "한화, 우주 콘퍼런스서 \"한국판 스페이스X 필요\" 공감대",
+      "url": "https://n.news.naver.com/mnews/article/001/0016278494"
+    },
+    {
+      "title": "\"대출 늘렸다는데 개별 주담대는 여전히 오픈런\"..5대銀 가계대출 목표치 60% 증가 예상",
+      "url": "https://n.news.naver.com/mnews/article/014/0005568183"
+    },
+    {
+      "title": "청약통장 올해도 33만좌 순감…정희용 “4년째 ‘탈청약’”",
+      "url": "https://n.news.naver.com/mnews/article/009/0005727605"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": -0.52
     },
     "usdkrw": {
-      "value": 1371.5,
-      "change": -8.95,
-      "change_pct": -0.65
+      "value": 1377.33,
+      "change": -3.12,
+      "change_pct": -0.23
     }
   },
   "gold": {
-    "price_usd": 4504.1,
-    "price_krw": 6196155,
-    "change": -105.6,
-    "change_pct": -2.29
+    "price_usd": 4508.0,
+    "price_krw": 6209003,
+    "change": 29.9,
+    "change_pct": 0.67
   },
-  "updated": "2026-08-30 07:57",
+  "updated": "2026-08-31 08:03",
   "error": null
 }
