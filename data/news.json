@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "中 CXMT ‘깜짝 실적’…삼전·하닉엔 호재일까 악재일까",
-      "url": "https://n.news.naver.com/mnews/article/023/0003995638"
+      "title": "홍지선 “선호 입지에 양질 주택 신속 공급…미래 모빌리티 성과 낼 것”",
+      "url": "https://n.news.naver.com/mnews/article/030/0003461848"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012247402"
+      "title": "뉴욕증시, 미·이란 재충돌에 동반 하락…유가 2%대 급등(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016281344"
     },
     {
-      "title": "한일 청년, 결혼·출산의 조건은 '경제적 안정'…경제계 직접 나선다",
-      "url": "https://n.news.naver.com/mnews/article/277/0005809139"
+      "title": "유한양행, 케이메디허브와 신약 공동연구…후보물질 발굴 협력",
+      "url": "https://n.news.naver.com/mnews/article/008/0005407450"
     },
     {
-      "title": "수도권 거점 환승센터 35곳 확충… 광역버스 회차율 50%로 올린다",
-      "url": "https://n.news.naver.com/mnews/article/666/0000121129"
+      "title": "한화, KAI 지분 취득 공정위 승인 '환영'..\"K방산 경쟁력 강화\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005407274"
     },
     {
-      "title": "전쟁·관세·AI 투자붐에 글로벌 긴축 기조…韓도 고금리 장기화 압력",
-      "url": "https://n.news.naver.com/mnews/article/018/0006360585"
+      "title": "박홍근 \"개각으로 능력 검증된 분, 전문성 인정된 분 들어왔다\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016281222"
     },
     {
-      "title": "근원물가 2%대 중반 되면 ‘가격 도미노 인상’…기준금리 인상 뒷받침",
-      "url": "https://n.news.naver.com/mnews/article/028/0002820747"
+      "title": "GS리테일, 챗GPT 전용 플러그인 출시…행사 정보도 안내",
+      "url": "https://n.news.naver.com/mnews/article/001/0016281444"
     },
     {
-      "title": "'한국인 실종 추정 지점' 영상 나왔는데...\"헬기 좀 띄워주세요\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006360586"
+      "title": "SK에코플랜트, SK오션플랜트 4100억에 매각…새 주인은 '디오션'[fn마켓워치]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005568938"
     },
     {
-      "title": "한화, 우주 콘퍼런스서 \"한국판 스페이스X 필요\" 공감대",
-      "url": "https://n.news.naver.com/mnews/article/001/0016278494"
+      "title": "새 통상질서…한국, CPTPP 선택지 주목",
+      "url": "https://n.news.naver.com/mnews/article/215/0001264258"
     },
     {
-      "title": "\"대출 늘렸다는데 개별 주담대는 여전히 오픈런\"..5대銀 가계대출 목표치 60% 증가 예상",
-      "url": "https://n.news.naver.com/mnews/article/014/0005568183"
+      "title": "한화에어로, K9 자주포 스페인에 128대 수출…서유럽 첫 진출",
+      "url": "https://n.news.naver.com/mnews/article/011/0004656895"
     },
     {
-      "title": "청약통장 올해도 33만좌 순감…정희용 “4년째 ‘탈청약’”",
-      "url": "https://n.news.naver.com/mnews/article/009/0005727605"
+      "title": "SK하이닉스, 목표가 330만원→240만원...\"HBM 공급자 프리미엄 완화\"-LS",
+      "url": "https://n.news.naver.com/mnews/article/008/0005406860"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6788.88,
-      "change": -123.49,
-      "change_pct": -1.79
+      "value": 6820.02,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 838.41,
-      "change": 0.76,
-      "change_pct": 0.09
+      "value": 834.29,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26402.42,
-      "change": -138.93,
-      "change_pct": -0.52
+      "value": 26370.89,
+      "change": -31.53,
+      "change_pct": -0.12
     },
     "usdkrw": {
-      "value": 1377.33,
-      "change": -3.12,
-      "change_pct": -0.23
+      "value": 1366.58,
+      "change": 0.0,
+      "change_pct": 0.0
     }
   },
   "gold": {
-    "price_usd": 4508.0,
-    "price_krw": 6209003,
-    "change": 29.9,
-    "change_pct": 0.67
+    "price_usd": 4503.4,
+    "price_krw": 6154256,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-08-31 08:03",
+  "updated": "2026-09-01 09:19",
   "error": null
 }
