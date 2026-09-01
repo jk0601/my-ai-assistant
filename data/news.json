@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "홍지선 “선호 입지에 양질 주택 신속 공급…미래 모빌리티 성과 낼 것”",
-      "url": "https://n.news.naver.com/mnews/article/030/0003461848"
+      "title": "162조+α 미래대응기금 조성…\"불황 땐 재정 안전판 역할\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005327363"
     },
     {
-      "title": "뉴욕증시, 미·이란 재충돌에 동반 하락…유가 2%대 급등(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016281344"
+      "title": "삼성의 메모리 한계 돌파 키워드 'CUBE'…글로벌 기술 무대서 공개",
+      "url": "https://n.news.naver.com/mnews/article/079/0004184811"
     },
     {
-      "title": "유한양행, 케이메디허브와 신약 공동연구…후보물질 발굴 협력",
-      "url": "https://n.news.naver.com/mnews/article/008/0005407450"
+      "title": "공정위, CJ제일제당 등 5개사 현장조사…장류 가격 담합 혐의",
+      "url": "https://n.news.naver.com/mnews/article/421/0009144789"
     },
     {
-      "title": "한화, KAI 지분 취득 공정위 승인 '환영'..\"K방산 경쟁력 강화\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005407274"
+      "title": "유가·국채금리 상승에 뉴욕증시 하락…나스닥 0.9%↓",
+      "url": "https://n.news.naver.com/mnews/article/015/0005327492"
     },
     {
-      "title": "박홍근 \"개각으로 능력 검증된 분, 전문성 인정된 분 들어왔다\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016281222"
+      "title": "'9억 축소 철회·150% 상한 유지' 등 세법 개정안 확정…주가누르기는 빠져(종합)",
+      "url": "https://n.news.naver.com/mnews/article/277/0005810320"
     },
     {
-      "title": "GS리테일, 챗GPT 전용 플러그인 출시…행사 정보도 안내",
-      "url": "https://n.news.naver.com/mnews/article/001/0016281444"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002401149"
     },
     {
-      "title": "SK에코플랜트, SK오션플랜트 4100억에 매각…새 주인은 '디오션'[fn마켓워치]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005568938"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002401073"
     },
     {
-      "title": "새 통상질서…한국, CPTPP 선택지 주목",
-      "url": "https://n.news.naver.com/mnews/article/215/0001264258"
+      "title": "2030년 나라살림 1000조 시대 열린다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006361551"
     },
     {
-      "title": "한화에어로, K9 자주포 스페인에 128대 수출…서유럽 첫 진출",
-      "url": "https://n.news.naver.com/mnews/article/011/0004656895"
+      "title": "청년 예산만 15조 늘려...“과도하다 싶은 대책 필요” vs “재원 우려” [2027년 예산안]",
+      "url": "https://n.news.naver.com/mnews/article/025/0003548220"
     },
     {
-      "title": "SK하이닉스, 목표가 330만원→240만원...\"HBM 공급자 프리미엄 완화\"-LS",
-      "url": "https://n.news.naver.com/mnews/article/008/0005406860"
+      "title": "항공업계, 올해 안전 분야에 17.4조 투자…신규 항공기 60대 도입",
+      "url": "https://n.news.naver.com/mnews/article/008/0005408116"
     }
   ],
   "stocks": {
@@ -53,22 +53,22 @@
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26370.89,
-      "change": -31.53,
-      "change_pct": -0.12
+      "value": 26099.77,
+      "change": -271.12,
+      "change_pct": -1.03
     },
     "usdkrw": {
-      "value": 1366.58,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 1374.25,
+      "change": -2.86,
+      "change_pct": -0.21
     }
   },
   "gold": {
-    "price_usd": 4503.4,
-    "price_krw": 6154256,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4374.6,
+    "price_krw": 6011794,
+    "change": -56.5,
+    "change_pct": -1.28
   },
-  "updated": "2026-09-01 09:19",
+  "updated": "2026-09-02 07:56",
   "error": null
 }
