@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "162조+α 미래대응기금 조성…\"불황 땐 재정 안전판 역할\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005327363"
-    },
-    {
-      "title": "삼성의 메모리 한계 돌파 키워드 'CUBE'…글로벌 기술 무대서 공개",
-      "url": "https://n.news.naver.com/mnews/article/079/0004184811"
-    },
-    {
-      "title": "공정위, CJ제일제당 등 5개사 현장조사…장류 가격 담합 혐의",
-      "url": "https://n.news.naver.com/mnews/article/421/0009144789"
-    },
-    {
-      "title": "유가·국채금리 상승에 뉴욕증시 하락…나스닥 0.9%↓",
-      "url": "https://n.news.naver.com/mnews/article/015/0005327492"
-    },
-    {
-      "title": "'9억 축소 철회·150% 상한 유지' 등 세법 개정안 확정…주가누르기는 빠져(종합)",
-      "url": "https://n.news.naver.com/mnews/article/277/0005810320"
-    },
-    {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002401149"
+      "url": "https://n.news.naver.com/mnews/article/374/0000530868"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002401073"
+      "title": "'국채 금리 낮추기' 급한 트럼프 정부…스테이블코인으로 급한 불 끄나",
+      "url": "https://n.news.naver.com/mnews/article/015/0005328078"
     },
     {
-      "title": "2030년 나라살림 1000조 시대 열린다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006361551"
+      "title": "착공 늘리고 매입 확대…LH, 주택 공급 '속도'",
+      "url": "https://n.news.naver.com/mnews/article/015/0005327993"
     },
     {
-      "title": "청년 예산만 15조 늘려...“과도하다 싶은 대책 필요” vs “재원 우려” [2027년 예산안]",
-      "url": "https://n.news.naver.com/mnews/article/025/0003548220"
+      "title": "SKT 요금 감면 기저효과에 물가 3%대 복귀",
+      "url": "https://n.news.naver.com/mnews/article/081/0003676226"
     },
     {
-      "title": "항공업계, 올해 안전 분야에 17.4조 투자…신규 항공기 60대 도입",
-      "url": "https://n.news.naver.com/mnews/article/008/0005408116"
+      "title": "법원, 홈플러스 회생계획안 인가…즉시 효력 발생",
+      "url": "https://n.news.naver.com/mnews/article/015/0005327994"
+    },
+    {
+      "title": "정용진의 하이엔드 승부수…‘아만 서울’ 청담동에 세운다",
+      "url": "https://n.news.naver.com/mnews/article/081/0003676223"
+    },
+    {
+      "title": "두산퓨얼셀, 美 데이터센터 진출에도 12%대 급락…4만원선 붕괴[이런국장 저런주식]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004657804"
+    },
+    {
+      "title": "국채 금리 숨고르기...뉴욕 증시, 4거래일만에 반등 [데일리국제금융]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004658064"
+    },
+    {
+      "title": "유가상승에 인플레 우려…미국 10년물 국채금리 작년 1월 이후 최고",
+      "url": "https://n.news.naver.com/mnews/article/055/0001385133"
+    },
+    {
+      "title": "코레일 추석 승차권 내일부터 예매…SRT 회원 '통합전환' 필수",
+      "url": "https://n.news.naver.com/mnews/article/374/0000530755"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6820.02,
+      "value": 6835.8,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 834.29,
+      "value": 821.25,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26099.77,
-      "change": -271.12,
-      "change_pct": -1.03
+      "value": 26217.83,
+      "change": 118.06,
+      "change_pct": 0.45
     },
     "usdkrw": {
-      "value": 1374.25,
-      "change": -2.86,
-      "change_pct": -0.21
+      "value": 1358.98,
+      "change": -7.64,
+      "change_pct": -0.56
     }
   },
   "gold": {
-    "price_usd": 4374.6,
-    "price_krw": 6011794,
-    "change": -56.5,
-    "change_pct": -1.28
+    "price_usd": 4429.9,
+    "price_krw": 6020145,
+    "change": 81.9,
+    "change_pct": 1.88
   },
-  "updated": "2026-09-02 07:56",
+  "updated": "2026-09-03 07:56",
   "error": null
 }
