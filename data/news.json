@@ -1,74 +1,74 @@
 {
   "news": [
     {
+      "title": "공공기관 20% 대수술…109곳 통폐합, 발전 5개사 하나로",
+      "url": "https://n.news.naver.com/mnews/article/277/0005811462"
+    },
+    {
+      "title": "총수 일가 사익편취 규제 회사 처음으로 1000개 넘어···삼성, ‘임원 주식 성과 보상’ 317건",
+      "url": "https://n.news.naver.com/mnews/article/032/0003468292"
+    },
+    {
+      "title": "‘HBM 레이스’ 이제 시작…삼성·SK 격차 17%p까지 좁혀졌다",
+      "url": "https://n.news.naver.com/mnews/article/016/0002692589"
+    },
+    {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/374/0000530868"
+      "url": "https://n.news.naver.com/mnews/article/056/0012250366"
     },
     {
-      "title": "'국채 금리 낮추기' 급한 트럼프 정부…스테이블코인으로 급한 불 끄나",
-      "url": "https://n.news.naver.com/mnews/article/015/0005328078"
+      "title": "‘먼저 합의한 기업만 손해’… 형평성 논란 부르는 N% 성과급 시행지침",
+      "url": "https://n.news.naver.com/mnews/article/366/0001190277"
     },
     {
-      "title": "착공 늘리고 매입 확대…LH, 주택 공급 '속도'",
-      "url": "https://n.news.naver.com/mnews/article/015/0005327993"
+      "title": "뉴욕증시, 월러 '금리 동결' 시사에 일제 상승…나스닥 1.4%↑",
+      "url": "https://n.news.naver.com/mnews/article/003/0014168512"
     },
     {
-      "title": "SKT 요금 감면 기저효과에 물가 3%대 복귀",
-      "url": "https://n.news.naver.com/mnews/article/081/0003676226"
+      "title": "\"AI 집사가 집안 관리\"…삼성·LG 'AI 리빙' 공개",
+      "url": "https://n.news.naver.com/mnews/article/015/0005328447"
     },
     {
-      "title": "법원, 홈플러스 회생계획안 인가…즉시 효력 발생",
-      "url": "https://n.news.naver.com/mnews/article/015/0005327994"
+      "title": "“지방 이전하면 퇴사”…뿔난 국책은행 노조 4일 총파업 한다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005730227"
     },
     {
-      "title": "정용진의 하이엔드 승부수…‘아만 서울’ 청담동에 세운다",
-      "url": "https://n.news.naver.com/mnews/article/081/0003676223"
+      "title": "환율 14개월만에 1350원대로…강달러 속 원화가치 상승 ‘이례적’",
+      "url": "https://n.news.naver.com/mnews/article/020/0003745543"
     },
     {
-      "title": "두산퓨얼셀, 美 데이터센터 진출에도 12%대 급락…4만원선 붕괴[이런국장 저런주식]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004657804"
-    },
-    {
-      "title": "국채 금리 숨고르기...뉴욕 증시, 4거래일만에 반등 [데일리국제금융]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004658064"
-    },
-    {
-      "title": "유가상승에 인플레 우려…미국 10년물 국채금리 작년 1월 이후 최고",
-      "url": "https://n.news.naver.com/mnews/article/055/0001385133"
-    },
-    {
-      "title": "코레일 추석 승차권 내일부터 예매…SRT 회원 '통합전환' 필수",
-      "url": "https://n.news.naver.com/mnews/article/374/0000530755"
+      "title": "SM그룹, 여주대에 70억 기부…신입생 장학금으로",
+      "url": "https://n.news.naver.com/mnews/article/011/0004658099"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6835.8,
+      "value": 6562.72,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 821.25,
+      "value": 803.98,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26217.83,
-      "change": 118.06,
-      "change_pct": 0.45
+      "value": 26584.06,
+      "change": 366.23,
+      "change_pct": 1.4
     },
     "usdkrw": {
-      "value": 1358.98,
-      "change": -7.64,
-      "change_pct": -0.56
+      "value": 1355.91,
+      "change": -16.95,
+      "change_pct": -1.23
     }
   },
   "gold": {
-    "price_usd": 4429.9,
-    "price_krw": 6020145,
-    "change": 81.9,
-    "change_pct": 1.88
+    "price_usd": 4521.1,
+    "price_krw": 6130204,
+    "change": 154.8,
+    "change_pct": 3.55
   },
-  "updated": "2026-09-03 07:56",
+  "updated": "2026-09-04 07:56",
   "error": null
 }
