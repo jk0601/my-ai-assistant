@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "공공기관 20% 대수술…109곳 통폐합, 발전 5개사 하나로",
-      "url": "https://n.news.naver.com/mnews/article/277/0005811462"
-    },
-    {
-      "title": "총수 일가 사익편취 규제 회사 처음으로 1000개 넘어···삼성, ‘임원 주식 성과 보상’ 317건",
-      "url": "https://n.news.naver.com/mnews/article/032/0003468292"
-    },
-    {
-      "title": "‘HBM 레이스’ 이제 시작…삼성·SK 격차 17%p까지 좁혀졌다",
-      "url": "https://n.news.naver.com/mnews/article/016/0002692589"
+      "title": "노무라증권 \"삼전·닉스, 심각한 저평가…전례 없는 수요 호조\"",
+      "url": "https://n.news.naver.com/mnews/article/374/0000531225"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012250366"
+      "url": "https://n.news.naver.com/mnews/article/055/0001385748"
     },
     {
-      "title": "‘먼저 합의한 기업만 손해’… 형평성 논란 부르는 N% 성과급 시행지침",
-      "url": "https://n.news.naver.com/mnews/article/366/0001190277"
+      "title": "뉴욕증시, 월러 '금리 동결 지지' 발언에 일제히 1%대 강세",
+      "url": "https://n.news.naver.com/mnews/article/374/0000531149"
     },
     {
-      "title": "뉴욕증시, 월러 '금리 동결' 시사에 일제 상승…나스닥 1.4%↑",
-      "url": "https://n.news.naver.com/mnews/article/003/0014168512"
+      "title": "코스닥 상폐 기준 강화 내년 7월로 미룬다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005328860"
     },
     {
-      "title": "\"AI 집사가 집안 관리\"…삼성·LG 'AI 리빙' 공개",
-      "url": "https://n.news.naver.com/mnews/article/015/0005328447"
+      "title": "금감원 노조, 靑에 탄원서 제출...“금융중심지 서울에 남아야”",
+      "url": "https://n.news.naver.com/mnews/article/366/0001190469"
     },
     {
-      "title": "“지방 이전하면 퇴사”…뿔난 국책은행 노조 4일 총파업 한다",
-      "url": "https://n.news.naver.com/mnews/article/009/0005730227"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000902932"
     },
     {
-      "title": "환율 14개월만에 1350원대로…강달러 속 원화가치 상승 ‘이례적’",
-      "url": "https://n.news.naver.com/mnews/article/020/0003745543"
+      "title": "LG, 엔비디아·구글·MS와 ‘AI 축제’ 연다…그룹 AX 총력전",
+      "url": "https://n.news.naver.com/mnews/article/016/0002692789"
     },
     {
-      "title": "SM그룹, 여주대에 70억 기부…신입생 장학금으로",
-      "url": "https://n.news.naver.com/mnews/article/011/0004658099"
+      "title": "\"런웨이 보고 장도 보고\" 가을맞이 쇼핑 행사 풍성[위클리 쇼핑]",
+      "url": "https://n.news.naver.com/mnews/article/003/0014170818"
+    },
+    {
+      "title": "독일·대만·일본 제쳤다, 남은 건 중국뿐…'핵심변수는 반도체' 경상흑자 연 4500억달러 달성할까",
+      "url": "https://n.news.naver.com/mnews/article/277/0005812012"
+    },
+    {
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/215/0001264891"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6562.72,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 803.98,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26584.06,
-      "change": 366.23,
-      "change_pct": 1.4
+      "value": 26506.99,
+      "change": -77.07,
+      "change_pct": -0.29
     },
     "usdkrw": {
-      "value": 1355.91,
-      "change": -16.95,
-      "change_pct": -1.23
+      "value": 1345.99,
+      "change": -12.4,
+      "change_pct": -0.91
     }
   },
   "gold": {
-    "price_usd": 4521.1,
-    "price_krw": 6130204,
-    "change": 154.8,
-    "change_pct": 3.55
+    "price_usd": 4477.2,
+    "price_krw": 6026266,
+    "change": -14.5,
+    "change_pct": -0.32
   },
-  "updated": "2026-09-04 07:56",
+  "updated": "2026-09-05 07:43",
   "error": null
 }
