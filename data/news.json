@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "노무라증권 \"삼전·닉스, 심각한 저평가…전례 없는 수요 호조\"",
-      "url": "https://n.news.naver.com/mnews/article/374/0000531225"
+      "title": "“워시의 모호한 태도, 시장 혼란만 키웠다”…작심비판한 월가 베테랑",
+      "url": "https://n.news.naver.com/mnews/article/009/0005730727"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001385748"
+      "title": "남동발전, 네팔 연락두절 직원 수색에 드론·수색견 투입",
+      "url": "https://n.news.naver.com/mnews/article/655/0000032673"
     },
     {
-      "title": "뉴욕증시, 월러 '금리 동결 지지' 발언에 일제히 1%대 강세",
-      "url": "https://n.news.naver.com/mnews/article/374/0000531149"
+      "title": "오늘 서울세계불꽃축제...밤하늘 구경에 백만 명 운집",
+      "url": "https://n.news.naver.com/mnews/article/052/0002402965"
     },
     {
-      "title": "코스닥 상폐 기준 강화 내년 7월로 미룬다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005328860"
+      "title": "“추석 선물 벌써 반값”…가을옷·캠핑까지, 이커머스 ‘9월 장바구니 전쟁’",
+      "url": "https://n.news.naver.com/mnews/article/022/0004156514"
     },
     {
-      "title": "금감원 노조, 靑에 탄원서 제출...“금융중심지 서울에 남아야”",
-      "url": "https://n.news.naver.com/mnews/article/366/0001190469"
+      "title": "삼성전자 DX 노조, 18일부터 이재용 회장 자택앞 집회",
+      "url": "https://n.news.naver.com/mnews/article/001/0016291443"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000902932"
+      "title": "스마트폰·대형가전부터 AI칩·로봇·전기차까지… 中 샤오미 ‘통합 생태계’ 가보니[IFA 2026]",
+      "url": "https://n.news.naver.com/mnews/article/366/0001190543"
     },
     {
-      "title": "LG, 엔비디아·구글·MS와 ‘AI 축제’ 연다…그룹 AX 총력전",
-      "url": "https://n.news.naver.com/mnews/article/016/0002692789"
+      "title": "“저평가 심각” 해외IB, 삼전닉스 67만·470만 목표 배경은?",
+      "url": "https://n.news.naver.com/mnews/article/005/0001871041"
     },
     {
-      "title": "\"런웨이 보고 장도 보고\" 가을맞이 쇼핑 행사 풍성[위클리 쇼핑]",
-      "url": "https://n.news.naver.com/mnews/article/003/0014170818"
+      "title": "전 세계 억만장자 3795명 자산만 '2경' 넘어…AI 폭발 수요 배경",
+      "url": "https://n.news.naver.com/mnews/article/018/0006364147"
     },
     {
-      "title": "독일·대만·일본 제쳤다, 남은 건 중국뿐…'핵심변수는 반도체' 경상흑자 연 4500억달러 달성할까",
-      "url": "https://n.news.naver.com/mnews/article/277/0005812012"
+      "title": "‘농심 3세’ 신상열 부사장, 13일 결혼…예비 신부는 SKT 회사원",
+      "url": "https://n.news.naver.com/mnews/article/022/0004156524"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/215/0001264891"
+      "title": "9월 초 수출누계 7,094억 달러…작년 연간치 넘고 1조 달러 성큼",
+      "url": "https://n.news.naver.com/mnews/article/055/0001386123"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6687.21,
+      "change": 107.73,
+      "change_pct": 1.64
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 813.5,
+      "change": 23.29,
+      "change_pct": 2.95
     },
     "nasdaq": {
       "value": 26506.99,
@@ -58,17 +58,17 @@
       "change_pct": -0.29
     },
     "usdkrw": {
-      "value": 1345.99,
-      "change": -12.4,
-      "change_pct": -0.91
+      "value": 1351.1,
+      "change": -4.31,
+      "change_pct": -0.32
     }
   },
   "gold": {
-    "price_usd": 4477.2,
-    "price_krw": 6026266,
-    "change": -14.5,
-    "change_pct": -0.32
+    "price_usd": 4429.8,
+    "price_krw": 5985102,
+    "change": -61.9,
+    "change_pct": -1.38
   },
-  "updated": "2026-09-05 07:43",
+  "updated": "2026-09-06 07:34",
   "error": null
 }
