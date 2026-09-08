@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "올 주택 착공 목표치 30%도 못했는데… 文정부 때보다 ‘미친 집값’ [뉴스 투데이]",
-      "url": "https://n.news.naver.com/mnews/article/022/0004157057"
+      "title": "나이키 S&P 100지수에서 빠진다....주가 고점 대비 78% 하락",
+      "url": "https://n.news.naver.com/mnews/article/014/0005572392"
     },
     {
-      "title": "롯데슈퍼도 참전…판 커지는 SSM 퀵커머스",
-      "url": "https://n.news.naver.com/mnews/article/011/0004659228"
+      "title": "다이소, 납품업체에 재고·판촉비 떠넘겼나…공정위 현장조사",
+      "url": "https://n.news.naver.com/mnews/article/421/0009158510"
     },
     {
-      "title": "“전세보증금 16억 들고 태국으로 튀었다” 세입자 ‘눈물’…‘문제 집주인’ 미리 확인하는 법",
-      "url": "https://n.news.naver.com/mnews/article/011/0004659524"
+      "title": "2차 국민성장펀드 30일부터 판매…'서민 물량' 50%로 확대",
+      "url": "https://n.news.naver.com/mnews/article/015/0005329947"
     },
     {
-      "title": "“기저귀 떼기도 전 월세 꼬박꼬박”...미취학 아동 179명, 부동산 임대소득 올렸다",
-      "url": "https://n.news.naver.com/mnews/article/009/0005731171"
+      "title": "\"내년까지 100명 인력 확보\"…삼성전자가 3500억 들여 공들인다는 '이것'",
+      "url": "https://n.news.naver.com/mnews/article/277/0005813635"
     },
     {
-      "title": "\"15명 채용\"...기업은행, 하반기 정규직 수시채용 실시",
-      "url": "https://n.news.naver.com/mnews/article/014/0005572113"
+      "title": "국제유가 뛰자 환율 꿈틀…엔화 강세에도 상승",
+      "url": "https://n.news.naver.com/mnews/article/374/0000531816"
     },
     {
-      "title": "하나證, AI브리핑 기능 탑재한 신규 MTS '하나증권V' 출시",
-      "url": "https://n.news.naver.com/mnews/article/009/0005731663"
+      "title": "'소득 4만달러' 눈앞인데 지갑 그대로…\"반도체 호황, 기술기업·고용 키워야\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009158475"
     },
     {
-      "title": "국민연금, 고려아연 임시 주총안 모두 찬성키로…사실상 ‘중립’",
-      "url": "https://n.news.naver.com/mnews/article/029/0003046662"
+      "title": "오세훈, 추가 연장 요구하는 장기전세 만기 예정자에 “비양심적” 일갈",
+      "url": "https://n.news.naver.com/mnews/article/011/0004659916"
     },
     {
-      "title": "비트코인 연계 블록체인, 4천300억 원 상당 비트코인 해킹당해",
-      "url": "https://n.news.naver.com/mnews/article/055/0001386436"
+      "title": "우리은행, 서금원과 영세자영업자 성장 지원",
+      "url": "https://n.news.naver.com/mnews/article/003/0014175818"
     },
     {
-      "title": "삼성, 8일부터 15일까지 하반기 공채 지원서 접수",
-      "url": "https://n.news.naver.com/mnews/article/417/0001157568"
+      "title": "대한항공 조종사노조, 10년 만에 파업하나…노동쟁의 조정신청",
+      "url": "https://n.news.naver.com/mnews/article/422/0000903985"
     },
     {
-      "title": "K9로 폴란드 뚫은 한화…이번엔 방공·우주 AI 도전",
-      "url": "https://n.news.naver.com/mnews/article/029/0003046544"
+      "title": "삼성, 미스트랄 AI와 전략적 파트너십…韓·佛 ‘AI 팩토리 동맹’",
+      "url": "https://n.news.naver.com/mnews/article/011/0004659876"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6687.21,
+      "value": 6995.39,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 813.5,
+      "value": 822.19,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26506.99,
-      "change": -77.07,
-      "change_pct": -0.29
+      "value": 26421.41,
+      "change": -85.58,
+      "change_pct": -0.32
     },
     "usdkrw": {
-      "value": 1344.8,
-      "change": -0.26,
-      "change_pct": -0.02
+      "value": 1340.52,
+      "change": -3.05,
+      "change_pct": -0.23
     }
   },
   "gold": {
-    "price_usd": 4457.0,
-    "price_krw": 5993773,
-    "change": 27.2,
-    "change_pct": 0.61
+    "price_usd": 4396.8,
+    "price_krw": 5893998,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-09-08 08:14",
+  "updated": "2026-09-09 08:06",
   "error": null
 }
