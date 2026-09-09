@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "나이키 S&P 100지수에서 빠진다....주가 고점 대비 78% 하락",
-      "url": "https://n.news.naver.com/mnews/article/014/0005572392"
+      "title": "\"가만히 앉아서 11조 날릴 판\" 경고…삼성전자 '초비상' [분석+]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005330370"
     },
     {
-      "title": "다이소, 납품업체에 재고·판촉비 떠넘겼나…공정위 현장조사",
-      "url": "https://n.news.naver.com/mnews/article/421/0009158510"
+      "title": "‘삼전 보합’에도 코스피 7000 안착… 2차전지·정유화학 ‘쌍끌이’ [이런국장 저런주식]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004660162"
     },
     {
-      "title": "2차 국민성장펀드 30일부터 판매…'서민 물량' 50%로 확대",
-      "url": "https://n.news.naver.com/mnews/article/015/0005329947"
+      "title": "수입가 부풀리고 바지업체 동원…할당관세 악용 10곳 덜미",
+      "url": "https://n.news.naver.com/mnews/article/011/0004660190"
     },
     {
-      "title": "\"내년까지 100명 인력 확보\"…삼성전자가 3500억 들여 공들인다는 '이것'",
-      "url": "https://n.news.naver.com/mnews/article/277/0005813635"
+      "title": "삼성증권, 9년 만에 발행어음 사업 승인...국내 8번째 사업자",
+      "url": "https://n.news.naver.com/mnews/article/052/0002404873"
     },
     {
-      "title": "국제유가 뛰자 환율 꿈틀…엔화 강세에도 상승",
-      "url": "https://n.news.naver.com/mnews/article/374/0000531816"
+      "title": "정부 “쉬었음 청년 감소세…구직 활동 단계 진입 가능성”",
+      "url": "https://n.news.naver.com/mnews/article/056/0012253868"
     },
     {
-      "title": "'소득 4만달러' 눈앞인데 지갑 그대로…\"반도체 호황, 기술기업·고용 키워야\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009158475"
+      "title": "곽노정 SK하닉 사장 미래포럼서 \"AI 메모리 경쟁, 외부변화 읽어야\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005573511"
     },
     {
-      "title": "오세훈, 추가 연장 요구하는 장기전세 만기 예정자에 “비양심적” 일갈",
-      "url": "https://n.news.naver.com/mnews/article/011/0004659916"
+      "title": "삼성증권, 연말까지 '퇴직연금 개인투자용 국채 이벤트'",
+      "url": "https://n.news.naver.com/mnews/article/277/0005813776"
     },
     {
-      "title": "우리은행, 서금원과 영세자영업자 성장 지원",
-      "url": "https://n.news.naver.com/mnews/article/003/0014175818"
+      "title": "코스맥스-로레알그룹, 한불수교 140주년 맞아 MOU",
+      "url": "https://n.news.naver.com/mnews/article/009/0005732663"
     },
     {
-      "title": "대한항공 조종사노조, 10년 만에 파업하나…노동쟁의 조정신청",
-      "url": "https://n.news.naver.com/mnews/article/422/0000903985"
+      "title": "IBK 기업은행, 경찰 영장에도 대출 사기 인지 못 해",
+      "url": "https://n.news.naver.com/mnews/article/052/0002404685"
     },
     {
-      "title": "삼성, 미스트랄 AI와 전략적 파트너십…韓·佛 ‘AI 팩토리 동맹’",
-      "url": "https://n.news.naver.com/mnews/article/011/0004659876"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012254165"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6995.39,
+      "value": 6954.52,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 822.19,
+      "value": 811.88,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26421.41,
-      "change": -85.58,
-      "change_pct": -0.32
+      "value": 26253.34,
+      "change": -168.07,
+      "change_pct": -0.64
     },
     "usdkrw": {
-      "value": 1340.52,
-      "change": -3.05,
-      "change_pct": -0.23
+      "value": 1339.38,
+      "change": -4.19,
+      "change_pct": -0.31
     }
   },
   "gold": {
-    "price_usd": 4396.8,
-    "price_krw": 5893998,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4445.1,
+    "price_krw": 5953678,
+    "change": 51.2,
+    "change_pct": 1.17
   },
-  "updated": "2026-09-09 08:06",
+  "updated": "2026-09-10 07:52",
   "error": null
 }
