@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "\"가만히 앉아서 11조 날릴 판\" 경고…삼성전자 '초비상' [분석+]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005330370"
+      "title": "KB금융-블룸버그, 글로벌 자본시장 협력 강화",
+      "url": "https://n.news.naver.com/mnews/article/014/0005574141"
     },
     {
-      "title": "‘삼전 보합’에도 코스피 7000 안착… 2차전지·정유화학 ‘쌍끌이’ [이런국장 저런주식]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004660162"
+      "title": "우리투자증권, 수신상품 금리 인상…1년 정기예금 최고 연 4.05%",
+      "url": "https://n.news.naver.com/mnews/article/009/0005733257"
     },
     {
-      "title": "수입가 부풀리고 바지업체 동원…할당관세 악용 10곳 덜미",
-      "url": "https://n.news.naver.com/mnews/article/011/0004660190"
+      "title": "농협, 추석 앞두고 877억 투입…장바구니 부담 낮춘다",
+      "url": "https://n.news.naver.com/mnews/article/088/0001027728"
     },
     {
-      "title": "삼성증권, 9년 만에 발행어음 사업 승인...국내 8번째 사업자",
-      "url": "https://n.news.naver.com/mnews/article/052/0002404873"
+      "title": "[속보]美30년물 국채금리 5.35%…10년물도 4.9% 돌파",
+      "url": "https://n.news.naver.com/mnews/article/215/0001265593"
     },
     {
-      "title": "정부 “쉬었음 청년 감소세…구직 활동 단계 진입 가능성”",
-      "url": "https://n.news.naver.com/mnews/article/056/0012253868"
+      "title": "SK하이닉스 성과급 ‘현금 50% 주식50%’...노사 재합의",
+      "url": "https://n.news.naver.com/mnews/article/009/0005733103"
     },
     {
-      "title": "곽노정 SK하닉 사장 미래포럼서 \"AI 메모리 경쟁, 외부변화 읽어야\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005573511"
+      "title": "롯데, 창립 60주년 앞두고 ‘AI 디자인’ 승부수…‘롯데다움’ 강화",
+      "url": "https://n.news.naver.com/mnews/article/009/0005733256"
     },
     {
-      "title": "삼성증권, 연말까지 '퇴직연금 개인투자용 국채 이벤트'",
-      "url": "https://n.news.naver.com/mnews/article/277/0005813776"
+      "title": "정부, 지역필수의료에 1.3조 투입…지방대 투자도 3조 늘린다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005733539"
     },
     {
-      "title": "코스맥스-로레알그룹, 한불수교 140주년 맞아 MOU",
-      "url": "https://n.news.naver.com/mnews/article/009/0005732663"
+      "title": "최태원, 울산 AI데이터센터·울산CLX 현장 방문…\"AI시대 선도\"(종합2보)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016303568"
     },
     {
-      "title": "IBK 기업은행, 경찰 영장에도 대출 사기 인지 못 해",
-      "url": "https://n.news.naver.com/mnews/article/052/0002404685"
+      "title": "공정위, 대한항공 '좌석 유지 의무' 완화에 기각 의견…심의 개시",
+      "url": "https://n.news.naver.com/mnews/article/055/0001387302"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012254165"
+      "title": "뉴욕 도착한 김정관 \"대미 투자협상 마무리 위해 왔다\"",
+      "url": "https://n.news.naver.com/mnews/article/079/0004188248"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6954.52,
+      "value": 7051.64,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 811.88,
+      "value": 830.37,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26253.34,
-      "change": -168.07,
-      "change_pct": -0.64
+      "value": 26081.72,
+      "change": -171.62,
+      "change_pct": -0.65
     },
     "usdkrw": {
-      "value": 1339.38,
-      "change": -4.19,
-      "change_pct": -0.31
+      "value": 1349.21,
+      "change": 10.0,
+      "change_pct": 0.75
     }
   },
   "gold": {
-    "price_usd": 4445.1,
-    "price_krw": 5953678,
-    "change": 51.2,
-    "change_pct": 1.17
+    "price_usd": 4356.7,
+    "price_krw": 5878103,
+    "change": -59.3,
+    "change_pct": -1.34
   },
-  "updated": "2026-09-10 07:52",
+  "updated": "2026-09-11 07:53",
   "error": null
 }
