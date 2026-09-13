@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/437/0000510817"
+      "title": "1살 아기도 이자·배당 챙겼다…'금수저' 미성년 1,600명 돌파",
+      "url": "https://n.news.naver.com/mnews/article/215/0001265762"
     },
     {
-      "title": "어떤 코인이 살아남는가",
-      "url": "https://n.news.naver.com/mnews/article/018/0006368272"
+      "title": "HD현대, 가스텍서 친환경 선박 기술 공개…정기선 회장도 참석",
+      "url": "https://n.news.naver.com/mnews/article/119/0003131999"
     },
     {
-      "title": "내년 820조 9000억 '슈퍼예산'…국가채무비율은 51.6→48.3%",
-      "url": "https://n.news.naver.com/mnews/article/656/0000186607"
+      "title": "이형일 \"금투세 도입 여부, 시장 충분히 안정된 후 검토\"",
+      "url": "https://n.news.naver.com/mnews/article/055/0001387939"
     },
     {
-      "title": "농협경제지주, 하나로유통 흡수합병 추진…12년 만에 통합",
-      "url": "https://n.news.naver.com/mnews/article/001/0016305586"
+      "title": "부부공동 1주택, 더 낮은 종부세액 알려준다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005734523"
     },
     {
-      "title": "“이런 장세에선 내 돈 지켜야죠”…불안한 투자자들, 파킹형 ETF ‘성큼’",
-      "url": "https://n.news.naver.com/mnews/article/009/0005734182"
+      "title": "반도체 호황에 내년 법인세 216.7조 ‘역대 최대’… 소득세 15년 만에 역전",
+      "url": "https://n.news.naver.com/mnews/article/016/0002696566"
     },
     {
-      "title": "\"우린 세 번 접을 거야\"…애플 '아이폰 듀오'에 삼성전자 견제구",
-      "url": "https://n.news.naver.com/mnews/article/277/0005815355"
+      "title": "환율 1340원대 급락…삼성전자·SK하이닉스 이익 전망도 꺾였다 [투자360]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002696402"
     },
     {
-      "title": "\"유가·금리 경계 vs AI 모멘텀 지속\"…FOMC 주목[주간증시전망]",
-      "url": "https://n.news.naver.com/mnews/article/003/0014186197"
+      "title": "와이즈플래닛·빅웨이브로보틱스 일반청약[증시캘린더]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006368310"
     },
     {
-      "title": "新노조 리스크 해소하려면...‘어떻게 주느냐’ 중요",
-      "url": "https://n.news.naver.com/mnews/article/024/0000108168"
+      "title": "믿었던 HBM 마저…중국이 다 쫓아왔다  [中반도체 공습]",
+      "url": "https://n.news.naver.com/mnews/article/025/0003551102"
     },
     {
-      "title": "뉴욕증시, 5거래일 만 반등...유가 하락·CPI 불확실 해소 덕",
-      "url": "https://n.news.naver.com/mnews/article/014/0005574720"
+      "title": "20대 취업자 19만명 급감…외환위기 이후 최대폭",
+      "url": "https://n.news.naver.com/mnews/article/437/0000510867"
     },
     {
-      "title": "KB금융 차기 회장에 이재근… ‘세대교체’가 ‘대세론’ 깼다",
-      "url": "https://n.news.naver.com/mnews/article/023/0003998006"
+      "title": "미중 갈등에도 글로벌 공급망 튼튼…비결은 ‘커넥트 국가’",
+      "url": "https://n.news.naver.com/mnews/article/028/0002822806"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 0.96
     },
     "usdkrw": {
-      "value": 1341.05,
-      "change": -7.12,
-      "change_pct": -0.53
+      "value": 1342.97,
+      "change": -5.2,
+      "change_pct": -0.39
     }
   },
   "gold": {
-    "price_usd": 4366.2,
-    "price_krw": 5855292,
-    "change": 1.7,
-    "change_pct": 0.04
+    "price_usd": 4376.4,
+    "price_krw": 5877373,
+    "change": 10.2,
+    "change_pct": 0.23
   },
-  "updated": "2026-09-13 07:46",
+  "updated": "2026-09-14 07:46",
   "error": null
 }
