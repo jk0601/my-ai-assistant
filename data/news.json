@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "1살 아기도 이자·배당 챙겼다…'금수저' 미성년 1,600명 돌파",
-      "url": "https://n.news.naver.com/mnews/article/215/0001265762"
+      "title": "유가 급등에 美 10년물 5% 돌파…AI 관련주 '휘청'(종합)",
+      "url": "https://n.news.naver.com/mnews/article/277/0005816214"
     },
     {
-      "title": "HD현대, 가스텍서 친환경 선박 기술 공개…정기선 회장도 참석",
-      "url": "https://n.news.naver.com/mnews/article/119/0003131999"
+      "title": "[단독] 정부, 사상 최초 농지 전수조사… 법 위반 농지 매입에 예산 8868억원 투입",
+      "url": "https://n.news.naver.com/mnews/article/366/0001192092"
     },
     {
-      "title": "이형일 \"금투세 도입 여부, 시장 충분히 안정된 후 검토\"",
-      "url": "https://n.news.naver.com/mnews/article/055/0001387939"
+      "title": "1조 해외송금 배민 등 41곳 세무조사",
+      "url": "https://n.news.naver.com/mnews/article/011/0004661702"
     },
     {
-      "title": "부부공동 1주택, 더 낮은 종부세액 알려준다",
-      "url": "https://n.news.naver.com/mnews/article/009/0005734523"
+      "title": "국채ㆍ유가ㆍAI ‘3중 지뢰밭’…SK하닉 7%·마이크론 6%, 엔비디아 3% 폭락 [뉴욕증시]",
+      "url": "https://n.news.naver.com/mnews/article/029/0003047970"
     },
     {
-      "title": "반도체 호황에 내년 법인세 216.7조 ‘역대 최대’… 소득세 15년 만에 역전",
-      "url": "https://n.news.naver.com/mnews/article/016/0002696566"
+      "title": "고령친화식품 늘편푸드 16종 품평…대형마트·홈쇼핑 판로 모색",
+      "url": "https://n.news.naver.com/mnews/article/119/0003132601"
     },
     {
-      "title": "환율 1340원대 급락…삼성전자·SK하이닉스 이익 전망도 꺾였다 [투자360]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002696402"
+      "title": "KRX 애프터마켓 첫날 앱 오류나고, 변동성 극심",
+      "url": "https://n.news.naver.com/mnews/article/015/0005332189"
     },
     {
-      "title": "와이즈플래닛·빅웨이브로보틱스 일반청약[증시캘린더]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006368310"
+      "title": "홈플러스 임금체불 3871억 '역대 최대'…664억 아직 못 줬다",
+      "url": "https://n.news.naver.com/mnews/article/654/0000200618"
     },
     {
-      "title": "믿었던 HBM 마저…중국이 다 쫓아왔다  [中반도체 공습]",
-      "url": "https://n.news.naver.com/mnews/article/025/0003551102"
+      "title": "거래소 연장거래 첫날 1.8조 돌파...\"투자 수요 확인했다\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005575677"
     },
     {
-      "title": "20대 취업자 19만명 급감…외환위기 이후 최대폭",
-      "url": "https://n.news.naver.com/mnews/article/437/0000510867"
+      "title": "기아, PV7 세계 최초 공개…2027년 국내 출시",
+      "url": "https://n.news.naver.com/mnews/article/277/0005816132"
     },
     {
-      "title": "미중 갈등에도 글로벌 공급망 튼튼…비결은 ‘커넥트 국가’",
-      "url": "https://n.news.naver.com/mnews/article/028/0002822806"
+      "title": "상반기 車보험 1848억 적자… 손해율 전년 比 1.6%p 상승",
+      "url": "https://n.news.naver.com/mnews/article/366/0001192337"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6909.91,
-      "change": -124.01,
-      "change_pct": -1.76
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 820.64,
-      "change": -16.28,
-      "change_pct": -1.95
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26333.04,
-      "change": 251.32,
-      "change_pct": 0.96
+      "value": 26186.41,
+      "change": -146.62,
+      "change_pct": -0.56
     },
     "usdkrw": {
-      "value": 1342.97,
-      "change": -5.2,
-      "change_pct": -0.39
+      "value": 1346.64,
+      "change": 2.0,
+      "change_pct": 0.15
     }
   },
   "gold": {
-    "price_usd": 4376.4,
-    "price_krw": 5877373,
-    "change": 10.2,
-    "change_pct": 0.23
+    "price_usd": 4329.8,
+    "price_krw": 5830681,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-09-14 07:46",
+  "updated": "2026-09-15 08:39",
   "error": null
 }
