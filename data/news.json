@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "GS, AI 데이터센터 기술 생태계 조성에 나선다..스타트업 협력",
-      "url": "https://n.news.naver.com/mnews/article/008/0005414387"
+      "title": "아이보다 노인이 더 쓰는 한국인…45세때 1932만원 '최대 흑자'",
+      "url": "https://n.news.naver.com/mnews/article/421/0009176349"
     },
     {
-      "title": "대미투자 MOU 돌연 연기… 韓美, 막판까지 '샅바싸움'",
-      "url": "https://n.news.naver.com/mnews/article/009/0005736300"
+      "title": "기업 76.5% 추석 나흘 쉰다…상여금 줄고 체감경기 ‘흐림’",
+      "url": "https://n.news.naver.com/mnews/article/022/0004159841"
+    },
+    {
+      "title": "\"종토방에 '고소 인증' 줄줄이\"...백종원 더본코리아, 왜?",
+      "url": "https://n.news.naver.com/mnews/article/018/0006371306"
+    },
+    {
+      "title": "한화시스템, UAE 통합 대공망 구축 추진",
+      "url": "https://n.news.naver.com/mnews/article/015/0005333627"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001388783"
+      "url": "https://n.news.naver.com/mnews/article/422/0000907108"
     },
     {
-      "title": "'마지막 희망' 클래리티법마저 좌초…갈 곳 잃은 비트코인",
-      "url": "https://n.news.naver.com/mnews/article/586/0000138284"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002408206"
     },
     {
-      "title": "LCC도 베이징·상하이 간다..지방공항 중국노선도",
-      "url": "https://n.news.naver.com/mnews/article/014/0005576495"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/374/0000533451"
     },
     {
-      "title": "교수직 내려놓고 분쟁지역 의료봉사…김용민 전 충북대 의대 교수 'JW성천상' 수상",
-      "url": "https://n.news.naver.com/mnews/article/015/0005332801"
+      "title": "LG, AI 시대 투자전략 모색…구광모 \"빠른 속도·집요한 실행력\"",
+      "url": "https://n.news.naver.com/mnews/article/448/0000639914"
     },
     {
-      "title": "與 “농지 전수조사, 추석전 보완책 검토”",
-      "url": "https://n.news.naver.com/mnews/article/020/0003748819"
+      "title": "3각편대 전략 속도내는 장인화 \"판 바뀔땐 실행력이 생존 열쇠\"",
+      "url": "https://n.news.naver.com/mnews/article/009/0005736925"
     },
     {
-      "title": "삼성 초기업노조, 노조비로 '블랙리스트 작성' 위원장 선처 탄원 추진",
-      "url": "https://n.news.naver.com/mnews/article/052/0002407721"
-    },
-    {
-      "title": "“SK하이닉스, 인텔 美 오하이오 공장 임차해 메모리 칩 생산”",
-      "url": "https://n.news.naver.com/mnews/article/023/0003998781"
-    },
-    {
-      "title": "서울 미아2구역 4003가구 공급…‘강북 미니 신도시’로",
-      "url": "https://n.news.naver.com/mnews/article/277/0005817044"
+      "title": "\"생각보다 잘 버틴다\"…금리 압박 속 비트코인 '독자 행보' 이유는",
+      "url": "https://n.news.naver.com/mnews/article/003/0014198353"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6627.26,
+      "value": 6717.97,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 812.41,
+      "value": 815.98,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25978.42,
-      "change": -3.15,
-      "change_pct": -0.01
+      "value": 26418.3,
+      "change": 439.87,
+      "change_pct": 1.69
     },
     "usdkrw": {
-      "value": 1376.25,
-      "change": 12.68,
-      "change_pct": 0.93
+      "value": 1380.37,
+      "change": 3.77,
+      "change_pct": 0.27
     }
   },
   "gold": {
-    "price_usd": 4307.2,
-    "price_krw": 5927784,
-    "change": -25.6,
-    "change_pct": -0.59
+    "price_usd": 4383.0,
+    "price_krw": 6050161,
+    "change": -4.5,
+    "change_pct": -0.1
   },
-  "updated": "2026-09-17 08:28",
+  "updated": "2026-09-18 08:19",
   "error": null
 }
