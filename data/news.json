@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "아이보다 노인이 더 쓰는 한국인…45세때 1932만원 '최대 흑자'",
-      "url": "https://n.news.naver.com/mnews/article/421/0009176349"
+      "title": "국제유가 120달러 넘었는데…‘환율 하락’ 내세워 석유 최고가격 또 동결",
+      "url": "https://n.news.naver.com/mnews/article/023/0003999254"
     },
     {
-      "title": "기업 76.5% 추석 나흘 쉰다…상여금 줄고 체감경기 ‘흐림’",
-      "url": "https://n.news.naver.com/mnews/article/022/0004159841"
+      "title": "두산로보틱스, 신임 CEO에 권영민 사장 선임",
+      "url": "https://n.news.naver.com/mnews/article/025/0003552425"
     },
     {
-      "title": "\"종토방에 '고소 인증' 줄줄이\"...백종원 더본코리아, 왜?",
-      "url": "https://n.news.naver.com/mnews/article/018/0006371306"
+      "title": "유류세 인하 11월 말까지 두 달 연장…\"국민 유류비 부담 경감\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016319461"
     },
     {
-      "title": "한화시스템, UAE 통합 대공망 구축 추진",
-      "url": "https://n.news.naver.com/mnews/article/015/0005333627"
+      "title": "하나금융, ADGM·한화자산운용과 스테이블코인 협력",
+      "url": "https://n.news.naver.com/mnews/article/001/0016320428"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000907108"
+      "title": "한화시스템, AI 우주상황인식체계 개발 착수",
+      "url": "https://n.news.naver.com/mnews/article/079/0004191021"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002408206"
+      "title": "“주식도 코인처럼 사고팔아”…美 SEC, 토큰증권 길 열었다",
+      "url": "https://n.news.naver.com/mnews/article/215/0001266418"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/374/0000533451"
+      "title": "가덕도신공항, 범정부 협의체 첫 가동…공사비 급등 현안 논의",
+      "url": "https://n.news.naver.com/mnews/article/277/0005818537"
     },
     {
-      "title": "LG, AI 시대 투자전략 모색…구광모 \"빠른 속도·집요한 실행력\"",
-      "url": "https://n.news.naver.com/mnews/article/448/0000639914"
+      "title": "정부, 11월 원유 위기설 가능성에 \"물량 70% 이상 확보\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016321613"
     },
     {
-      "title": "3각편대 전략 속도내는 장인화 \"판 바뀔땐 실행력이 생존 열쇠\"",
-      "url": "https://n.news.naver.com/mnews/article/009/0005736925"
+      "title": "공공부문 적자 83조 '역대 최대'…민생쿠폰·공공주택 지출 늘었다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005415796"
     },
     {
-      "title": "\"생각보다 잘 버틴다\"…금리 압박 속 비트코인 '독자 행보' 이유는",
-      "url": "https://n.news.naver.com/mnews/article/003/0014198353"
+      "title": "SK하이닉스, 미국에 첫 낸드 공장 검토",
+      "url": "https://n.news.naver.com/mnews/article/011/0004663394"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6717.97,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 815.98,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26418.3,
-      "change": 439.87,
-      "change_pct": 1.69
+      "value": 26522.54,
+      "change": 104.24,
+      "change_pct": 0.39
     },
     "usdkrw": {
-      "value": 1380.37,
-      "change": 3.77,
-      "change_pct": 0.27
+      "value": 1385.95,
+      "change": 9.35,
+      "change_pct": 0.68
     }
   },
   "gold": {
-    "price_usd": 4383.0,
-    "price_krw": 6050161,
-    "change": -4.5,
-    "change_pct": -0.1
+    "price_usd": 4415.9,
+    "price_krw": 6120216,
+    "change": 16.2,
+    "change_pct": 0.37
   },
-  "updated": "2026-09-18 08:19",
+  "updated": "2026-09-19 07:57",
   "error": null
 }
