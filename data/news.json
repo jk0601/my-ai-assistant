@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "국제유가 120달러 넘었는데…‘환율 하락’ 내세워 석유 최고가격 또 동결",
-      "url": "https://n.news.naver.com/mnews/article/023/0003999254"
+      "title": "이틀 늘자 2배 '쑥'…추석 '국내 여행' 급증",
+      "url": "https://n.news.naver.com/mnews/article/055/0001389637"
     },
     {
-      "title": "두산로보틱스, 신임 CEO에 권영민 사장 선임",
-      "url": "https://n.news.naver.com/mnews/article/025/0003552425"
+      "title": "삼성전자 초기업노조, '반도체 노조' 전환…DX 간부 2명 불신임",
+      "url": "https://n.news.naver.com/mnews/article/001/0016322087"
     },
     {
-      "title": "유류세 인하 11월 말까지 두 달 연장…\"국민 유류비 부담 경감\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016319461"
+      "title": "미중 정상회담·유가에 쏠린 눈…코스피 6400~7500 [주간 증시 전망]",
+      "url": "https://n.news.naver.com/mnews/article/119/0003134600"
     },
     {
-      "title": "하나금융, ADGM·한화자산운용과 스테이블코인 협력",
-      "url": "https://n.news.naver.com/mnews/article/001/0016320428"
+      "title": "주유소 기름값 18주째 하락…최고가격제 영향에 1,800원대 유지",
+      "url": "https://n.news.naver.com/mnews/article/422/0000907725"
     },
     {
-      "title": "한화시스템, AI 우주상황인식체계 개발 착수",
-      "url": "https://n.news.naver.com/mnews/article/079/0004191021"
+      "title": "뉴욕증시, 美 국채금리 상승에도 반도체주 강세",
+      "url": "https://n.news.naver.com/mnews/article/277/0005818689"
     },
     {
-      "title": "“주식도 코인처럼 사고팔아”…美 SEC, 토큰증권 길 열었다",
-      "url": "https://n.news.naver.com/mnews/article/215/0001266418"
+      "title": "\"차례상도 간편하게\" 이마트, 추석 제수용품 알찬 구성에 할인까지",
+      "url": "https://n.news.naver.com/mnews/article/003/0014201949"
     },
     {
-      "title": "가덕도신공항, 범정부 협의체 첫 가동…공사비 급등 현안 논의",
-      "url": "https://n.news.naver.com/mnews/article/277/0005818537"
+      "title": "‘속슬’ 효과에... 서학 개미, 미국 주식 순매수 전환",
+      "url": "https://n.news.naver.com/mnews/article/023/0003999377"
     },
     {
-      "title": "정부, 11월 원유 위기설 가능성에 \"물량 70% 이상 확보\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016321613"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/437/0000511861"
     },
     {
-      "title": "공공부문 적자 83조 '역대 최대'…민생쿠폰·공공주택 지출 늘었다",
-      "url": "https://n.news.naver.com/mnews/article/008/0005415796"
+      "title": "'엔비디아 투자' 英 AI인프라 기업 엔스케일, 美증시 상장 신청",
+      "url": "https://n.news.naver.com/mnews/article/001/0016322027"
     },
     {
-      "title": "SK하이닉스, 미국에 첫 낸드 공장 검토",
-      "url": "https://n.news.naver.com/mnews/article/011/0004663394"
+      "title": "美 클래리티법 좌초에 비트코인 하락…가상자산 미래는[주末머니]",
+      "url": "https://n.news.naver.com/mnews/article/277/0005818684"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6894.23,
+      "change": 178.82,
+      "change_pct": 2.66
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 827.12,
+      "change": 4.94,
+      "change_pct": 0.6
     },
     "nasdaq": {
       "value": 26522.54,
@@ -58,17 +58,17 @@
       "change_pct": 0.39
     },
     "usdkrw": {
-      "value": 1385.95,
-      "change": 9.35,
-      "change_pct": 0.68
+      "value": 1385.0,
+      "change": 5.47,
+      "change_pct": 0.4
     }
   },
   "gold": {
-    "price_usd": 4415.9,
-    "price_krw": 6120216,
-    "change": 16.2,
-    "change_pct": 0.37
+    "price_usd": 4424.9,
+    "price_krw": 6128486,
+    "change": 25.2,
+    "change_pct": 0.57
   },
-  "updated": "2026-09-19 07:57",
+  "updated": "2026-09-20 07:36",
   "error": null
 }
