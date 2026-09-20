@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "이틀 늘자 2배 '쑥'…추석 '국내 여행' 급증",
-      "url": "https://n.news.naver.com/mnews/article/055/0001389637"
+      "title": "국회에 中企 협동 조합 협의 요청권 도입 건의",
+      "url": "https://n.news.naver.com/mnews/article/366/0001193468"
     },
     {
-      "title": "삼성전자 초기업노조, '반도체 노조' 전환…DX 간부 2명 불신임",
-      "url": "https://n.news.naver.com/mnews/article/001/0016322087"
+      "title": "구자은 LS 회장 \"AI 더해 고객 체감 가치 만들어야\"",
+      "url": "https://n.news.naver.com/mnews/article/031/0001059961"
     },
     {
-      "title": "미중 정상회담·유가에 쏠린 눈…코스피 6400~7500 [주간 증시 전망]",
-      "url": "https://n.news.naver.com/mnews/article/119/0003134600"
+      "title": "LG, AI 인재 육성 확대…'에이머스 해커톤'에 3천393명 지원",
+      "url": "https://n.news.naver.com/mnews/article/001/0016323145"
     },
     {
-      "title": "주유소 기름값 18주째 하락…최고가격제 영향에 1,800원대 유지",
-      "url": "https://n.news.naver.com/mnews/article/422/0000907725"
+      "title": "고정형 주담대 늘리라는데 차주 70%는 변동형…당국 목표 '경고등'",
+      "url": "https://n.news.naver.com/mnews/article/421/0009182090"
     },
     {
-      "title": "뉴욕증시, 美 국채금리 상승에도 반도체주 강세",
-      "url": "https://n.news.naver.com/mnews/article/277/0005818689"
+      "title": "글로벌 베스트셀러 '투싼', 아반떼 이어 SF 감성 갖춰 '귀환' [TF현장]",
+      "url": "https://n.news.naver.com/mnews/article/629/0000535479"
     },
     {
-      "title": "\"차례상도 간편하게\" 이마트, 추석 제수용품 알찬 구성에 할인까지",
-      "url": "https://n.news.naver.com/mnews/article/003/0014201949"
+      "title": "성북·동대문 국평 전세 '10억원' 등장…전세 누적 상승률 작년의 4.7배",
+      "url": "https://n.news.naver.com/mnews/article/422/0000907901"
     },
     {
-      "title": "‘속슬’ 효과에... 서학 개미, 미국 주식 순매수 전환",
-      "url": "https://n.news.naver.com/mnews/article/023/0003999377"
+      "title": "경총 \"상반기 임금 3.1% 올라…인상분 32%는 반도체 성과급 영향\"",
+      "url": "https://n.news.naver.com/mnews/article/055/0001389734"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/437/0000511861"
+      "title": "현대건설, 도시정비 수주 10조 돌파…2년 연속 ‘10조 클럽’",
+      "url": "https://n.news.naver.com/mnews/article/138/0002242111"
     },
     {
-      "title": "'엔비디아 투자' 英 AI인프라 기업 엔스케일, 美증시 상장 신청",
-      "url": "https://n.news.naver.com/mnews/article/001/0016322027"
+      "title": "“카카오, 인적분할 초기 불확실성 확대 전망” 목표가↓",
+      "url": "https://n.news.naver.com/mnews/article/009/0005738031"
     },
     {
-      "title": "美 클래리티법 좌초에 비트코인 하락…가상자산 미래는[주末머니]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005818684"
+      "title": "롯데마트, 추석 '핸드캐리' 선물세트 물량 25% 확대",
+      "url": "https://n.news.naver.com/mnews/article/001/0016324934"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 0.39
     },
     "usdkrw": {
-      "value": 1385.0,
-      "change": 5.47,
-      "change_pct": 0.4
+      "value": 1385.33,
+      "change": 5.8,
+      "change_pct": 0.42
     }
   },
   "gold": {
-    "price_usd": 4424.9,
-    "price_krw": 6128486,
-    "change": 25.2,
-    "change_pct": 0.57
+    "price_usd": 4413.7,
+    "price_krw": 6114431,
+    "change": -11.2,
+    "change_pct": -0.25
   },
-  "updated": "2026-09-20 07:36",
+  "updated": "2026-09-21 07:53",
   "error": null
 }
