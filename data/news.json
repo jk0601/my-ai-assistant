@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "국힘 “가상자산 과세 폐지가 원칙…체계 재검토 필요\"(종합)",
-      "url": "https://n.news.naver.com/mnews/article/018/0006373756"
+      "title": "신한금융, 12개 자회사 CEO 인선 착수",
+      "url": "https://n.news.naver.com/mnews/article/082/0001399468"
     },
     {
-      "title": "추석 연휴 낮시간 공공부문 전기차 충전요금 반값 할인",
-      "url": "https://n.news.naver.com/mnews/article/056/0012261272"
+      "title": "작년 사망자 36만 ‘역대 2위’… 치매 사망·10대 자살률 상승",
+      "url": "https://n.news.naver.com/mnews/article/005/0001874667"
     },
     {
-      "title": "‘좁고 낡은 임대’ 깬다…바닥 1등급·중형 40% 확대한 보편형 공공임대 19만 호",
-      "url": "https://n.news.naver.com/mnews/article/022/0004160760"
+      "title": "KTX 자판기 줄이고 짐 보관공간 늘린다…코레일 자회사 통합 효과는",
+      "url": "https://n.news.naver.com/mnews/article/018/0006374685"
     },
     {
-      "title": "\"대출 풀린 지 한 달도 안 됐는데\"…5대 은행 '한도 바닥'",
-      "url": "https://n.news.naver.com/mnews/article/015/0005334931"
+      "title": "김승연 회장 \"독보적 국방 AI 역량 키워야\"…한화시스템 구미 방문",
+      "url": "https://n.news.naver.com/mnews/article/421/0009186601"
     },
     {
-      "title": "용인 반도체 팹 내년 2월 가동하는데…도로도, 용수도 해결 못했다",
-      "url": "https://n.news.naver.com/mnews/article/009/0005738644"
+      "title": "이찬진 금감원장 “자회사 CEO, 계파·친분 아닌 능력으로 뽑아야”",
+      "url": "https://n.news.naver.com/mnews/article/366/0001194083"
     },
     {
-      "title": "삼성전자, 플랙트그룹 HVAC 생산라인 착공",
-      "url": "https://n.news.naver.com/mnews/article/082/0001399218"
+      "title": "추석연휴 고속도로 통행료 '0원'…기름값도 100원 내린다",
+      "url": "https://n.news.naver.com/mnews/article/057/0001970236"
     },
     {
-      "title": "정부·기업·시민사회 '사회문제' 해법 모색…대한상의, '사회적가치 페스타' 개최",
-      "url": "https://n.news.naver.com/mnews/article/003/0014204402"
+      "title": "전북도, 피지컬AI 산업 클러스터 조성 속도…기업 유치·금융지원 본격화",
+      "url": "https://n.news.naver.com/mnews/article/022/0004161098"
     },
     {
-      "title": "한화에어로, K-무인기·드론 생태계 구축…국내 43개 기업과 MOU",
-      "url": "https://n.news.naver.com/mnews/article/421/0009184181"
+      "title": "제조 작업 배우는 ‘아틀라스’… 훈련센터 본격 가동",
+      "url": "https://n.news.naver.com/mnews/article/022/0004161156"
     },
     {
-      "title": "LH, 방학역 도심복합 철거 착수…\"민간보다 8년 이상 빨라\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006373807"
+      "title": "구광모, 나델라 MS CEO 만났다…AI 전방위 협력",
+      "url": "https://n.news.naver.com/mnews/article/029/0003049368"
     },
     {
-      "title": "고양대곡·의왕오전왕곡 공공주택지구 신규 지정",
-      "url": "https://n.news.naver.com/mnews/article/016/0002700174"
+      "title": "고립·은둔 청년 ‘발굴부터 취업 정착까지’…3년간 30억 지원",
+      "url": "https://n.news.naver.com/mnews/article/020/0003750126"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6894.23,
+      "value": 7007.72,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 827.12,
+      "value": 836.27,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 27122.09,
-      "change": 599.55,
-      "change_pct": 2.26
+      "value": 27244.28,
+      "change": 122.19,
+      "change_pct": 0.45
     },
     "usdkrw": {
-      "value": 1374.01,
-      "change": -10.85,
-      "change_pct": -0.78
+      "value": 1355.1,
+      "change": -18.58,
+      "change_pct": -1.35
     }
   },
   "gold": {
-    "price_usd": 4397.7,
-    "price_krw": 6042484,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4399.3,
+    "price_krw": 5961491,
+    "change": 15.4,
+    "change_pct": 0.35
   },
-  "updated": "2026-09-22 08:46",
+  "updated": "2026-09-23 08:25",
   "error": null
 }
