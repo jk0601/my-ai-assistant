@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "\"AI에이전트간 거래가 가상자산 수요 텃밭\"…블랙록이 본 미래",
-      "url": "https://n.news.naver.com/mnews/article/018/0006375278"
+      "title": "한·멕시코 관세청장 회의…마약·위조품 단속 협력 강화",
+      "url": "https://n.news.naver.com/mnews/article/081/0003683515"
     },
     {
-      "title": "금리 인상 사이클, 금융株에 항상 유리할까?[주末머니]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005820815"
+      "title": "李 “왜 한국에 투자 안했나 후회할 것”…월가 거물 “한국의 장기적 파트너”(종합)",
+      "url": "https://n.news.naver.com/mnews/article/018/0006375528"
     },
     {
-      "title": "LG전자-SK엔무브, AI데이터센터 열관리 손잡아",
-      "url": "https://n.news.naver.com/mnews/article/020/0003750523"
+      "title": "탈세 유튜버에 칼 빼들었다…국세청, 작년 17명에 239억원 부과",
+      "url": "https://n.news.naver.com/mnews/article/448/0000641401"
     },
     {
-      "title": "주식·채권도 코인으로…STO 제도화에 조각투자 시대 ‘성큼’",
-      "url": "https://n.news.naver.com/mnews/article/029/0003049807"
+      "title": "뉴욕증시, 미·이란 협상 기대에 상승…AI·반도체주 강세(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016336656"
     },
     {
-      "title": "대출 막히고 금리 올라도…'철옹성' 서울 집값, 85주 연속 상승 “역대 최장 타이”",
-      "url": "https://n.news.naver.com/mnews/article/030/0003469852"
+      "title": "\"4억 자산 있어도 중산층 아닙니다\"…진짜 중산층의 6가지 조건 뭐길래[주末머니]",
+      "url": "https://n.news.naver.com/mnews/article/277/0005820870"
     },
     {
-      "title": "유상범 \"'명절 통행료 무료' 감면액 1조원 육박…도공 '재정 빨간불'\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009191028"
+      "title": "주식·채권도 코인으로…STO 제도화에 조각투자 시대 '성큼'",
+      "url": "https://n.news.naver.com/mnews/article/001/0016335519"
     },
     {
-      "title": "한가위 연휴 스타트…조선·철강 추투 향방은?[biz-플러스]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004665112"
+      "title": "美 30년물 국채금리 22년 만에 최고…뉴욕증시 혼조",
+      "url": "https://n.news.naver.com/mnews/article/023/0004000346"
     },
     {
-      "title": "예금금리 3%인데 적금금리는 2%라고?",
-      "url": "https://n.news.naver.com/mnews/article/081/0003683348"
+      "title": "청약 ‘당첨 취소’ 5년간 5만명…1위는 ‘무주택 기간 산정 오류’",
+      "url": "https://n.news.naver.com/mnews/article/020/0003750659"
     },
     {
-      "title": "연준 추가 인상론 확산…폴슨 “물가 여전히 높아, 추가 긴축 필요”",
-      "url": "https://n.news.naver.com/mnews/article/018/0006375410"
+      "title": "“상단 막혀” vs “공급 절벽”… 개미들 꿈인 30만전자는 언제? [반도체 투자 리포트]",
+      "url": "https://n.news.naver.com/mnews/article/022/0004161808"
     },
     {
-      "title": "법원, ‘공정위 현장조사 멈춰달라’ 쿠팡 집행정지 신청 기각",
-      "url": "https://n.news.naver.com/mnews/article/022/0004161418"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000909626"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 7080.92,
-      "change": 0.0,
-      "change_pct": 0.0
+      "change": 63.01,
+      "change_pct": 0.9
     },
     "kosdaq": {
       "value": 844.48,
-      "change": 0.0,
-      "change_pct": 0.0
+      "change": 10.1,
+      "change_pct": 1.21
     },
     "nasdaq": {
-      "value": 26939.37,
-      "change": 3.33,
-      "change_pct": 0.01
+      "value": 27068.72,
+      "change": 129.35,
+      "change_pct": 0.48
     },
     "usdkrw": {
-      "value": 1368.19,
-      "change": 5.69,
-      "change_pct": 0.42
+      "value": 1355.28,
+      "change": -7.22,
+      "change_pct": -0.53
     }
   },
   "gold": {
-    "price_usd": 4309.2,
-    "price_krw": 5895804,
-    "change": -9.2,
-    "change_pct": -0.21
+    "price_usd": 4320.5,
+    "price_krw": 5855487,
+    "change": 22.5,
+    "change_pct": 0.52
   },
-  "updated": "2026-09-25 08:43",
+  "updated": "2026-09-26 08:45",
   "error": null
 }
