@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "한·멕시코 관세청장 회의…마약·위조품 단속 협력 강화",
-      "url": "https://n.news.naver.com/mnews/article/081/0003683515"
+      "title": "美국채 ‘5% 시대’ 왔나…월가 “무언가 부러질 때까지 오른다”",
+      "url": "https://n.news.naver.com/mnews/article/018/0006375594"
     },
     {
-      "title": "李 “왜 한국에 투자 안했나 후회할 것”…월가 거물 “한국의 장기적 파트너”(종합)",
-      "url": "https://n.news.naver.com/mnews/article/018/0006375528"
+      "title": "이번주 공모주 청약, 멜콘·진코스텍 2개사",
+      "url": "https://n.news.naver.com/mnews/article/119/0003136379"
     },
     {
-      "title": "탈세 유튜버에 칼 빼들었다…국세청, 작년 17명에 239억원 부과",
-      "url": "https://n.news.naver.com/mnews/article/448/0000641401"
+      "title": "주유소 기름값 19주째 하락...수입 기준 두바이유 12달러 급락",
+      "url": "https://n.news.naver.com/mnews/article/310/0000140317"
     },
     {
-      "title": "뉴욕증시, 미·이란 협상 기대에 상승…AI·반도체주 강세(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016336656"
+      "title": "“한은 총재 신현송입니다”…사칭 SNS 통해 주식 권유 ‘주의보’",
+      "url": "https://n.news.naver.com/mnews/article/009/0005740069"
     },
     {
-      "title": "\"4억 자산 있어도 중산층 아닙니다\"…진짜 중산층의 6가지 조건 뭐길래[주末머니]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005820870"
+      "title": "삼성전자 3분기 실적 다음 달 발표…\"100조 원 넘어설 듯\"",
+      "url": "https://n.news.naver.com/mnews/article/422/0000909938"
     },
     {
-      "title": "주식·채권도 코인으로…STO 제도화에 조각투자 시대 '성큼'",
-      "url": "https://n.news.naver.com/mnews/article/001/0016335519"
+      "title": "테슬라 맞선 카스랑…오비맥주 소주 참전에 소맥 전쟁 불붙는다",
+      "url": "https://n.news.naver.com/mnews/article/022/0004161877"
     },
     {
-      "title": "美 30년물 국채금리 22년 만에 최고…뉴욕증시 혼조",
-      "url": "https://n.news.naver.com/mnews/article/023/0004000346"
-    },
-    {
-      "title": "청약 ‘당첨 취소’ 5년간 5만명…1위는 ‘무주택 기간 산정 오류’",
-      "url": "https://n.news.naver.com/mnews/article/020/0003750659"
-    },
-    {
-      "title": "“상단 막혀” vs “공급 절벽”… 개미들 꿈인 30만전자는 언제? [반도체 투자 리포트]",
-      "url": "https://n.news.naver.com/mnews/article/022/0004161808"
+      "title": "국장·미장 모두 美대표지수 ETF 순매수 상위",
+      "url": "https://n.news.naver.com/mnews/article/374/0000534851"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000909626"
+      "url": "https://n.news.naver.com/mnews/article/052/0002411418"
+    },
+    {
+      "title": "카뱅은 잔금·토뱅은 주담대·케뱅은 법인…인뱅, 대출 영토 넓힌다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005418459"
+    },
+    {
+      "title": "\"64조 위안 만기 몰려온다\"…발등에 불 떨어진 은행들 '비상' [차이나 워치]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005336079"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 0.48
     },
     "usdkrw": {
-      "value": 1355.28,
-      "change": -7.22,
-      "change_pct": -0.53
+      "value": 1354.4,
+      "change": -12.96,
+      "change_pct": -0.95
     }
   },
   "gold": {
-    "price_usd": 4320.5,
-    "price_krw": 5855487,
-    "change": 22.5,
-    "change_pct": 0.52
+    "price_usd": 4321.2,
+    "price_krw": 5852633,
+    "change": 23.2,
+    "change_pct": 0.54
   },
-  "updated": "2026-09-26 08:45",
+  "updated": "2026-09-27 08:19",
   "error": null
 }
