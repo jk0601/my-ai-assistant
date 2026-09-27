@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "美국채 ‘5% 시대’ 왔나…월가 “무언가 부러질 때까지 오른다”",
-      "url": "https://n.news.naver.com/mnews/article/018/0006375594"
+      "title": "한화에어로, '경력직 채용 지침' 사과…\"재발 방지책 마련\"",
+      "url": "https://n.news.naver.com/mnews/article/057/0001970868"
     },
     {
-      "title": "이번주 공모주 청약, 멜콘·진코스텍 2개사",
-      "url": "https://n.news.naver.com/mnews/article/119/0003136379"
+      "title": "1개당 0.000508원…동전주도 안되는 '소수점 코인' 수십개",
+      "url": "https://n.news.naver.com/mnews/article/001/0016339476"
     },
     {
-      "title": "주유소 기름값 19주째 하락...수입 기준 두바이유 12달러 급락",
-      "url": "https://n.news.naver.com/mnews/article/310/0000140317"
+      "title": "국채 금리 상승 속 PCE 물가·고용지표 주목…마이크론 실적 발표[이번주 美 증시는]",
+      "url": "https://n.news.naver.com/mnews/article/008/0005418776"
     },
     {
-      "title": "“한은 총재 신현송입니다”…사칭 SNS 통해 주식 권유 ‘주의보’",
-      "url": "https://n.news.naver.com/mnews/article/009/0005740069"
+      "title": "李 순방 계기 한-멕 경제협력 강화…산업·자원 이니셔티브 체결",
+      "url": "https://n.news.naver.com/mnews/article/003/0014215119"
     },
     {
-      "title": "삼성전자 3분기 실적 다음 달 발표…\"100조 원 넘어설 듯\"",
-      "url": "https://n.news.naver.com/mnews/article/422/0000909938"
+      "title": "메타 뮤즈 다운로드 1위 돌풍에…美 AI·반도체주 강세",
+      "url": "https://n.news.naver.com/mnews/article/008/0005418700"
     },
     {
-      "title": "테슬라 맞선 카스랑…오비맥주 소주 참전에 소맥 전쟁 불붙는다",
-      "url": "https://n.news.naver.com/mnews/article/022/0004161877"
+      "title": "반토막 났는데 손절도 못해…삼전·닉스 ETF 덫에 갇힌 개미들",
+      "url": "https://n.news.naver.com/mnews/article/018/0006375962"
     },
     {
-      "title": "국장·미장 모두 美대표지수 ETF 순매수 상위",
-      "url": "https://n.news.naver.com/mnews/article/374/0000534851"
+      "title": "유통·식품업계 \"나 떨고 있니\"...국감 앞두고 초긴장",
+      "url": "https://n.news.naver.com/mnews/article/008/0005418690"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002411418"
+      "title": "'바로미터' 마이크론 실적 발표 임박…삼전·닉스, 3Q 영업익도 190조 눈앞",
+      "url": "https://n.news.naver.com/mnews/article/003/0014216374"
     },
     {
-      "title": "카뱅은 잔금·토뱅은 주담대·케뱅은 법인…인뱅, 대출 영토 넓힌다",
-      "url": "https://n.news.naver.com/mnews/article/008/0005418459"
+      "title": "폭락장 겪었어도… 올 최고 수익 자산은‘코스피200 ETF’",
+      "url": "https://n.news.naver.com/mnews/article/005/0001875237"
     },
     {
-      "title": "\"64조 위안 만기 몰려온다\"…발등에 불 떨어진 은행들 '비상' [차이나 워치]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005336079"
+      "title": "제조업 체감경기 두 분기 연속 반등…10곳 중 6곳은 “이익 목표 못 채워”",
+      "url": "https://n.news.naver.com/mnews/article/030/0003470045"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 0.48
     },
     "usdkrw": {
-      "value": 1354.4,
-      "change": -12.96,
-      "change_pct": -0.95
+      "value": 1355.25,
+      "change": -12.11,
+      "change_pct": -0.89
     }
   },
   "gold": {
-    "price_usd": 4321.2,
-    "price_krw": 5852633,
-    "change": 23.2,
-    "change_pct": 0.54
+    "price_usd": 4299.8,
+    "price_krw": 5827303,
+    "change": -21.4,
+    "change_pct": -0.5
   },
-  "updated": "2026-09-27 08:19",
+  "updated": "2026-09-28 08:32",
   "error": null
 }
