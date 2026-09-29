@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "한화에어로, '경력직 채용 지침' 사과…\"재발 방지책 마련\"",
-      "url": "https://n.news.naver.com/mnews/article/057/0001970868"
+      "title": "담합 두 번 걸리면 영업정지·등록취소",
+      "url": "https://n.news.naver.com/mnews/article/032/0003472969"
     },
     {
-      "title": "1개당 0.000508원…동전주도 안되는 '소수점 코인' 수십개",
-      "url": "https://n.news.naver.com/mnews/article/001/0016339476"
+      "title": "\"결혼 5년도 안 됐는데 3억이라니\"…영끌 신혼부부 심상찮다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005336431"
     },
     {
-      "title": "국채 금리 상승 속 PCE 물가·고용지표 주목…마이크론 실적 발표[이번주 美 증시는]",
-      "url": "https://n.news.naver.com/mnews/article/008/0005418776"
+      "title": "환율 하락 뚫은 삼성전기…“3분기 영업익 2.3배↑”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004666086"
     },
     {
-      "title": "李 순방 계기 한-멕 경제협력 강화…산업·자원 이니셔티브 체결",
-      "url": "https://n.news.naver.com/mnews/article/003/0014215119"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/214/0001526278"
     },
     {
-      "title": "메타 뮤즈 다운로드 1위 돌풍에…美 AI·반도체주 강세",
-      "url": "https://n.news.naver.com/mnews/article/008/0005418700"
+      "title": "신한證, 기아 목표가 하향…“원가 부담·경쟁 심화 겹쳐” [이런국장 저런주식]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004666234"
     },
     {
-      "title": "반토막 났는데 손절도 못해…삼전·닉스 ETF 덫에 갇힌 개미들",
-      "url": "https://n.news.naver.com/mnews/article/018/0006375962"
+      "title": "9월 제조업 체감경기 급락..4년 만에 최대폭",
+      "url": "https://n.news.naver.com/mnews/article/014/0005581947"
     },
     {
-      "title": "유통·식품업계 \"나 떨고 있니\"...국감 앞두고 초긴장",
-      "url": "https://n.news.naver.com/mnews/article/008/0005418690"
+      "title": "삼성 6개사, 美 AI 인프라 기업 '헬릭스'에 10억 달러 투자…'부품' 넘어 AI 인프라 판 짠다",
+      "url": "https://n.news.naver.com/mnews/article/030/0003470528"
     },
     {
-      "title": "'바로미터' 마이크론 실적 발표 임박…삼전·닉스, 3Q 영업익도 190조 눈앞",
-      "url": "https://n.news.naver.com/mnews/article/003/0014216374"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000910423"
     },
     {
-      "title": "폭락장 겪었어도… 올 최고 수익 자산은‘코스피200 ETF’",
-      "url": "https://n.news.naver.com/mnews/article/005/0001875237"
+      "title": "내년 4월부터 은행 문 30분 늦게 연다…오전 9시30분 개점",
+      "url": "https://n.news.naver.com/mnews/article/437/0000513072"
     },
     {
-      "title": "제조업 체감경기 두 분기 연속 반등…10곳 중 6곳은 “이익 목표 못 채워”",
-      "url": "https://n.news.naver.com/mnews/article/030/0003470045"
+      "title": "모아주택 '1호' 입주 … 서울시 \"5년간 4만가구 착공\"",
+      "url": "https://n.news.naver.com/mnews/article/009/0005740912"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 7080.92,
-      "change": 63.01,
-      "change_pct": 0.9
+      "value": 6864.42,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 844.48,
-      "change": 10.1,
-      "change_pct": 1.21
+      "value": 840.77,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 27068.72,
-      "change": 129.35,
-      "change_pct": 0.48
+      "value": 26820.38,
+      "change": -248.34,
+      "change_pct": -0.92
     },
     "usdkrw": {
-      "value": 1355.25,
-      "change": -12.11,
-      "change_pct": -0.89
+      "value": 1359.48,
+      "change": 4.97,
+      "change_pct": 0.37
     }
   },
   "gold": {
-    "price_usd": 4299.8,
-    "price_krw": 5827303,
-    "change": -21.4,
-    "change_pct": -0.5
+    "price_usd": 4157.4,
+    "price_krw": 5651902,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-09-28 08:32",
+  "updated": "2026-09-29 09:46",
   "error": null
 }
