@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "담합 두 번 걸리면 영업정지·등록취소",
-      "url": "https://n.news.naver.com/mnews/article/032/0003472969"
-    },
-    {
-      "title": "\"결혼 5년도 안 됐는데 3억이라니\"…영끌 신혼부부 심상찮다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005336431"
-    },
-    {
-      "title": "환율 하락 뚫은 삼성전기…“3분기 영업익 2.3배↑”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004666086"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/215/0001267611"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/214/0001526278"
+      "url": "https://n.news.naver.com/mnews/article/055/0001391972"
     },
     {
-      "title": "신한證, 기아 목표가 하향…“원가 부담·경쟁 심화 겹쳐” [이런국장 저런주식]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004666234"
+      "title": "AI 생태계 확장하는 삼성…美 헬릭스에 10억弗 투자",
+      "url": "https://n.news.naver.com/mnews/article/014/0005582569"
     },
     {
-      "title": "9월 제조업 체감경기 급락..4년 만에 최대폭",
-      "url": "https://n.news.naver.com/mnews/article/014/0005581947"
+      "title": "국민연금, 한달만에 200조 가까이 급감…7월 증시 변동성 여파 [시그널]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004666558"
     },
     {
-      "title": "삼성 6개사, 美 AI 인프라 기업 '헬릭스'에 10억 달러 투자…'부품' 넘어 AI 인프라 판 짠다",
-      "url": "https://n.news.naver.com/mnews/article/030/0003470528"
+      "title": "“LG이노텍 이제 차도 만드나요?”…도로 달리는 ‘의문의 차량’ 정체는",
+      "url": "https://n.news.naver.com/mnews/article/009/0005741711"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000910423"
+      "title": "서울대 투자 동아리 ‘미공개 정보 카르텔’ 적발…“200억 부당이득 혐의”",
+      "url": "https://n.news.naver.com/mnews/article/056/0012264806"
     },
     {
-      "title": "내년 4월부터 은행 문 30분 늦게 연다…오전 9시30분 개점",
-      "url": "https://n.news.naver.com/mnews/article/437/0000513072"
+      "title": "이재용, 美서 젠슨 황 ‘벤 플리트상’ 수상 축하…타임스퀘어에 깜짝 영상도 송출",
+      "url": "https://n.news.naver.com/mnews/article/016/0002702941"
     },
     {
-      "title": "모아주택 '1호' 입주 … 서울시 \"5년간 4만가구 착공\"",
-      "url": "https://n.news.naver.com/mnews/article/009/0005740912"
+      "title": "ISA 도입 10년 만에 가입자 1천만명 돌파…성인 4명 중 1명꼴",
+      "url": "https://n.news.naver.com/mnews/article/088/0001031224"
+    },
+    {
+      "title": "전종덕 \"농지 전수조사, 일방적 행정과 야당의 색깔론 선동이 현장 혼란 자초\"",
+      "url": "https://n.news.naver.com/mnews/article/002/0002458682"
+    },
+    {
+      "title": "대기업 채용문 넓어진다…51% \"대졸 뽑을 것\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005337277"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6864.42,
+      "value": 6870.81,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 840.77,
+      "value": 849.8,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26820.38,
-      "change": -248.34,
-      "change_pct": -0.92
+      "value": 26797.54,
+      "change": -22.84,
+      "change_pct": -0.09
     },
     "usdkrw": {
-      "value": 1359.48,
-      "change": 4.97,
-      "change_pct": 0.37
+      "value": 1352.18,
+      "change": -7.38,
+      "change_pct": -0.54
     }
   },
   "gold": {
-    "price_usd": 4157.4,
-    "price_krw": 5651902,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4216.6,
+    "price_krw": 5701602,
+    "change": 48.2,
+    "change_pct": 1.16
   },
-  "updated": "2026-09-29 09:46",
+  "updated": "2026-09-30 09:01",
   "error": null
 }
