@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/215/0001267611"
+      "title": "한화생명, 애큐온캐피탈 4400억원에 인수…여신금융까지 보폭 확대",
+      "url": "https://n.news.naver.com/mnews/article/030/0003471332"
+    },
+    {
+      "title": "뉴욕증시, 美 물가 둔화 속 국채금리 급등에 혼조 마감",
+      "url": "https://n.news.naver.com/mnews/article/366/0001195453"
+    },
+    {
+      "title": "현대모비스, 램프사업 물적분할 승인…프랑스 OP모빌리티와 매각 본계약",
+      "url": "https://n.news.naver.com/mnews/article/014/0005583073"
+    },
+    {
+      "title": "하나금융 자회사 CEO 선임 막 올랐다...은행 임추위 권한 확대",
+      "url": "https://n.news.naver.com/mnews/article/015/0005337708"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001391972"
+      "url": "https://n.news.naver.com/mnews/article/422/0000911035"
     },
     {
-      "title": "AI 생태계 확장하는 삼성…美 헬릭스에 10억弗 투자",
-      "url": "https://n.news.naver.com/mnews/article/014/0005582569"
+      "title": "아시아나, 마일리지 특별기 73편 운항",
+      "url": "https://n.news.naver.com/mnews/article/020/0003751874"
     },
     {
-      "title": "국민연금, 한달만에 200조 가까이 급감…7월 증시 변동성 여파 [시그널]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004666558"
+      "title": "GS25, 북미 고객 매출 131% 급증…중화권과 외국인 큰손 '양대 축'",
+      "url": "https://n.news.naver.com/mnews/article/629/0000538366"
     },
     {
-      "title": "“LG이노텍 이제 차도 만드나요?”…도로 달리는 ‘의문의 차량’ 정체는",
-      "url": "https://n.news.naver.com/mnews/article/009/0005741711"
+      "title": "내연→전기차공장 전환 행정절차 단축…반도체 팹 증설 속도↑",
+      "url": "https://n.news.naver.com/mnews/article/001/0016348868"
     },
     {
-      "title": "서울대 투자 동아리 ‘미공개 정보 카르텔’ 적발…“200억 부당이득 혐의”",
-      "url": "https://n.news.naver.com/mnews/article/056/0012264806"
+      "title": "\"내년 물량 75% 벌써 찼다\"…마이크론이 본 '메모리 품귀'의 끝",
+      "url": "https://n.news.naver.com/mnews/article/031/0001062565"
     },
     {
-      "title": "이재용, 美서 젠슨 황 ‘벤 플리트상’ 수상 축하…타임스퀘어에 깜짝 영상도 송출",
-      "url": "https://n.news.naver.com/mnews/article/016/0002702941"
-    },
-    {
-      "title": "ISA 도입 10년 만에 가입자 1천만명 돌파…성인 4명 중 1명꼴",
-      "url": "https://n.news.naver.com/mnews/article/088/0001031224"
-    },
-    {
-      "title": "전종덕 \"농지 전수조사, 일방적 행정과 야당의 색깔론 선동이 현장 혼란 자초\"",
-      "url": "https://n.news.naver.com/mnews/article/002/0002458682"
-    },
-    {
-      "title": "대기업 채용문 넓어진다…51% \"대졸 뽑을 것\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005337277"
+      "title": "美 국채 10년물 금리 장중 5.3% 돌파…24년 만에 최고치",
+      "url": "https://n.news.naver.com/mnews/article/469/0000957023"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6870.81,
+      "value": 6838.04,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 849.8,
+      "value": 855.91,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26797.54,
-      "change": -22.84,
-      "change_pct": -0.09
+      "value": 26861.06,
+      "change": 63.53,
+      "change_pct": 0.24
     },
     "usdkrw": {
-      "value": 1352.18,
-      "change": -7.38,
-      "change_pct": -0.54
+      "value": 1350.5,
+      "change": 0.0,
+      "change_pct": 0.0
     }
   },
   "gold": {
-    "price_usd": 4216.6,
-    "price_krw": 5701602,
-    "change": 48.2,
-    "change_pct": 1.16
+    "price_usd": 4182.1,
+    "price_krw": 5647926,
+    "change": 2.4,
+    "change_pct": 0.06
   },
-  "updated": "2026-09-30 09:01",
+  "updated": "2026-10-01 09:18",
   "error": null
 }
