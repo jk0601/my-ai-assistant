@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "한화생명, 애큐온캐피탈 4400억원에 인수…여신금융까지 보폭 확대",
-      "url": "https://n.news.naver.com/mnews/article/030/0003471332"
+      "title": "신한은행서 정보 유출 사고…금감원, 긴급 현장조사",
+      "url": "https://n.news.naver.com/mnews/article/215/0001267841"
     },
     {
-      "title": "뉴욕증시, 美 물가 둔화 속 국채금리 급등에 혼조 마감",
-      "url": "https://n.news.naver.com/mnews/article/366/0001195453"
+      "title": "현대차, 뉴욕서 '디 올 뉴 투싼' 공개…글로벌 SUV 시장 공략",
+      "url": "https://n.news.naver.com/mnews/article/001/0016352288"
     },
     {
-      "title": "현대모비스, 램프사업 물적분할 승인…프랑스 OP모빌리티와 매각 본계약",
-      "url": "https://n.news.naver.com/mnews/article/014/0005583073"
+      "title": "서울 아파트 86주 최장 상승…올해 강남 0.26% 떨어질 때 성북은 15% 올라",
+      "url": "https://n.news.naver.com/mnews/article/023/0004001540"
     },
     {
-      "title": "하나금융 자회사 CEO 선임 막 올랐다...은행 임추위 권한 확대",
-      "url": "https://n.news.naver.com/mnews/article/015/0005337708"
+      "title": "초과세수 활용 예고한 정부…10월 국고채 발행 5조원 줄인다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006378908"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000911035"
+      "title": "전상연, 전통시장 중심 온누리상품권 개편 환영",
+      "url": "https://n.news.naver.com/mnews/article/003/0014226199"
     },
     {
-      "title": "아시아나, 마일리지 특별기 73편 운항",
-      "url": "https://n.news.naver.com/mnews/article/020/0003751874"
+      "title": "[속보] 9월 수출 1209억弗 ‘역대 최대’…반도체 첫 600억弗 돌파",
+      "url": "https://n.news.naver.com/mnews/article/081/0003685078"
     },
     {
-      "title": "GS25, 북미 고객 매출 131% 급증…중화권과 외국인 큰손 '양대 축'",
-      "url": "https://n.news.naver.com/mnews/article/629/0000538366"
+      "title": "모태펀드가 키우고 국민성장펀드가 스케일업…정책자금 ‘이어달리기’ 본격화",
+      "url": "https://n.news.naver.com/mnews/article/119/0003138534"
     },
     {
-      "title": "내연→전기차공장 전환 행정절차 단축…반도체 팹 증설 속도↑",
-      "url": "https://n.news.naver.com/mnews/article/001/0016348868"
+      "title": "\"가짜 K-뷰티·푸드, 가격까지 베꼈다\"…중기부·지재처, 보호망 구축",
+      "url": "https://n.news.naver.com/mnews/article/421/0009205255"
     },
     {
-      "title": "\"내년 물량 75% 벌써 찼다\"…마이크론이 본 '메모리 품귀'의 끝",
-      "url": "https://n.news.naver.com/mnews/article/031/0001062565"
+      "title": "금감원-금융권, 노인의 날 맞아 고령층 집중 금융교육 실시",
+      "url": "https://n.news.naver.com/mnews/article/421/0009205272"
     },
     {
-      "title": "美 국채 10년물 금리 장중 5.3% 돌파…24년 만에 최고치",
-      "url": "https://n.news.naver.com/mnews/article/469/0000957023"
+      "title": "기아 9월 28.2만대 판매, 전년比 5.1%↑…역대 3분기 '최대 실적'",
+      "url": "https://n.news.naver.com/mnews/article/421/0009204404"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6838.04,
+      "value": 6948.47,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 855.91,
+      "value": 900.58,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26861.06,
-      "change": 63.53,
-      "change_pct": 0.24
+      "value": 26871.6,
+      "change": 10.54,
+      "change_pct": 0.04
     },
     "usdkrw": {
-      "value": 1350.5,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 1363.98,
+      "change": 7.14,
+      "change_pct": 0.53
     }
   },
   "gold": {
-    "price_usd": 4182.1,
-    "price_krw": 5647926,
-    "change": 2.4,
-    "change_pct": 0.06
+    "price_usd": 4200.6,
+    "price_krw": 5729534,
+    "change": 13.9,
+    "change_pct": 0.33
   },
-  "updated": "2026-10-01 09:18",
+  "updated": "2026-10-02 09:26",
   "error": null
 }
