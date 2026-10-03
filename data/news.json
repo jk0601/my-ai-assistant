@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "당국, 은행·카드에 자체 보안점검 지시…\"조속 보고 받을 것\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016354524"
+      "title": "은행서 2금융권까지 번진 'AI 해킹'…당국, 4일 全금융권 긴급 소집",
+      "url": "https://n.news.naver.com/mnews/article/014/0005584589"
     },
     {
-      "title": "[속보] 9월 소비자물가 상승률 2.9%…2%대로 내려와",
-      "url": "https://n.news.naver.com/mnews/article/374/0000535988"
+      "title": "주유소 기름값 20주째 하락…휘발유·경유 1800원대 유지",
+      "url": "https://n.news.naver.com/mnews/article/023/0004001937"
     },
     {
-      "title": "너트 조이고 구멍 뚫고…‘네 손가락’ 가진 아틀라스",
-      "url": "https://n.news.naver.com/mnews/article/011/0004667603"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002414412"
     },
     {
-      "title": "아산시, 방축동 민간건설 임대 아파트 임차인 보호 해법 모색",
-      "url": "https://n.news.naver.com/mnews/article/001/0016354460"
+      "title": "메모리 ‘오징어 게임’ 벌어지나…美 싱크탱크의 ‘메모리 공급 과잉’ 경고 [칩칩팹팹]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002705244"
     },
     {
-      "title": "[속보] 최태원, 노소영 재산분할 상응 9440억 SK지분 매각 추진",
-      "url": "https://n.news.naver.com/mnews/article/009/0005743261"
+      "title": "현대캐피탈도 뚫렸다…주택대출 모집인 정보 일부 유출",
+      "url": "https://n.news.naver.com/mnews/article/448/0000642900"
     },
     {
-      "title": "‘마이데이터 1호’ 뱅크샐러드, 코스닥 상장예비심사 청구…본격 IPO 돌입",
-      "url": "https://n.news.naver.com/mnews/article/029/0003051210"
+      "title": "영화 암살자(들) 투자에 외부 개입 있었다?…국책은행 “사실무근”",
+      "url": "https://n.news.naver.com/mnews/article/025/0003555526"
     },
     {
-      "title": "국내 기름값 20주 연속 하락…휘발유 1,857원",
-      "url": "https://n.news.naver.com/mnews/article/422/0000912138"
+      "title": "유해진 광고 내리고 댓글 차단한 키움증권…암살자(들) 논란 탓?",
+      "url": "https://n.news.naver.com/mnews/article/016/0002705115"
     },
     {
-      "title": "신한은행 2.5만명 고객정보 털렸다…주민번호·연소득·대출정보까지 포함",
-      "url": "https://n.news.naver.com/mnews/article/009/0005742983"
+      "title": "테슬라 3분기 車판매 2% 감소…시장 전망은 웃돌아",
+      "url": "https://n.news.naver.com/mnews/article/422/0000912126"
     },
     {
-      "title": "영국 30년물 국채 금리 장중 6％ 돌파…G7서 14년만",
-      "url": "https://n.news.naver.com/mnews/article/056/0012266745"
+      "title": "“HBM은 없어서 못 파는데 주가는 왜?”…마이크론 최대 실적 뒤 숨은 경고 [플러스 관심종목]",
+      "url": "https://n.news.naver.com/mnews/article/009/0005743458"
     },
     {
-      "title": "코스피 5거래일 만에 '칠천피' 귀환…코스닥은 약보합 마감",
-      "url": "https://n.news.naver.com/mnews/article/277/0005824204"
+      "title": "디티에스 등 4개사 수요예측…2개사 공모주 청약[IPO챗]",
+      "url": "https://n.news.naver.com/mnews/article/001/0016355086"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 7003.74,
+      "change": 32.39,
+      "change_pct": 0.46
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 893.29,
+      "change": -1.0,
+      "change_pct": -0.11
     },
     "nasdaq": {
       "value": 27190.86,
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 4172.1,
-    "price_krw": 5601086,
-    "change": -30.2,
-    "change_pct": -0.72
+    "price_usd": 4162.3,
+    "price_krw": 5587929,
+    "change": -40.0,
+    "change_pct": -0.95
   },
-  "updated": "2026-10-03 09:06",
+  "updated": "2026-10-04 08:27",
   "error": null
 }
