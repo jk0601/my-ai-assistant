@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "은행서 2금융권까지 번진 'AI 해킹'…당국, 4일 全금융권 긴급 소집",
-      "url": "https://n.news.naver.com/mnews/article/014/0005584589"
+      "title": "사상 최대 실적에도 \"주가 왜 이래?\"…메모리 호황 속 변수",
+      "url": "https://n.news.naver.com/mnews/article/215/0001268129"
     },
     {
-      "title": "주유소 기름값 20주째 하락…휘발유·경유 1800원대 유지",
-      "url": "https://n.news.naver.com/mnews/article/023/0004001937"
+      "title": "360조 투자 삼성, 용인 어떻게 바꿀까…하루 45만t 물도 ‘재활용’",
+      "url": "https://n.news.naver.com/mnews/article/025/0003555611"
+    },
+    {
+      "title": "[속보] 이억원 “금융권 전체 침해사고 최고수준 경각심 필요”",
+      "url": "https://n.news.naver.com/mnews/article/009/0005743724"
+    },
+    {
+      "title": "한국전력 직원 2만4천명 개인정보 외부 웹페이지에 노출…32시간 만에 삭제",
+      "url": "https://n.news.naver.com/mnews/article/088/0001032184"
+    },
+    {
+      "title": "AI로 상호금융까지 광범위 공격…\"해킹 시도 훨씬 많을 수도\"",
+      "url": "https://n.news.naver.com/mnews/article/055/0001393009"
+    },
+    {
+      "title": "아시아나·대한항공, 합병 요건 위반…이행강제금 186억",
+      "url": "https://n.news.naver.com/mnews/article/028/0002825889"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002414412"
+      "url": "https://n.news.naver.com/mnews/article/056/0012267638"
     },
     {
-      "title": "메모리 ‘오징어 게임’ 벌어지나…美 싱크탱크의 ‘메모리 공급 과잉’ 경고 [칩칩팹팹]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002705244"
+      "title": "미국, 알래스카 투자 일방통행…암초 만난 한국 핵잠",
+      "url": "https://n.news.naver.com/mnews/article/025/0003555711"
     },
     {
-      "title": "현대캐피탈도 뚫렸다…주택대출 모집인 정보 일부 유출",
-      "url": "https://n.news.naver.com/mnews/article/448/0000642900"
+      "title": "민간아파트 부정청약 5년간 1,699건 적발…'깜깜이 특혜 분양'도",
+      "url": "https://n.news.naver.com/mnews/article/422/0000912368"
     },
     {
-      "title": "영화 암살자(들) 투자에 외부 개입 있었다?…국책은행 “사실무근”",
-      "url": "https://n.news.naver.com/mnews/article/025/0003555526"
-    },
-    {
-      "title": "유해진 광고 내리고 댓글 차단한 키움증권…암살자(들) 논란 탓?",
-      "url": "https://n.news.naver.com/mnews/article/016/0002705115"
-    },
-    {
-      "title": "테슬라 3분기 車판매 2% 감소…시장 전망은 웃돌아",
-      "url": "https://n.news.naver.com/mnews/article/422/0000912126"
-    },
-    {
-      "title": "“HBM은 없어서 못 파는데 주가는 왜?”…마이크론 최대 실적 뒤 숨은 경고 [플러스 관심종목]",
-      "url": "https://n.news.naver.com/mnews/article/009/0005743458"
-    },
-    {
-      "title": "디티에스 등 4개사 수요예측…2개사 공모주 청약[IPO챗]",
-      "url": "https://n.news.naver.com/mnews/article/001/0016355086"
+      "title": "LG전자 노사, 아동시설서 가전 수리·AI 체험",
+      "url": "https://n.news.naver.com/mnews/article/025/0003555609"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 1.19
     },
     "usdkrw": {
-      "value": 1342.51,
-      "change": -14.33,
-      "change_pct": -1.06
+      "value": 1343.01,
+      "change": -17.58,
+      "change_pct": -1.29
     }
   },
   "gold": {
-    "price_usd": 4162.3,
-    "price_krw": 5587929,
-    "change": -40.0,
-    "change_pct": -0.95
+    "price_usd": 4172.8,
+    "price_krw": 5604111,
+    "change": 10.5,
+    "change_pct": 0.25
   },
-  "updated": "2026-10-04 08:27",
+  "updated": "2026-10-05 08:46",
   "error": null
 }
