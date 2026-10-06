@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "사상 최대 실적에도 \"주가 왜 이래?\"…메모리 호황 속 변수",
-      "url": "https://n.news.naver.com/mnews/article/215/0001268129"
+      "title": "LG전자, 美 버지니아에 칠러 공장 신설…1500억원 투자해 AI 데이터센터 공략",
+      "url": "https://n.news.naver.com/mnews/article/366/0001196216"
     },
     {
-      "title": "360조 투자 삼성, 용인 어떻게 바꿀까…하루 45만t 물도 ‘재활용’",
-      "url": "https://n.news.naver.com/mnews/article/025/0003555611"
+      "title": "금융권 AI 해킹에 보안주 급등…안랩·지니언스·라온시큐어 관심↑",
+      "url": "https://n.news.naver.com/mnews/article/138/0002243712"
     },
     {
-      "title": "[속보] 이억원 “금융권 전체 침해사고 최고수준 경각심 필요”",
-      "url": "https://n.news.naver.com/mnews/article/009/0005743724"
+      "title": "교촌에프앤비, 日 진출 나선다…아라이상사와 맞손",
+      "url": "https://n.news.naver.com/mnews/article/016/0002705673"
     },
     {
-      "title": "한국전력 직원 2만4천명 개인정보 외부 웹페이지에 노출…32시간 만에 삭제",
-      "url": "https://n.news.naver.com/mnews/article/088/0001032184"
+      "title": "거제·통영 호우 피해 소상공인에 최대 3억…금리 1.5%로 인하",
+      "url": "https://n.news.naver.com/mnews/article/022/0004164128"
     },
     {
-      "title": "AI로 상호금융까지 광범위 공격…\"해킹 시도 훨씬 많을 수도\"",
-      "url": "https://n.news.naver.com/mnews/article/055/0001393009"
+      "title": "K뷰티 전용 ‘큐텐픽’ 매대에 올린 日 세븐일레븐…1030 수요 확대 노린다",
+      "url": "https://n.news.naver.com/mnews/article/020/0003752934"
     },
     {
-      "title": "아시아나·대한항공, 합병 요건 위반…이행강제금 186억",
-      "url": "https://n.news.naver.com/mnews/article/028/0002825889"
+      "title": "韓 찾는 유커 한달에 83만명…LCC들 中 노선 확충 총력전",
+      "url": "https://n.news.naver.com/mnews/article/011/0004668420"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012267638"
+      "title": "다시 상승세 탄 비트코인…10만 달러 탈환 가를 '두 변수'",
+      "url": "https://n.news.naver.com/mnews/article/586/0000139412"
     },
     {
-      "title": "미국, 알래스카 투자 일방통행…암초 만난 한국 핵잠",
-      "url": "https://n.news.naver.com/mnews/article/025/0003555711"
+      "title": "HLB 간암신약 재도전 속도⋯완제시설 FDA 실사 'VAI' 종결",
+      "url": "https://n.news.naver.com/mnews/article/031/0001063575"
     },
     {
-      "title": "민간아파트 부정청약 5년간 1,699건 적발…'깜깜이 특혜 분양'도",
-      "url": "https://n.news.naver.com/mnews/article/422/0000912368"
+      "title": "LG화학, 유럽 플라스틱 전시회서 AIDC·로봇용 차세대 소재 공개",
+      "url": "https://n.news.naver.com/mnews/article/018/0006381709"
     },
     {
-      "title": "LG전자 노사, 아동시설서 가전 수리·AI 체험",
-      "url": "https://n.news.naver.com/mnews/article/025/0003555609"
+      "title": "스페이스X 주가 급등에…스피어도 10% 폭등[핫종목]",
+      "url": "https://n.news.naver.com/mnews/article/421/0009210865"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 7003.74,
-      "change": 32.39,
-      "change_pct": 0.46
+      "value": 6987.12,
+      "change": -16.62,
+      "change_pct": -0.24
     },
     "kosdaq": {
-      "value": 893.29,
-      "change": -1.0,
-      "change_pct": -0.11
+      "value": 912.54,
+      "change": 19.25,
+      "change_pct": 2.15
     },
     "nasdaq": {
-      "value": 27190.86,
-      "change": 319.26,
-      "change_pct": 1.19
+      "value": 27477.31,
+      "change": 286.45,
+      "change_pct": 1.05
     },
     "usdkrw": {
-      "value": 1343.01,
-      "change": -17.58,
-      "change_pct": -1.29
+      "value": 1343.95,
+      "change": 1.39,
+      "change_pct": 0.1
     }
   },
   "gold": {
-    "price_usd": 4172.8,
-    "price_krw": 5604111,
-    "change": 10.5,
-    "change_pct": 0.25
+    "price_usd": 4165.2,
+    "price_krw": 5597820,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-10-05 08:46",
+  "updated": "2026-10-06 10:37",
   "error": null
 }
