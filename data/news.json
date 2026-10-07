@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "LG전자, 美 버지니아에 칠러 공장 신설…1500억원 투자해 AI 데이터센터 공략",
-      "url": "https://n.news.naver.com/mnews/article/366/0001196216"
+      "title": "[단독] 원래 ‘원전·알래스카’ 아니었다…2000억불 대미투자 석달새 급변",
+      "url": "https://n.news.naver.com/mnews/article/025/0003555986"
     },
     {
-      "title": "금융권 AI 해킹에 보안주 급등…안랩·지니언스·라온시큐어 관심↑",
-      "url": "https://n.news.naver.com/mnews/article/138/0002243712"
+      "title": "스페이스X, AI 사업 기대감에 날아 올랐다",
+      "url": "https://n.news.naver.com/mnews/article/016/0002705835"
     },
     {
-      "title": "교촌에프앤비, 日 진출 나선다…아라이상사와 맞손",
-      "url": "https://n.news.naver.com/mnews/article/016/0002705673"
+      "title": "‘AI 해킹’ 시중은행 뚫렸는데…인뱅 3사 “피해 없다” 왜?",
+      "url": "https://n.news.naver.com/mnews/article/029/0003051690"
     },
     {
-      "title": "거제·통영 호우 피해 소상공인에 최대 3억…금리 1.5%로 인하",
-      "url": "https://n.news.naver.com/mnews/article/022/0004164128"
+      "title": "금융당국 \"금융권 개인정보 유출...피싱 등 주의\"",
+      "url": "https://n.news.naver.com/mnews/article/052/0002415298"
     },
     {
-      "title": "K뷰티 전용 ‘큐텐픽’ 매대에 올린 日 세븐일레븐…1030 수요 확대 노린다",
-      "url": "https://n.news.naver.com/mnews/article/020/0003752934"
+      "title": "삼성전자, TV로 만나는 英박물관 명작…아트 스토어에 30점 공개",
+      "url": "https://n.news.naver.com/mnews/article/018/0006382655"
     },
     {
-      "title": "韓 찾는 유커 한달에 83만명…LCC들 中 노선 확충 총력전",
-      "url": "https://n.news.naver.com/mnews/article/011/0004668420"
+      "title": "연일 최고치 경신 美증시…코스피, 반등 탄력 삼나[마켓뷰]",
+      "url": "https://n.news.naver.com/mnews/article/001/0016361247"
     },
     {
-      "title": "다시 상승세 탄 비트코인…10만 달러 탈환 가를 '두 변수'",
-      "url": "https://n.news.naver.com/mnews/article/586/0000139412"
+      "title": "이 대통령 \"치킨값 점검\" 일주일 만에…공정위, bhc·BBQ·교촌 담합 조사",
+      "url": "https://n.news.naver.com/mnews/article/008/0005422841"
     },
     {
-      "title": "HLB 간암신약 재도전 속도⋯완제시설 FDA 실사 'VAI' 종결",
-      "url": "https://n.news.naver.com/mnews/article/031/0001063575"
+      "title": "포스코퓨처엠, 삼성SDI와 LFP 6조원 규모 공급계약 체결",
+      "url": "https://n.news.naver.com/mnews/article/030/0003472776"
     },
     {
-      "title": "LG화학, 유럽 플라스틱 전시회서 AIDC·로봇용 차세대 소재 공개",
-      "url": "https://n.news.naver.com/mnews/article/018/0006381709"
+      "title": "천안시, 농지 전수조사 사후 대책 안내 강화…농가 혼선 차단",
+      "url": "https://n.news.naver.com/mnews/article/001/0016358535"
     },
     {
-      "title": "스페이스X 주가 급등에…스피어도 10% 폭등[핫종목]",
-      "url": "https://n.news.naver.com/mnews/article/421/0009210865"
+      "title": "하나증권, 코스맥스 목표가 38만원으로…“비수기에도 매출 증가 예상” [오늘 나온 보고서]",
+      "url": "https://n.news.naver.com/mnews/article/009/0005744969"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6987.12,
-      "change": -16.62,
-      "change_pct": -0.24
+      "value": 6941.39,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 912.54,
-      "change": 19.25,
-      "change_pct": 2.15
+      "value": 919.92,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 27477.31,
-      "change": 286.45,
-      "change_pct": 1.05
+      "value": 27599.89,
+      "change": 122.58,
+      "change_pct": 0.45
     },
     "usdkrw": {
-      "value": 1343.95,
-      "change": 1.39,
-      "change_pct": 0.1
+      "value": 1339.69,
+      "change": -4.06,
+      "change_pct": -0.3
     }
   },
   "gold": {
-    "price_usd": 4165.2,
-    "price_krw": 5597820,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4191.9,
+    "price_krw": 5615846,
+    "change": 35.1,
+    "change_pct": 0.84
   },
-  "updated": "2026-10-06 10:37",
+  "updated": "2026-10-07 09:18",
   "error": null
 }
