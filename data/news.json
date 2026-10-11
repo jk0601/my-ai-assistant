@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "\"쿠팡 먹통에 주문 취소됐다면?\"…피해 고객에 5000원 보상한다",
-      "url": "https://n.news.naver.com/mnews/article/008/0005424239"
+      "title": "한글날 연휴 맞은 유통가…장보기부터 웨딩·팝업까지 풍성[주말쇼핑포인트]",
+      "url": "https://n.news.naver.com/mnews/article/421/0009219601"
     },
     {
-      "title": "국내 기름값 21주째 하락…휘발유·경유 1천800원대 지속",
-      "url": "https://n.news.naver.com/mnews/article/001/0016367998"
+      "title": "63위→4위 ‘대반전’…코스닥 시총 경쟁, 소부장이 흔들었다 [마켓시그널]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004669806"
     },
     {
-      "title": "전국 전통시장 120곳 한자리에…공주서 우수시장박람회 개막",
-      "url": "https://n.news.naver.com/mnews/article/421/0009219456"
+      "title": "위고비·마운자로 양강 깨질까…국산 비만약 '에페' 출격",
+      "url": "https://n.news.naver.com/mnews/article/001/0016368712"
+    },
+    {
+      "title": "\"내년에도 반도체일 줄\"…이익 증가율 1위 전망 업종[주식R]",
+      "url": "https://n.news.naver.com/mnews/article/215/0001268740"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/025/0003556867"
+      "url": "https://n.news.naver.com/mnews/article/055/0001394419"
     },
     {
-      "title": "삼전닉스 대신 방산·반도체 테마형으로…변화하는 레버리지 ETF 판도",
-      "url": "https://n.news.naver.com/mnews/article/009/0005746512"
+      "title": "전산장애 잦은 금융사 20곳, 작년 보안예산 집행률 70% 밑돌아",
+      "url": "https://n.news.naver.com/mnews/article/001/0016367991"
     },
     {
-      "title": "여주 고구마가 편의점 샐러드로…GS25, 지역 농산물 상품화",
-      "url": "https://n.news.naver.com/mnews/article/448/0000643987"
+      "title": "\"성과급 최소 30억\"…계산기 두드린 '삼전 메모리 부부' 직원 글 술렁",
+      "url": "https://n.news.naver.com/mnews/article/215/0001268698"
     },
     {
-      "title": "D램이 이끈 ‘빅테크 영업익 세계 1위’ 삼성… “내년엔 HBM4 주축”",
-      "url": "https://n.news.naver.com/mnews/article/020/0003753854"
+      "title": "\"AI가 은행을 뚫었다?\"⋯금융권 연쇄 해킹이 남긴 경고",
+      "url": "https://n.news.naver.com/mnews/article/031/0001064803"
     },
     {
-      "title": "'AI 해킹' 신한은행, 은행장에 내부통제 성과급 4억 지급 논란",
-      "url": "https://n.news.naver.com/mnews/article/008/0005424130"
+      "title": "\"불닭은 그런 맛 아니거든요\"…억울해서 뒷목 잡을 '11조원 짝퉁'",
+      "url": "https://n.news.naver.com/mnews/article/277/0005826637"
     },
     {
-      "title": "시속 150km에서도 흔들림 없었다…6년 만에 돌아온 ‘디 올 뉴 투싼’[온더로드]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004669684"
-    },
-    {
-      "title": "한화오션, 크레인 고공농성에 \"안전·생산 위협…즉각 중단해야\"",
-      "url": "https://n.news.naver.com/mnews/article/629/0000540734"
+      "title": "광주 팹 회의론에 직접 나선 최태원 “용인 3분의 2 크기 계획”",
+      "url": "https://n.news.naver.com/mnews/article/020/0003753955"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 0.64
     },
     "usdkrw": {
-      "value": 1340.02,
-      "change": 0.94,
-      "change_pct": 0.07
+      "value": 1340.9,
+      "change": -2.09,
+      "change_pct": -0.16
     }
   },
   "gold": {
-    "price_usd": 4220.3,
-    "price_krw": 5655286,
-    "change": 63.3,
-    "change_pct": 1.52
+    "price_usd": 4216.3,
+    "price_krw": 5653636,
+    "change": 59.3,
+    "change_pct": 1.43
   },
-  "updated": "2026-10-10 09:26",
+  "updated": "2026-10-11 09:03",
   "error": null
 }
