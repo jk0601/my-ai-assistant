@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "한글날 연휴 맞은 유통가…장보기부터 웨딩·팝업까지 풍성[주말쇼핑포인트]",
-      "url": "https://n.news.naver.com/mnews/article/421/0009219601"
+      "title": "‘탱크데이’ 논란 5개월 만에···스타벅스, 투썸 제치고 1위 탈환",
+      "url": "https://n.news.naver.com/mnews/article/032/0003475473"
     },
     {
-      "title": "63위→4위 ‘대반전’…코스닥 시총 경쟁, 소부장이 흔들었다 [마켓시그널]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004669806"
+      "title": "HLB그룹, 간암신약 美 재도전·임상 발표…연말·연초 성장 시험대",
+      "url": "https://n.news.naver.com/mnews/article/030/0003473858"
     },
     {
-      "title": "위고비·마운자로 양강 깨질까…국산 비만약 '에페' 출격",
-      "url": "https://n.news.naver.com/mnews/article/001/0016368712"
+      "title": "“삼성전자 ‘대박’ 났는데 왜 이래?”…금융위기 수준으로 떨어진 외국인보유율",
+      "url": "https://n.news.naver.com/mnews/article/009/0005746640"
     },
     {
-      "title": "\"내년에도 반도체일 줄\"…이익 증가율 1위 전망 업종[주식R]",
-      "url": "https://n.news.naver.com/mnews/article/215/0001268740"
+      "title": "현대차, 인도 누적 판매 1000만대 눈앞…\"年 생산량 110만대로 확대\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014244724"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001394419"
+      "title": "서울 아파트 계약 해제율 5년 새 2배…\"교란행위 검증해야\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016369655"
     },
     {
-      "title": "전산장애 잦은 금융사 20곳, 작년 보안예산 집행률 70% 밑돌아",
-      "url": "https://n.news.naver.com/mnews/article/001/0016367991"
+      "title": "메리츠증권, SK하이닉스 목표가↑…\"3분기 영업익 80조원 전망\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016369732"
     },
     {
-      "title": "\"성과급 최소 30억\"…계산기 두드린 '삼전 메모리 부부' 직원 글 술렁",
-      "url": "https://n.news.naver.com/mnews/article/215/0001268698"
+      "title": "‘북극항로 시범운항’ 팬스타 아크로호, 항해 마치고 부산 도착",
+      "url": "https://n.news.naver.com/mnews/article/081/0003687708"
     },
     {
-      "title": "\"AI가 은행을 뚫었다?\"⋯금융권 연쇄 해킹이 남긴 경고",
-      "url": "https://n.news.naver.com/mnews/article/031/0001064803"
+      "title": "김승연 “불굴의 도전정신으로 200년 한화 준비”",
+      "url": "https://n.news.naver.com/mnews/article/005/0001877952"
     },
     {
-      "title": "\"불닭은 그런 맛 아니거든요\"…억울해서 뒷목 잡을 '11조원 짝퉁'",
-      "url": "https://n.news.naver.com/mnews/article/277/0005826637"
+      "title": "한은 인수 위조지폐 4억7천만원…SNS선 “24시간 영업 중”",
+      "url": "https://n.news.naver.com/mnews/article/009/0005746929"
     },
     {
-      "title": "광주 팹 회의론에 직접 나선 최태원 “용인 3분의 2 크기 계획”",
-      "url": "https://n.news.naver.com/mnews/article/020/0003753955"
+      "title": "청년미래적금 2차 가입 16일까지…최고 연 19.4% 금리 혜택",
+      "url": "https://n.news.naver.com/mnews/article/277/0005826816"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6625.93,
-      "change": -177.97,
-      "change_pct": -2.62
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 892.27,
-      "change": -6.16,
-      "change_pct": -0.69
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
       "value": 27366.17,
@@ -58,17 +58,17 @@
       "change_pct": 0.64
     },
     "usdkrw": {
-      "value": 1340.9,
-      "change": -2.09,
-      "change_pct": -0.16
+      "value": 1338.58,
+      "change": -4.41,
+      "change_pct": -0.33
     }
   },
   "gold": {
-    "price_usd": 4216.3,
-    "price_krw": 5653636,
-    "change": 59.3,
-    "change_pct": 1.43
+    "price_usd": 4215.0,
+    "price_krw": 5642114,
+    "change": -1.3,
+    "change_pct": -0.03
   },
-  "updated": "2026-10-11 09:03",
+  "updated": "2026-10-12 09:08",
   "error": null
 }
