@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "‘탱크데이’ 논란 5개월 만에···스타벅스, 투썸 제치고 1위 탈환",
-      "url": "https://n.news.naver.com/mnews/article/032/0003475473"
+      "title": "맥도날드, 이제 ‘태평로 시대’…교육센터·주방까지 품었다",
+      "url": "https://n.news.naver.com/mnews/article/016/0002708503"
     },
     {
-      "title": "HLB그룹, 간암신약 美 재도전·임상 발표…연말·연초 성장 시험대",
-      "url": "https://n.news.naver.com/mnews/article/030/0003473858"
+      "title": "옛 국민 명차를 최신 전기차로… 유럽의 반격",
+      "url": "https://n.news.naver.com/mnews/article/023/0004003408"
     },
     {
-      "title": "“삼성전자 ‘대박’ 났는데 왜 이래?”…금융위기 수준으로 떨어진 외국인보유율",
-      "url": "https://n.news.naver.com/mnews/article/009/0005746640"
+      "title": "APEC 10개 회원국 서울로…AI·자율주행 협력 논의",
+      "url": "https://n.news.naver.com/mnews/article/003/0014249213"
     },
     {
-      "title": "현대차, 인도 누적 판매 1000만대 눈앞…\"年 생산량 110만대로 확대\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014244724"
+      "title": "코스피, 장중 4%대 급락…약 2달 만 '매도 사이드카' 발동",
+      "url": "https://n.news.naver.com/mnews/article/055/0001394994"
     },
     {
-      "title": "서울 아파트 계약 해제율 5년 새 2배…\"교란행위 검증해야\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016369655"
+      "title": "LH 사장 “집값 급락 가능성...지금 안사도 손해 아냐” 與서도 질타",
+      "url": "https://n.news.naver.com/mnews/article/011/0004670436"
     },
     {
-      "title": "메리츠증권, SK하이닉스 목표가↑…\"3분기 영업익 80조원 전망\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016369732"
+      "title": "서울시 정비사업 착공 현황 공개한다…2031년 31만호 공급 목표",
+      "url": "https://n.news.naver.com/mnews/article/081/0003688092"
     },
     {
-      "title": "‘북극항로 시범운항’ 팬스타 아크로호, 항해 마치고 부산 도착",
-      "url": "https://n.news.naver.com/mnews/article/081/0003687708"
+      "title": "서울신라호텔, 5년 연속 '라 리스트' 세계 1000대 레스토랑 4곳 선정",
+      "url": "https://n.news.naver.com/mnews/article/277/0005827541"
     },
     {
-      "title": "김승연 “불굴의 도전정신으로 200년 한화 준비”",
-      "url": "https://n.news.naver.com/mnews/article/005/0001877952"
+      "title": "[속보] 코스피, 장중 6000선 붕괴...삼성전자 7%, SK하이닉스 9% 폭락",
+      "url": "https://n.news.naver.com/mnews/article/023/0004003493"
     },
     {
-      "title": "한은 인수 위조지폐 4억7천만원…SNS선 “24시간 영업 중”",
-      "url": "https://n.news.naver.com/mnews/article/009/0005746929"
+      "title": "LS일렉트릭, 美 블룸에너지서 1853억 수주…누적 6670억 돌파",
+      "url": "https://n.news.naver.com/mnews/article/293/0000091497"
     },
     {
-      "title": "청년미래적금 2차 가입 16일까지…최고 연 19.4% 금리 혜택",
-      "url": "https://n.news.naver.com/mnews/article/277/0005826816"
+      "title": "현대차 단편영화 '밤낚시' 흥행…이노션, 영화사업 본격 진출",
+      "url": "https://n.news.naver.com/mnews/article/277/0005827575"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6625.93,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 5963.59,
+      "change": -420.65,
+      "change_pct": -6.59
     },
     "kosdaq": {
-      "value": 892.27,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 808.18,
+      "change": -41.01,
+      "change_pct": -4.83
     },
     "nasdaq": {
-      "value": 27366.17,
-      "change": 172.83,
-      "change_pct": 0.64
+      "value": 27245.9,
+      "change": -120.27,
+      "change_pct": -0.44
     },
     "usdkrw": {
-      "value": 1338.58,
-      "change": -4.41,
-      "change_pct": -0.33
+      "value": 1339.48,
+      "change": 0.0,
+      "change_pct": 0.0
     }
   },
   "gold": {
-    "price_usd": 4215.0,
-    "price_krw": 5642114,
-    "change": -1.3,
-    "change_pct": -0.03
+    "price_usd": 4191.5,
+    "price_krw": 5614430,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-10-12 09:08",
+  "updated": "2026-10-13 11:21",
   "error": null
 }
