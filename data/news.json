@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "삼성전자, 'OCP 글로벌 서밋 2026'서 HBM5·CXL 중심 차세대 메모리 전략 공개",
-      "url": "https://n.news.naver.com/mnews/article/015/0005341972"
+      "title": "신한금융, 롯데손보 인수…KB 추격",
+      "url": "https://n.news.naver.com/mnews/article/016/0002709104"
     },
     {
-      "title": "'공포의 화요일' 코스피 와르르…SK하닉 10% 폭락에 '비명'",
-      "url": "https://n.news.naver.com/mnews/article/015/0005341958"
+      "title": "CES 2027, '보여주는 AI'서 '일하는 AI'로⋯제조·로봇 전면에",
+      "url": "https://n.news.naver.com/mnews/article/031/0001066087"
     },
     {
-      "title": "성장 3%, 소득 4만弗 청신호 켜졌지만…민생 회복은 숙제",
-      "url": "https://n.news.naver.com/mnews/article/003/0014249262"
+      "title": "취임 6년 정의선, 모디 만나 20조원 투자 약속…현대차, 인도에 승부수",
+      "url": "https://n.news.naver.com/mnews/article/025/0003557769"
     },
     {
-      "title": "신한금융, 롯데손보 6933억원에 인수…지분 77% 확보",
-      "url": "https://n.news.naver.com/mnews/article/018/0006387102"
+      "title": "한·일 중소기업계, AX·DX 전환 공동 대응 논의",
+      "url": "https://n.news.naver.com/mnews/article/018/0006387803"
     },
     {
-      "title": "김정아 이노션 대표 “20년 간 쌓은 광고 역량으로 영화 시장 진출...‘밤낚시’서 가능성 봤다”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004670937"
+      "title": "‘AI 해킹’ 피해 금융사 16개사로 확대… 정보 유출 10만 건",
+      "url": "https://n.news.naver.com/mnews/article/022/0004166664"
     },
     {
-      "title": "EUV 없이도 밀도 높인다… 중국 CXMT, 새 아키텍처로 서버 메모리 시장 도전 [고든 정의 TECH+]",
-      "url": "https://n.news.naver.com/mnews/article/081/0003688465"
+      "title": "소비자물가 충격에 뉴욕증시 하락…나스닥 1.9%↓",
+      "url": "https://n.news.naver.com/mnews/article/032/0003476398"
     },
     {
-      "title": "국세청장 \"가상자산 과세 기준 내달 고시…차질 없이 준비\"",
-      "url": "https://n.news.naver.com/mnews/article/448/0000644645"
+      "title": "美월가 기술주 애널리스트 \"삼전닉스 저평가…코스피 전고점 돌파할 것\"",
+      "url": "https://n.news.naver.com/mnews/article/374/0000537730"
     },
     {
-      "title": "고급 크루즈 타고 알래스카로…롯데百, VIP 대상 ‘에비뉴엘 글로벌 트립’",
-      "url": "https://n.news.naver.com/mnews/article/016/0002708922"
+      "title": "SK그룹, 미국 원전 전문기업 웨스팅하우스 지분 투자 검토",
+      "url": "https://n.news.naver.com/mnews/article/079/0004198915"
     },
     {
-      "title": "임광현 \"李대통령 분당 아파트 거래, 과세 대상 아니라 보고받아\"",
-      "url": "https://n.news.naver.com/mnews/article/079/0004198398"
+      "title": "재개발·재건축, 공사비 검증 안받은 곳 138곳…16곳은 국토부가 특별점검",
+      "url": "https://n.news.naver.com/mnews/article/082/0001402497"
     },
     {
-      "title": "AI로 피부진단해 맞춤 화장품…정부, AI친화형 피부데이터 구축",
-      "url": "https://n.news.naver.com/mnews/article/001/0016374768"
+      "title": "무협, 튀르키예서 K할랄 상품전 개최..유럽·중동 시장 공략",
+      "url": "https://n.news.naver.com/mnews/article/008/0005426530"
     }
   ],
   "stocks": {
@@ -53,22 +53,22 @@
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 27204.38,
-      "change": -41.52,
-      "change_pct": -0.15
+      "value": 26692.87,
+      "change": -511.51,
+      "change_pct": -1.88
     },
     "usdkrw": {
-      "value": 1339.48,
-      "change": 5.35,
-      "change_pct": 0.4
+      "value": 1340.92,
+      "change": 0.61,
+      "change_pct": 0.05
     }
   },
   "gold": {
-    "price_usd": 4179.2,
-    "price_krw": 5597955,
-    "change": -11.4,
-    "change_pct": -0.27
+    "price_usd": 4124.7,
+    "price_krw": 5530892,
+    "change": -52.6,
+    "change_pct": -1.26
   },
-  "updated": "2026-10-14 09:03",
+  "updated": "2026-10-15 08:35",
   "error": null
 }
