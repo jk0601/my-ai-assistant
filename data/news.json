@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "맥도날드, 이제 ‘태평로 시대’…교육센터·주방까지 품었다",
-      "url": "https://n.news.naver.com/mnews/article/016/0002708503"
+      "title": "삼성전자, 'OCP 글로벌 서밋 2026'서 HBM5·CXL 중심 차세대 메모리 전략 공개",
+      "url": "https://n.news.naver.com/mnews/article/015/0005341972"
     },
     {
-      "title": "옛 국민 명차를 최신 전기차로… 유럽의 반격",
-      "url": "https://n.news.naver.com/mnews/article/023/0004003408"
+      "title": "'공포의 화요일' 코스피 와르르…SK하닉 10% 폭락에 '비명'",
+      "url": "https://n.news.naver.com/mnews/article/015/0005341958"
     },
     {
-      "title": "APEC 10개 회원국 서울로…AI·자율주행 협력 논의",
-      "url": "https://n.news.naver.com/mnews/article/003/0014249213"
+      "title": "성장 3%, 소득 4만弗 청신호 켜졌지만…민생 회복은 숙제",
+      "url": "https://n.news.naver.com/mnews/article/003/0014249262"
     },
     {
-      "title": "코스피, 장중 4%대 급락…약 2달 만 '매도 사이드카' 발동",
-      "url": "https://n.news.naver.com/mnews/article/055/0001394994"
+      "title": "신한금융, 롯데손보 6933억원에 인수…지분 77% 확보",
+      "url": "https://n.news.naver.com/mnews/article/018/0006387102"
     },
     {
-      "title": "LH 사장 “집값 급락 가능성...지금 안사도 손해 아냐” 與서도 질타",
-      "url": "https://n.news.naver.com/mnews/article/011/0004670436"
+      "title": "김정아 이노션 대표 “20년 간 쌓은 광고 역량으로 영화 시장 진출...‘밤낚시’서 가능성 봤다”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004670937"
     },
     {
-      "title": "서울시 정비사업 착공 현황 공개한다…2031년 31만호 공급 목표",
-      "url": "https://n.news.naver.com/mnews/article/081/0003688092"
+      "title": "EUV 없이도 밀도 높인다… 중국 CXMT, 새 아키텍처로 서버 메모리 시장 도전 [고든 정의 TECH+]",
+      "url": "https://n.news.naver.com/mnews/article/081/0003688465"
     },
     {
-      "title": "서울신라호텔, 5년 연속 '라 리스트' 세계 1000대 레스토랑 4곳 선정",
-      "url": "https://n.news.naver.com/mnews/article/277/0005827541"
+      "title": "국세청장 \"가상자산 과세 기준 내달 고시…차질 없이 준비\"",
+      "url": "https://n.news.naver.com/mnews/article/448/0000644645"
     },
     {
-      "title": "[속보] 코스피, 장중 6000선 붕괴...삼성전자 7%, SK하이닉스 9% 폭락",
-      "url": "https://n.news.naver.com/mnews/article/023/0004003493"
+      "title": "고급 크루즈 타고 알래스카로…롯데百, VIP 대상 ‘에비뉴엘 글로벌 트립’",
+      "url": "https://n.news.naver.com/mnews/article/016/0002708922"
     },
     {
-      "title": "LS일렉트릭, 美 블룸에너지서 1853억 수주…누적 6670억 돌파",
-      "url": "https://n.news.naver.com/mnews/article/293/0000091497"
+      "title": "임광현 \"李대통령 분당 아파트 거래, 과세 대상 아니라 보고받아\"",
+      "url": "https://n.news.naver.com/mnews/article/079/0004198398"
     },
     {
-      "title": "현대차 단편영화 '밤낚시' 흥행…이노션, 영화사업 본격 진출",
-      "url": "https://n.news.naver.com/mnews/article/277/0005827575"
+      "title": "AI로 피부진단해 맞춤 화장품…정부, AI친화형 피부데이터 구축",
+      "url": "https://n.news.naver.com/mnews/article/001/0016374768"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5963.59,
-      "change": -420.65,
-      "change_pct": -6.59
+      "value": 6035.35,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 808.18,
-      "change": -41.01,
-      "change_pct": -4.83
+      "value": 837.03,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 27245.9,
-      "change": -120.27,
-      "change_pct": -0.44
+      "value": 27204.38,
+      "change": -41.52,
+      "change_pct": -0.15
     },
     "usdkrw": {
       "value": 1339.48,
-      "change": 0.0,
-      "change_pct": 0.0
+      "change": 5.35,
+      "change_pct": 0.4
     }
   },
   "gold": {
-    "price_usd": 4191.5,
-    "price_krw": 5614430,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4179.2,
+    "price_krw": 5597955,
+    "change": -11.4,
+    "change_pct": -0.27
   },
-  "updated": "2026-10-13 11:21",
+  "updated": "2026-10-14 09:03",
   "error": null
 }
