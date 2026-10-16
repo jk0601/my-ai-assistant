@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/214/0001529310"
+      "title": "HD현대일렉트릭, LG CNS와 데이터센터·스마트 제조 협력 확대",
+      "url": "https://n.news.naver.com/mnews/article/031/0001066589"
     },
     {
-      "title": "[속보]코스피·코스닥 8%대 폭락…사이드카 이어 서킷브레이커까지",
-      "url": "https://n.news.naver.com/mnews/article/018/0006388529"
+      "title": "이재용 중동 파견직원 격려·선물",
+      "url": "https://n.news.naver.com/mnews/article/005/0001879189"
     },
     {
-      "title": "부동산원장 “집값 주간 통계 검증 강화할 것”[오늘 부동산]",
-      "url": "https://n.news.naver.com/mnews/article/119/0003143356"
+      "title": "현대엘리베이터, 무벡스 지분 1160억 매각·자사주 1700억 소각…\"주주가치 제고\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005343400"
     },
     {
-      "title": "‘AI 수익성 쇼크’에 외인 8일째 대탈출…코스피 7.57% 폭락 [투자360]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002709950"
+      "title": "“차량 호출했더니 운전석이 빈 채 왔다”…기아, 원격 운전 카셰어링 서비스 실증",
+      "url": "https://n.news.naver.com/mnews/article/032/0003476692"
     },
     {
-      "title": "코어위브 15% 급락…AI 부채 공포, 네오클라우드·반도체 덮쳤다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005342690"
+      "title": "애플, ‘중국산 메모리’ 사용 시사…”절대적 위기, 모든 선택지 고려”",
+      "url": "https://n.news.naver.com/mnews/article/005/0001879063"
     },
     {
-      "title": "대한항공, 3분기 매출 5조원 넘어 역대 분기 최대… 영업익 4212억",
-      "url": "https://n.news.naver.com/mnews/article/020/0003755326"
+      "title": "삼전·하이닉스 14조 던진 외인…폭락장서 몰래 쓸어 담은 종목은?",
+      "url": "https://n.news.naver.com/mnews/article/014/0005590444"
     },
     {
-      "title": "우주태양광 필름 쥔 이소영 장관…\"중소기업, 성장엔진으로 육성\"(종합2보)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016379636"
+      "title": "강호동 농협중앙회장 “외부 감사기구 신설, 독립성 훼손 우려”",
+      "url": "https://n.news.naver.com/mnews/article/366/0001198401"
     },
     {
-      "title": "고리 3·4호기 사고관리계획서 승인‥계속운전도 허가될까",
-      "url": "https://n.news.naver.com/mnews/article/214/0001529263"
+      "title": "9월 취업자 11만3천명 늘어…청년고용률은 29개월 연속 하락",
+      "url": "https://n.news.naver.com/mnews/article/028/0002827737"
     },
     {
-      "title": "쌍용C&E \"강원 향토기업으로\"…서울 본사 동해 이전",
-      "url": "https://n.news.naver.com/mnews/article/417/0001160982"
+      "title": "가트너 \"메모리 공급난, 2028년까지 이어질 것\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005343359"
     },
     {
-      "title": "\"드론 100% 요격\"…한화시스템, 레이저 대공무기 천광 시연 성공",
-      "url": "https://n.news.naver.com/mnews/article/421/0009229493"
+      "title": "LH, 신길4 등 3개 지구 도심 공공복합사업 속도 낸다… 설계·시공 통합공모 방식",
+      "url": "https://n.news.naver.com/mnews/article/366/0001198309"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6008.81,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 823.88,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26713.03,
-      "change": 20.16,
-      "change_pct": 0.08
+      "value": 26140.03,
+      "change": -573.0,
+      "change_pct": -2.15
     },
     "usdkrw": {
-      "value": 1340.45,
-      "change": 1.1,
-      "change_pct": 0.08
+      "value": 1334.2,
+      "change": -6.75,
+      "change_pct": -0.5
     }
   },
   "gold": {
-    "price_usd": 4184.5,
-    "price_krw": 5609113,
-    "change": 76.6,
-    "change_pct": 1.86
+    "price_usd": 4186.7,
+    "price_krw": 5585895,
+    "change": 16.6,
+    "change_pct": 0.4
   },
-  "updated": "2026-10-16 08:29",
+  "updated": "2026-10-17 08:12",
   "error": null
 }
