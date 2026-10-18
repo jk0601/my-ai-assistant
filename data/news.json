@@ -1,44 +1,44 @@
 {
   "news": [
     {
+      "title": "\"LG디스플레이, 2029년 플립 OLED 양산 목표\"...애플 스튜디오 겨냥 추정",
+      "url": "https://n.news.naver.com/mnews/article/092/0002441369"
+    },
+    {
+      "title": "발전5사 통합·한전 재무 도마…19일 에너지 공기업 국감 '2라운드'",
+      "url": "https://n.news.naver.com/mnews/article/014/0005590668"
+    },
+    {
+      "title": "최태원 \"AI가 지혜는 아냐…리더는 AI가 못하는 일 찾아야\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006390987"
+    },
+    {
+      "title": "\"수협서 금융사고 잇따라…사고 규모 갈수록 대형화\"",
+      "url": "https://n.news.naver.com/mnews/article/055/0001396329"
+    },
+    {
+      "title": "신세계百, 가을·겨울 패션 행사 '멘즈·우먼스 위크' 연다",
+      "url": "https://n.news.naver.com/mnews/article/421/0009234912"
+    },
+    {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012275602"
+      "url": "https://n.news.naver.com/mnews/article/422/0000916809"
     },
     {
-      "title": "빚내서 주식 샀다가 3천억 강제청산…개미들 '피눈물'",
-      "url": "https://n.news.naver.com/mnews/article/215/0001269467"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002420217"
     },
     {
-      "title": "'취업자 15만명 증가' 전망에 빨간불…팬데믹 후 최소 우려",
-      "url": "https://n.news.naver.com/mnews/article/001/0016383188"
+      "title": "대미 무역흑자 1000억 달러 돌파 눈앞…커지는 ‘트럼프 청구서’ 우려",
+      "url": "https://n.news.naver.com/mnews/article/025/0003558661"
     },
     {
-      "title": "석유 최고가 4주 더 동결...휘발유 1,784원·경유 1,773원",
-      "url": "https://n.news.naver.com/mnews/article/660/0000119331"
+      "title": "“이 와중에 ‘레버리지’ 야수처럼 올라탔다”…돌아온 건 ‘눈물의 -33%’",
+      "url": "https://n.news.naver.com/mnews/article/009/0005750018"
     },
     {
-      "title": "이번 주 국내 기름값 소폭 하락…국제유가도 내림세",
-      "url": "https://n.news.naver.com/mnews/article/018/0006389915"
-    },
-    {
-      "title": "삼전·닉스 바닥인 줄 알았더니…“공포의 월요일 온다” 1000만 개미 ‘초비상’",
-      "url": "https://n.news.naver.com/mnews/article/016/0002710692"
-    },
-    {
-      "title": "역대급 인파 몰린 'NS푸드페스타 2026 익산' 성황리 폐막",
-      "url": "https://n.news.naver.com/mnews/article/003/0014260197"
-    },
-    {
-      "title": "삼성바이오 2차 파업에 제동…쟁의 제한 공정 3개→9개",
-      "url": "https://n.news.naver.com/mnews/article/015/0005343490"
-    },
-    {
-      "title": "中 반도체 이 정도였나…'없어서 못 판다' 삼전닉스 맹추격",
-      "url": "https://n.news.naver.com/mnews/article/015/0005343574"
-    },
-    {
-      "title": "\"위성·국방AI 투자\" 한화시스템, 한화오션 지분 1.4조원 유동화",
-      "url": "https://n.news.naver.com/mnews/article/014/0005590427"
+      "title": "현대차·기아, 4년 후 로봇 자율공장 가동…“2032년 완전 자동화”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004672336"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": -2.15
     },
     "usdkrw": {
-      "value": 1329.6,
-      "change": -11.35,
-      "change_pct": -0.85
+      "value": 1334.66,
+      "change": -6.29,
+      "change_pct": -0.47
     }
   },
   "gold": {
-    "price_usd": 4181.1,
-    "price_krw": 5559190,
-    "change": 11.0,
-    "change_pct": 0.26
+    "price_usd": 4197.5,
+    "price_krw": 5602235,
+    "change": 16.4,
+    "change_pct": 0.39
   },
-  "updated": "2026-10-18 07:49",
+  "updated": "2026-10-19 07:42",
   "error": null
 }
