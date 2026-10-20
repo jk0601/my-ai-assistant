@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "\"LG디스플레이, 2029년 플립 OLED 양산 목표\"...애플 스튜디오 겨냥 추정",
-      "url": "https://n.news.naver.com/mnews/article/092/0002441369"
+      "title": "“교통비 환급 꼭 누리려면”…‘모두의카드’ 이용자 26일까지 카드번호 확인해야",
+      "url": "https://n.news.naver.com/mnews/article/016/0002711501"
     },
     {
-      "title": "발전5사 통합·한전 재무 도마…19일 에너지 공기업 국감 '2라운드'",
-      "url": "https://n.news.naver.com/mnews/article/014/0005590668"
+      "title": "정부·SK하이닉스, 반도체 협력사에 2조원 보증 지원",
+      "url": "https://n.news.naver.com/mnews/article/001/0016386227"
     },
     {
-      "title": "최태원 \"AI가 지혜는 아냐…리더는 AI가 못하는 일 찾아야\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006390987"
+      "title": "李 “증시 저평가…추가 조치 검토”",
+      "url": "https://n.news.naver.com/mnews/article/018/0006391718"
     },
     {
-      "title": "\"수협서 금융사고 잇따라…사고 규모 갈수록 대형화\"",
-      "url": "https://n.news.naver.com/mnews/article/055/0001396329"
+      "title": "구광모, 전 계열사 전략 점검…AI 분야 신사업 기회 찾는다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005344141"
     },
     {
-      "title": "신세계百, 가을·겨울 패션 행사 '멘즈·우먼스 위크' 연다",
-      "url": "https://n.news.naver.com/mnews/article/421/0009234912"
+      "title": "길어지는 취업 준비에 비용 부담도…3년 이상 취준생 월 80만원",
+      "url": "https://n.news.naver.com/mnews/article/421/0009234906"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000916809"
+      "title": "석유·가스公 통합 이슈 국감서 도마…사전 협의 없는 추진에 부실 우려(종합)",
+      "url": "https://n.news.naver.com/mnews/article/018/0006391712"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002420217"
+      "title": "5대 은행장, 4년 만에 국감장 나란히…'AI 해킹' 책임론 시험대[2026 국감]",
+      "url": "https://n.news.naver.com/mnews/article/629/0000543392"
     },
     {
-      "title": "대미 무역흑자 1000억 달러 돌파 눈앞…커지는 ‘트럼프 청구서’ 우려",
-      "url": "https://n.news.naver.com/mnews/article/025/0003558661"
+      "title": "11월 아파트 입주물량 1만1559가구…수도권 전월 대비 ‘반토막’",
+      "url": "https://n.news.naver.com/mnews/article/028/0002828034"
     },
     {
-      "title": "“이 와중에 ‘레버리지’ 야수처럼 올라탔다”…돌아온 건 ‘눈물의 -33%’",
-      "url": "https://n.news.naver.com/mnews/article/009/0005750018"
+      "title": "삼성전기, 글로벌 대형기업과 메모리용 패키지기판 장기공급계약…3600억 원 규모",
+      "url": "https://n.news.naver.com/mnews/article/020/0003756009"
     },
     {
-      "title": "현대차·기아, 4년 후 로봇 자율공장 가동…“2032년 완전 자동화”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004672336"
+      "title": "할리스, 고객 비번·주소까지 털렸다…\"피해 규모 확인 중\"",
+      "url": "https://n.news.naver.com/mnews/article/055/0001396540"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5668.05,
-      "change": 113.83,
-      "change_pct": 2.05
+      "value": 5768.01,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 794.78,
-      "change": 33.96,
-      "change_pct": 4.46
+      "value": 808.89,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26140.03,
-      "change": -573.0,
-      "change_pct": -2.15
+      "value": 26430.89,
+      "change": 290.86,
+      "change_pct": 1.11
     },
     "usdkrw": {
-      "value": 1334.66,
-      "change": -6.29,
-      "change_pct": -0.47
+      "value": 1327.28,
+      "change": -6.15,
+      "change_pct": -0.46
     }
   },
   "gold": {
-    "price_usd": 4197.5,
-    "price_krw": 5602235,
-    "change": 16.4,
-    "change_pct": 0.39
+    "price_usd": 4152.1,
+    "price_krw": 5510999,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-10-19 07:42",
+  "updated": "2026-10-20 09:03",
   "error": null
 }
