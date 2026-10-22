@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "인천공항~덕적도 UAM 실증 성공…섬 지역 하늘길 열린다",
-      "url": "https://n.news.naver.com/mnews/article/014/0005592213"
+      "title": "LG디스플레이 3분기 영업익 2506억…전년비 42%↓",
+      "url": "https://n.news.naver.com/mnews/article/215/0001270118"
     },
     {
-      "title": "비트코인 급락 딛고 8.3만달러 회복…이란 기대[코인 모닝콜]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006392616"
+      "title": "재정·통화 '엇박자' 논란에 신현송 \"재정 지속가능성 생각해야\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016394157"
     },
     {
-      "title": "10월 20일간 수출 616억달러…동기간 역대 최대 실적",
-      "url": "https://n.news.naver.com/mnews/article/028/0002828388"
+      "title": "\"다 바꿔봐\" 쇼츠로 돌아온 선대회장[이건희 6주기]",
+      "url": "https://n.news.naver.com/mnews/article/031/0001068610"
     },
     {
-      "title": "뉴욕 증시, 스페이스X 흑자에 동반 상승 출발",
-      "url": "https://n.news.naver.com/mnews/article/052/0002421958"
+      "title": "롯데백화점, '밸리타운 청량리' 오픈...15년 만에 서울 신규 출점",
+      "url": "https://n.news.naver.com/mnews/article/008/0005429965"
     },
     {
-      "title": "코스닥 새내기주 엘리스 월가서도 주목하는 까닭",
-      "url": "https://n.news.naver.com/mnews/article/015/0005345104"
+      "title": "한국은행, 기준금리 3.0% 동결…두 차례 인상 이어 숨고르기",
+      "url": "https://n.news.naver.com/mnews/article/660/0000119696"
     },
     {
-      "title": "금융당국이 겨냥한 솔리다임 중복상장...SK하이닉스·스퀘어, 주주 설득해야 外 [한강로경제브리핑]",
-      "url": "https://n.news.naver.com/mnews/article/022/0004168381"
+      "title": "LG이노텍, 엔비디아 손잡고 피지컬 AI·로봇 ‘눈’ 만든다",
+      "url": "https://n.news.naver.com/mnews/article/005/0001880315"
     },
     {
-      "title": "1000원 비타민 들고 링 오른 이마트…다이소·올영에 도전장 [수민이가 궁금해요]",
-      "url": "https://n.news.naver.com/mnews/article/022/0004168513"
+      "title": "신세계그룹 23일 임원인사…이마트 세대교체 폭 커지나",
+      "url": "https://n.news.naver.com/mnews/article/009/0005752784"
     },
     {
-      "title": "삼전닉스 레버리지 ETF…80일간 손실이 6.3조원",
-      "url": "https://n.news.naver.com/mnews/article/009/0005752013"
+      "title": "가계대출 총량관리 '그림자 규제' 지적에…이억원 \"금융시장 안정, 지도 필요\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005430291"
     },
     {
-      "title": "박영선 \"중소기업 AI 혁신? 사장이 먼저 AI 써 봐야 가능\"",
-      "url": "https://n.news.naver.com/mnews/article/469/0000960810"
+      "title": "\"삼성전기, 엔비디아 공급망 진입…FC-BGA 시장 영향력 확대\"-하나",
+      "url": "https://n.news.naver.com/mnews/article/015/0005345684"
     },
     {
-      "title": "오늘 금통위…'매파적 동결' 후 11월 인상?",
-      "url": "https://n.news.naver.com/mnews/article/079/0004201370"
+      "title": "MBK·영풍, 고려아연 상대 소송서 잇따라 패소…\"최윤범號, 경영권 강화 탄력\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014273042"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5552.74,
+      "value": 5735.66,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 781.97,
+      "value": 792.76,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26702.86,
-      "change": 278.04,
-      "change_pct": 1.05
+      "value": 26008.86,
+      "change": -694.0,
+      "change_pct": -2.6
     },
     "usdkrw": {
-      "value": 1326.25,
-      "change": 2.31,
-      "change_pct": 0.17
+      "value": 1325.66,
+      "change": 0.07,
+      "change_pct": 0.01
     }
   },
   "gold": {
-    "price_usd": 4141.7,
-    "price_krw": 5492929,
-    "change": -0.9,
-    "change_pct": -0.02
+    "price_usd": 4040.0,
+    "price_krw": 5355666,
+    "change": -110.0,
+    "change_pct": -2.65
   },
-  "updated": "2026-10-22 08:51",
+  "updated": "2026-10-23 08:48",
   "error": null
 }
