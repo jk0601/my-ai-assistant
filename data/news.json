@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "LG디스플레이 3분기 영업익 2506억…전년비 42%↓",
-      "url": "https://n.news.naver.com/mnews/article/215/0001270118"
+      "title": "'美 상장 다른 셈법'…SK하이닉스와 현대차가 다른 이유",
+      "url": "https://n.news.naver.com/mnews/article/293/0000092049"
     },
     {
-      "title": "재정·통화 '엇박자' 논란에 신현송 \"재정 지속가능성 생각해야\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016394157"
+      "title": "미슐랭 쌍별 셰프, 대기업 '진짜 별' 달았다…신세계 임원 꿰찬 손종원",
+      "url": "https://n.news.naver.com/mnews/article/277/0005832667"
     },
     {
-      "title": "\"다 바꿔봐\" 쇼츠로 돌아온 선대회장[이건희 6주기]",
-      "url": "https://n.news.naver.com/mnews/article/031/0001068610"
+      "title": "박홍근 \"소방 예산 안정적 확보 방안 마련...내년 예산 반영 검토\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005593655"
     },
     {
-      "title": "롯데백화점, '밸리타운 청량리' 오픈...15년 만에 서울 신규 출점",
-      "url": "https://n.news.naver.com/mnews/article/008/0005429965"
+      "title": "우리금융, 내년 주주환원율 50% 이상...\"보험사 통합 추가출자 없다\"[컨콜]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005593717"
     },
     {
-      "title": "한국은행, 기준금리 3.0% 동결…두 차례 인상 이어 숨고르기",
-      "url": "https://n.news.naver.com/mnews/article/660/0000119696"
+      "title": "KB증권 \"기업 담당자 대상 '퇴직연금 세미나' 개최\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005832698"
     },
     {
-      "title": "LG이노텍, 엔비디아 손잡고 피지컬 AI·로봇 ‘눈’ 만든다",
-      "url": "https://n.news.naver.com/mnews/article/005/0001880315"
+      "title": "\"30년 전 AI·로봇 시대 예견\"…故 이건희 6주기, 다시 주목받는 유산",
+      "url": "https://n.news.naver.com/mnews/article/008/0005430783"
     },
     {
-      "title": "신세계그룹 23일 임원인사…이마트 세대교체 폭 커지나",
-      "url": "https://n.news.naver.com/mnews/article/009/0005752784"
+      "title": "신현송 \"석유최고가격제, 올해는 바람직…장기적 제도는 아니야\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005430646"
     },
     {
-      "title": "가계대출 총량관리 '그림자 규제' 지적에…이억원 \"금융시장 안정, 지도 필요\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005430291"
+      "title": "허민호 신세계까사 신임 대표 선임…뷰티·유통 전문가[프로필]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006394564"
     },
     {
-      "title": "\"삼성전기, 엔비디아 공급망 진입…FC-BGA 시장 영향력 확대\"-하나",
-      "url": "https://n.news.naver.com/mnews/article/015/0005345684"
+      "title": "美서 그린필드 방식 ‘통큰 투자’… ‘마스가’ 한미관계 구원투수로",
+      "url": "https://n.news.naver.com/mnews/article/021/0002827406"
     },
     {
-      "title": "MBK·영풍, 고려아연 상대 소송서 잇따라 패소…\"최윤범號, 경영권 강화 탄력\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014273042"
+      "title": "홍지선 \"실거주 규제도 전월세 불안 원인 일부…근본은 공급 부족\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009245968"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5735.66,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 792.76,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26008.86,
-      "change": -694.0,
-      "change_pct": -2.6
+      "value": 25955.34,
+      "change": -53.52,
+      "change_pct": -0.21
     },
     "usdkrw": {
-      "value": 1325.66,
-      "change": 0.07,
-      "change_pct": 0.01
+      "value": 1323.66,
+      "change": -1.93,
+      "change_pct": -0.15
     }
   },
   "gold": {
-    "price_usd": 4040.0,
-    "price_krw": 5355666,
-    "change": -110.0,
-    "change_pct": -2.65
+    "price_usd": 4010.0,
+    "price_krw": 5307876,
+    "change": -50.4,
+    "change_pct": -1.24
   },
-  "updated": "2026-10-23 08:48",
+  "updated": "2026-10-24 08:42",
   "error": null
 }
