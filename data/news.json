@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "'美 상장 다른 셈법'…SK하이닉스와 현대차가 다른 이유",
-      "url": "https://n.news.naver.com/mnews/article/293/0000092049"
+      "title": "인도네시아에 AI 데이터센터 태극기 꽂은 LG CNS…동남아 영토 확장",
+      "url": "https://n.news.naver.com/mnews/article/008/0005431041"
     },
     {
-      "title": "미슐랭 쌍별 셰프, 대기업 '진짜 별' 달았다…신세계 임원 꿰찬 손종원",
-      "url": "https://n.news.naver.com/mnews/article/277/0005832667"
+      "title": "“삼성·하이닉스 곧 따라잡는다”던 中반도체…진짜 위협일까[이상현의 전자수첩]",
+      "url": "https://n.news.naver.com/mnews/article/029/0003054906"
     },
     {
-      "title": "박홍근 \"소방 예산 안정적 확보 방안 마련...내년 예산 반영 검토\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005593655"
+      "title": "‘PHP 취약점’ 악용…北라자루스, 대규모 공격준비 정황",
+      "url": "https://n.news.naver.com/mnews/article/005/0001880584"
     },
     {
-      "title": "우리금융, 내년 주주환원율 50% 이상...\"보험사 통합 추가출자 없다\"[컨콜]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005593717"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000918887"
     },
     {
-      "title": "KB증권 \"기업 담당자 대상 '퇴직연금 세미나' 개최\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005832698"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002422934"
     },
     {
-      "title": "\"30년 전 AI·로봇 시대 예견\"…故 이건희 6주기, 다시 주목받는 유산",
-      "url": "https://n.news.naver.com/mnews/article/008/0005430783"
+      "title": "대한항공·아시아나 협력사 … 고객 개인정보 대량 유출",
+      "url": "https://n.news.naver.com/mnews/article/009/0005753342"
     },
     {
-      "title": "신현송 \"석유최고가격제, 올해는 바람직…장기적 제도는 아니야\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005430646"
+      "title": "주유소 기름값 23주 연속 하락…휘발유·경유 1,800원대",
+      "url": "https://n.news.naver.com/mnews/article/056/0012280148"
     },
     {
-      "title": "허민호 신세계까사 신임 대표 선임…뷰티·유통 전문가[프로필]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006394564"
+      "title": "월 1회 주사에 먹는 약까지…진화하는 K비만치료제[바이오사이언스]",
+      "url": "https://n.news.naver.com/mnews/article/001/0016397862"
     },
     {
-      "title": "美서 그린필드 방식 ‘통큰 투자’… ‘마스가’ 한미관계 구원투수로",
-      "url": "https://n.news.naver.com/mnews/article/021/0002827406"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/448/0000646662"
     },
     {
-      "title": "홍지선 \"실거주 규제도 전월세 불안 원인 일부…근본은 공급 부족\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009245968"
+      "title": "포스코이앤씨, 이수신동아4단지 리모델링 수주",
+      "url": "https://n.news.naver.com/mnews/article/374/0000539587"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 5550.3,
+      "change": 16.53,
+      "change_pct": 0.3
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 751.69,
+      "change": -12.41,
+      "change_pct": -1.62
     },
     "nasdaq": {
       "value": 25955.34,
@@ -58,17 +58,17 @@
       "change_pct": -0.21
     },
     "usdkrw": {
-      "value": 1323.66,
-      "change": -1.93,
-      "change_pct": -0.15
+      "value": 1325.4,
+      "change": -0.59,
+      "change_pct": -0.04
     }
   },
   "gold": {
-    "price_usd": 4010.0,
-    "price_krw": 5307876,
-    "change": -50.4,
-    "change_pct": -1.24
+    "price_usd": 4007.9,
+    "price_krw": 5312070,
+    "change": -52.5,
+    "change_pct": -1.29
   },
-  "updated": "2026-10-24 08:42",
+  "updated": "2026-10-25 07:49",
   "error": null
 }
