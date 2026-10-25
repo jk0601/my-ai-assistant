@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "인도네시아에 AI 데이터센터 태극기 꽂은 LG CNS…동남아 영토 확장",
-      "url": "https://n.news.naver.com/mnews/article/008/0005431041"
+      "title": "美 데이터센터 옆 동네 기온 2.2도 높아… 울산, 최대 4도 상승 예측",
+      "url": "https://n.news.naver.com/mnews/article/020/0003757480"
     },
     {
-      "title": "“삼성·하이닉스 곧 따라잡는다”던 中반도체…진짜 위협일까[이상현의 전자수첩]",
-      "url": "https://n.news.naver.com/mnews/article/029/0003054906"
+      "title": "\"코스피 1만2000 간다\"더니…4개월 만에 돌변한 골드만삭스, 왜",
+      "url": "https://n.news.naver.com/mnews/article/215/0001270401"
     },
     {
-      "title": "‘PHP 취약점’ 악용…北라자루스, 대규모 공격준비 정황",
-      "url": "https://n.news.naver.com/mnews/article/005/0001880584"
+      "title": "韓 2분기 경상흑자 세계 2위...‘제조업 강국’ 독·일 합계마저 제쳐",
+      "url": "https://n.news.naver.com/mnews/article/023/0004005764"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000918887"
+      "title": "'솔리다임 상장 중단' SK하이닉스, 美신규공장 투자재원 마련 과제로",
+      "url": "https://n.news.naver.com/mnews/article/014/0005594089"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002422934"
+      "title": "이형일, 경제현안간담회서 ‘국내생산세액공제·3대 사회정책’ 논의",
+      "url": "https://n.news.naver.com/mnews/article/011/0004674972"
     },
     {
-      "title": "대한항공·아시아나 협력사 … 고객 개인정보 대량 유출",
-      "url": "https://n.news.naver.com/mnews/article/009/0005753342"
+      "title": "고유가·美금리 변수…1320원대로 내려온 환율 '갈림길'[주간외환전망]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006395592"
     },
     {
-      "title": "주유소 기름값 23주 연속 하락…휘발유·경유 1,800원대",
-      "url": "https://n.news.naver.com/mnews/article/056/0012280148"
+      "title": "‘국민 즉석밥’ 햇반 30돌…연매출 1.5조로 키운다",
+      "url": "https://n.news.naver.com/mnews/article/011/0004674901"
     },
     {
-      "title": "월 1회 주사에 먹는 약까지…진화하는 K비만치료제[바이오사이언스]",
-      "url": "https://n.news.naver.com/mnews/article/001/0016397862"
+      "title": "삼양그룹, 창립 102주년 기념 ‘나눔의 온도 102도’ 행사",
+      "url": "https://n.news.naver.com/mnews/article/005/0001880772"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/448/0000646662"
+      "title": "“중소기업인데 세전 300만원 준다고요?”…청년층 가장 많이 원한 월급은 ‘이 정도’",
+      "url": "https://n.news.naver.com/mnews/article/009/0005753547"
     },
     {
-      "title": "포스코이앤씨, 이수신동아4단지 리모델링 수주",
-      "url": "https://n.news.naver.com/mnews/article/374/0000539587"
+      "title": "‘스페이스X 0주 배정’ 미래에셋 제재 착수",
+      "url": "https://n.news.naver.com/mnews/article/020/0003757465"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": -0.21
     },
     "usdkrw": {
-      "value": 1325.4,
-      "change": -0.59,
-      "change_pct": -0.04
+      "value": 1323.4,
+      "change": -2.59,
+      "change_pct": -0.2
     }
   },
   "gold": {
-    "price_usd": 4007.9,
-    "price_krw": 5312070,
-    "change": -52.5,
-    "change_pct": -1.29
+    "price_usd": 4016.5,
+    "price_krw": 5315436,
+    "change": 8.6,
+    "change_pct": 0.21
   },
-  "updated": "2026-10-25 07:49",
+  "updated": "2026-10-26 07:59",
   "error": null
 }
