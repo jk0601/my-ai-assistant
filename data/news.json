@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "美 데이터센터 옆 동네 기온 2.2도 높아… 울산, 최대 4도 상승 예측",
-      "url": "https://n.news.naver.com/mnews/article/020/0003757480"
+      "title": "9월 인천 수출 61.6억달러…월 수출 기준 역대 최다",
+      "url": "https://n.news.naver.com/mnews/article/001/0016400914"
     },
     {
-      "title": "\"코스피 1만2000 간다\"더니…4개월 만에 돌변한 골드만삭스, 왜",
-      "url": "https://n.news.naver.com/mnews/article/215/0001270401"
+      "title": "집 계약했는데 대출 막히면?…'연말 대출절벽' 또 온다는 경고",
+      "url": "https://n.news.naver.com/mnews/article/018/0006396456"
     },
     {
-      "title": "韓 2분기 경상흑자 세계 2위...‘제조업 강국’ 독·일 합계마저 제쳐",
-      "url": "https://n.news.naver.com/mnews/article/023/0004005764"
+      "title": "기후장관 \"AI 데이터센터 전력수요 생각보다 많지 않아\"",
+      "url": "https://n.news.naver.com/mnews/article/052/0002423780"
     },
     {
-      "title": "'솔리다임 상장 중단' SK하이닉스, 美신규공장 투자재원 마련 과제로",
-      "url": "https://n.news.naver.com/mnews/article/014/0005594089"
+      "title": "“국민연금 받는다고 깎았다”…최근 5년간 기초연금 2.8조원 감액",
+      "url": "https://n.news.naver.com/mnews/article/029/0003055128"
     },
     {
-      "title": "이형일, 경제현안간담회서 ‘국내생산세액공제·3대 사회정책’ 논의",
-      "url": "https://n.news.naver.com/mnews/article/011/0004674972"
+      "title": "“AI가 내 일자리 잡아먹네” 청년들, 고용률 줄자 임시일용직으로 내몰렸다",
+      "url": "https://n.news.naver.com/mnews/article/016/0002714524"
     },
     {
-      "title": "고유가·美금리 변수…1320원대로 내려온 환율 '갈림길'[주간외환전망]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006395592"
+      "title": "월급 받고 열흘 지나면 '텅장'…직장인 평균 월급 22% 남아",
+      "url": "https://n.news.naver.com/mnews/article/001/0016401765"
     },
     {
-      "title": "‘국민 즉석밥’ 햇반 30돌…연매출 1.5조로 키운다",
-      "url": "https://n.news.naver.com/mnews/article/011/0004674901"
+      "title": "삼성SDI, 美서 각형 ESS 솔루션 잇단 계약… 주목받는 이유는",
+      "url": "https://n.news.naver.com/mnews/article/469/0000961699"
     },
     {
-      "title": "삼양그룹, 창립 102주년 기념 ‘나눔의 온도 102도’ 행사",
-      "url": "https://n.news.naver.com/mnews/article/005/0001880772"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002424007"
     },
     {
-      "title": "“중소기업인데 세전 300만원 준다고요?”…청년층 가장 많이 원한 월급은 ‘이 정도’",
-      "url": "https://n.news.naver.com/mnews/article/009/0005753547"
+      "title": "3분기 한국 경제 1% 성장… 민간소비 증가율 4년 6개월 만에 최저",
+      "url": "https://n.news.naver.com/mnews/article/366/0001200467"
     },
     {
-      "title": "‘스페이스X 0주 배정’ 미래에셋 제재 착수",
-      "url": "https://n.news.naver.com/mnews/article/020/0003757465"
+      "title": "현대차, 국내 수소차 누적 5만대 돌파[기업]",
+      "url": "https://n.news.naver.com/mnews/article/052/0002423912"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5550.3,
-      "change": 16.53,
-      "change_pct": 0.3
+      "value": 5469.47,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 751.69,
-      "change": -12.41,
-      "change_pct": -1.62
+      "value": 727.21,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25955.34,
-      "change": -53.52,
-      "change_pct": -0.21
+      "value": 26169.38,
+      "change": 214.04,
+      "change_pct": 0.82
     },
     "usdkrw": {
-      "value": 1323.4,
-      "change": -2.59,
-      "change_pct": -0.2
+      "value": 1324.08,
+      "change": 2.32,
+      "change_pct": 0.18
     }
   },
   "gold": {
-    "price_usd": 4016.5,
-    "price_krw": 5315436,
-    "change": 8.6,
-    "change_pct": 0.21
+    "price_usd": 4017.9,
+    "price_krw": 5320020,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-10-26 07:59",
+  "updated": "2026-10-27 09:10",
   "error": null
 }
