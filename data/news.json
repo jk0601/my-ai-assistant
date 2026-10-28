@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "9월 인천 수출 61.6억달러…월 수출 기준 역대 최다",
-      "url": "https://n.news.naver.com/mnews/article/001/0016400914"
+      "title": "박현주 “AI 혁명, 이제 10~20%… 반도체 고점론, 세상 변화 모르는 것”",
+      "url": "https://n.news.naver.com/mnews/article/366/0001200690"
     },
     {
-      "title": "집 계약했는데 대출 막히면?…'연말 대출절벽' 또 온다는 경고",
-      "url": "https://n.news.naver.com/mnews/article/018/0006396456"
+      "title": "한화시스템, 3분기 영업익 60% 증가⋯방산수출 견인",
+      "url": "https://n.news.naver.com/mnews/article/031/0001069755"
     },
     {
-      "title": "기후장관 \"AI 데이터센터 전력수요 생각보다 많지 않아\"",
-      "url": "https://n.news.naver.com/mnews/article/052/0002423780"
+      "title": "갤 S21·S22·탭S8, 고사양 게임 성능 제한… 공정위 “알리지 않았다” 201억원 과징금",
+      "url": "https://n.news.naver.com/mnews/article/023/0004006279"
     },
     {
-      "title": "“국민연금 받는다고 깎았다”…최근 5년간 기초연금 2.8조원 감액",
-      "url": "https://n.news.naver.com/mnews/article/029/0003055128"
+      "title": "[속보]SK하이닉스 \"키옥시아 투자 수익 대부분 주주와 공유\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005595499"
     },
     {
-      "title": "“AI가 내 일자리 잡아먹네” 청년들, 고용률 줄자 임시일용직으로 내몰렸다",
-      "url": "https://n.news.naver.com/mnews/article/016/0002714524"
+      "title": "LG이노텍, 3Q 매출 첫 6조 돌파…환율 하락에 영업익은 948억으로 감소",
+      "url": "https://n.news.naver.com/mnews/article/003/0014282024"
     },
     {
-      "title": "월급 받고 열흘 지나면 '텅장'…직장인 평균 월급 22% 남아",
-      "url": "https://n.news.naver.com/mnews/article/001/0016401765"
+      "title": "이재용 취임 4년…'로봇'부터 챙겼다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005347136"
     },
     {
-      "title": "삼성SDI, 美서 각형 ESS 솔루션 잇단 계약… 주목받는 이유는",
-      "url": "https://n.news.naver.com/mnews/article/469/0000961699"
+      "title": "복지위 '리밸런싱 회의록' 공방…소아응급실 수사엔 한목소리 질타",
+      "url": "https://n.news.naver.com/mnews/article/001/0016404054"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002424007"
+      "title": "금감원 \"JYP 공개매수 의사표명 이례적…이상거래 예의주시\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005347202"
     },
     {
-      "title": "3분기 한국 경제 1% 성장… 민간소비 증가율 4년 6개월 만에 최저",
-      "url": "https://n.news.naver.com/mnews/article/366/0001200467"
+      "title": "3분기 한국 1% ‘깜짝’ 성장…반도체 날았지만 민간소비 4년여만 첫 뒷걸음",
+      "url": "https://n.news.naver.com/mnews/article/029/0003055406"
     },
     {
-      "title": "현대차, 국내 수소차 누적 5만대 돌파[기업]",
-      "url": "https://n.news.naver.com/mnews/article/052/0002423912"
+      "title": "블룸버그 “솔리다임, 미국과 60조원 낸드공장 협의”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004675887"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5469.47,
+      "value": 5638.34,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 727.21,
+      "value": 743.83,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26169.38,
-      "change": 214.04,
-      "change_pct": 0.82
+      "value": 26477.81,
+      "change": 308.43,
+      "change_pct": 1.18
     },
     "usdkrw": {
-      "value": 1324.08,
-      "change": 2.32,
-      "change_pct": 0.18
+      "value": 1326.58,
+      "change": 1.81,
+      "change_pct": 0.14
     }
   },
   "gold": {
-    "price_usd": 4017.9,
-    "price_krw": 5320020,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4078.4,
+    "price_krw": 5410323,
+    "change": 40.0,
+    "change_pct": 0.99
   },
-  "updated": "2026-10-27 09:10",
+  "updated": "2026-10-28 09:12",
   "error": null
 }
