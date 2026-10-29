@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "박현주 “AI 혁명, 이제 10~20%… 반도체 고점론, 세상 변화 모르는 것”",
-      "url": "https://n.news.naver.com/mnews/article/366/0001200690"
+      "title": "삼성전기 \"4분기, 통상적 수준 넘어 전분기 대비 큰 폭 성장 예상\"[컨콜]",
+      "url": "https://n.news.naver.com/mnews/article/119/0003148146"
     },
     {
-      "title": "한화시스템, 3분기 영업익 60% 증가⋯방산수출 견인",
-      "url": "https://n.news.naver.com/mnews/article/031/0001069755"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/214/0001531923"
     },
     {
-      "title": "갤 S21·S22·탭S8, 고사양 게임 성능 제한… 공정위 “알리지 않았다” 201억원 과징금",
-      "url": "https://n.news.naver.com/mnews/article/023/0004006279"
+      "title": "MS, 애저 48% 성장에 매출 19%↑…AI·클라우드가 실적 견인",
+      "url": "https://n.news.naver.com/mnews/article/138/0002246413"
     },
     {
-      "title": "[속보]SK하이닉스 \"키옥시아 투자 수익 대부분 주주와 공유\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005595499"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/448/0000647599"
     },
     {
-      "title": "LG이노텍, 3Q 매출 첫 6조 돌파…환율 하락에 영업익은 948억으로 감소",
-      "url": "https://n.news.naver.com/mnews/article/003/0014282024"
+      "title": "‘내실 경영’ 호텔신라 3분기 영업익 552억원…전년比 382%↑",
+      "url": "https://n.news.naver.com/mnews/article/081/0003693414"
     },
     {
-      "title": "이재용 취임 4년…'로봇'부터 챙겼다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005347136"
+      "title": "‘반도체 온기’ 후방산업으로 확산…기업 경기심리 4년2개월 만에 ‘최고’",
+      "url": "https://n.news.naver.com/mnews/article/016/0002715768"
     },
     {
-      "title": "복지위 '리밸런싱 회의록' 공방…소아응급실 수사엔 한목소리 질타",
-      "url": "https://n.news.naver.com/mnews/article/001/0016404054"
+      "title": "은행 이어 증권·코인 거래소도 뚫렸다… ‘북한 IP’ 접근 시도 440만건",
+      "url": "https://n.news.naver.com/mnews/article/081/0003693540"
     },
     {
-      "title": "금감원 \"JYP 공개매수 의사표명 이례적…이상거래 예의주시\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005347202"
+      "title": "국내 기업들 “AI 기본법, 규제대상·책임범위 모호…기준 명확히 해야”",
+      "url": "https://n.news.naver.com/mnews/article/016/0002715767"
     },
     {
-      "title": "3분기 한국 1% ‘깜짝’ 성장…반도체 날았지만 민간소비 4년여만 첫 뒷걸음",
-      "url": "https://n.news.naver.com/mnews/article/029/0003055406"
+      "title": "“기금형 퇴직연금, 증시부양 수단 안될 말”",
+      "url": "https://n.news.naver.com/mnews/article/025/0003561277"
     },
     {
-      "title": "블룸버그 “솔리다임, 미국과 60조원 낸드공장 협의”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004675887"
+      "title": "주당 2만원 쏜 날, 하이닉스 11% 날았다",
+      "url": "https://n.news.naver.com/mnews/article/025/0003561309"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5638.34,
+      "value": 6026.91,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 743.83,
+      "value": 764.04,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26477.81,
-      "change": 308.43,
-      "change_pct": 1.18
+      "value": 26549.85,
+      "change": 72.04,
+      "change_pct": 0.27
     },
     "usdkrw": {
-      "value": 1326.58,
-      "change": 1.81,
-      "change_pct": 0.14
+      "value": 1337.08,
+      "change": 10.27,
+      "change_pct": 0.77
     }
   },
   "gold": {
-    "price_usd": 4078.4,
-    "price_krw": 5410323,
-    "change": 40.0,
-    "change_pct": 0.99
+    "price_usd": 4054.2,
+    "price_krw": 5420789,
+    "change": -20.4,
+    "change_pct": -0.5
   },
-  "updated": "2026-10-28 09:12",
+  "updated": "2026-10-29 09:32",
   "error": null
 }
