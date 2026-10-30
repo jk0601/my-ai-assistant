@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "삼성전기 \"4분기, 통상적 수준 넘어 전분기 대비 큰 폭 성장 예상\"[컨콜]",
-      "url": "https://n.news.naver.com/mnews/article/119/0003148146"
+      "title": "진에어, 외부 해킹으로 1,454명 개인정보 유출…이름·폰번호 등 8개 항목",
+      "url": "https://n.news.naver.com/mnews/article/422/0000920903"
+    },
+    {
+      "title": "신세계百, 롯데 부산 센텀점 품는다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005756104"
+    },
+    {
+      "title": "두산에너빌, 美 최대 SMR 첫 원자로 만든다",
+      "url": "https://n.news.naver.com/mnews/article/016/0002716185"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/214/0001531923"
+      "url": "https://n.news.naver.com/mnews/article/052/0002425534"
     },
     {
-      "title": "MS, 애저 48% 성장에 매출 19%↑…AI·클라우드가 실적 견인",
-      "url": "https://n.news.naver.com/mnews/article/138/0002246413"
+      "title": "삼성SDI, 3분기 흑자 전환에 2%대 상승…ESS가 실적 견인",
+      "url": "https://n.news.naver.com/mnews/article/015/0005347886"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/448/0000647599"
+      "title": "‘개천서 용 나기’ 더 어려워졌다… 계층 상승률 역대 최저",
+      "url": "https://n.news.naver.com/mnews/article/005/0001881858"
     },
     {
-      "title": "‘내실 경영’ 호텔신라 3분기 영업익 552억원…전년比 382%↑",
-      "url": "https://n.news.naver.com/mnews/article/081/0003693414"
+      "title": "북미·일본 성장에…아모레퍼시픽그룹, 3분기 영업익 25%↑",
+      "url": "https://n.news.naver.com/mnews/article/277/0005835466"
     },
     {
-      "title": "‘반도체 온기’ 후방산업으로 확산…기업 경기심리 4년2개월 만에 ‘최고’",
-      "url": "https://n.news.naver.com/mnews/article/016/0002715768"
+      "title": "SK하이닉스 이은 삼성전자도 역대급 실적·통큰 배당…주가는 엇갈려",
+      "url": "https://n.news.naver.com/mnews/article/088/0001037138"
     },
     {
-      "title": "은행 이어 증권·코인 거래소도 뚫렸다… ‘북한 IP’ 접근 시도 440만건",
-      "url": "https://n.news.naver.com/mnews/article/081/0003693540"
+      "title": "9월 가계대출 금리 5% 육박‥주담대 금리도 14년 만에 최고치",
+      "url": "https://n.news.naver.com/mnews/article/214/0001532210"
     },
     {
-      "title": "국내 기업들 “AI 기본법, 규제대상·책임범위 모호…기준 명확히 해야”",
-      "url": "https://n.news.naver.com/mnews/article/016/0002715767"
-    },
-    {
-      "title": "“기금형 퇴직연금, 증시부양 수단 안될 말”",
-      "url": "https://n.news.naver.com/mnews/article/025/0003561277"
-    },
-    {
-      "title": "주당 2만원 쏜 날, 하이닉스 11% 날았다",
-      "url": "https://n.news.naver.com/mnews/article/025/0003561309"
+      "title": "전영현 삼성전자 부회장 \"기술 경쟁력 회복 아직…자축할 때 아냐\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009259904"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6026.91,
+      "value": 5685.22,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 764.04,
+      "value": 727.01,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26549.85,
-      "change": 72.04,
-      "change_pct": 0.27
+      "value": 26184.72,
+      "change": -365.12,
+      "change_pct": -1.38
     },
     "usdkrw": {
-      "value": 1337.08,
-      "change": 10.27,
-      "change_pct": 0.77
+      "value": 1339.38,
+      "change": -0.96,
+      "change_pct": -0.07
     }
   },
   "gold": {
-    "price_usd": 4054.2,
-    "price_krw": 5420789,
-    "change": -20.4,
-    "change_pct": -0.5
+    "price_usd": 4021.7,
+    "price_krw": 5386584,
+    "change": -29.9,
+    "change_pct": -0.74
   },
-  "updated": "2026-10-29 09:32",
+  "updated": "2026-10-30 09:32",
   "error": null
 }
