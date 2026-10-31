@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "\"지금이 기회\" 이커머스 곳곳서 대규모 할인 행사[주말e커머스]",
-      "url": "https://n.news.naver.com/mnews/article/003/0014291792"
+      "title": "“매출은 줄어드는데 이자는 계속 불어나고”…은행 부실채권 8년 반 만에 최대[머니뭐니]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002717084"
     },
     {
-      "title": "롯데그룹, 모빌리티·바이오·AI 등 신사업 분야 글로벌 시장 공략 가속",
-      "url": "https://n.news.naver.com/mnews/article/366/0001201596"
+      "title": "게임·애니 캐릭터 백화점에서 만난다…팝업 풍성[위클리 쇼핑]",
+      "url": "https://n.news.naver.com/mnews/article/003/0014291819"
     },
     {
-      "title": "SK그룹, 사장단 인사…정승일 SK이노 신임 CEO 내정",
-      "url": "https://n.news.naver.com/mnews/article/215/0001271064"
+      "title": "최태원·샘 올트먼, 서울서 오찬 회동...AI 협력 주목",
+      "url": "https://n.news.naver.com/mnews/article/052/0002426532"
     },
     {
-      "title": "한화, 美 해군 군함 첫 수주…필리조선소 인수 2년 만에 쾌거",
-      "url": "https://n.news.naver.com/mnews/article/011/0004677267"
+      "title": "중국차 한국선 질주, 현대차·기아 中선 주춤…엇갈린 한중 車시장",
+      "url": "https://n.news.naver.com/mnews/article/016/0002716936"
     },
     {
-      "title": "포스코 3차 파업 피했다… 노사, 기본급 2.6% 인상 합의",
-      "url": "https://n.news.naver.com/mnews/article/011/0004677196"
+      "title": "안동서 막 오른 '코리아 그랜드 페스티벌'…전국 4만개사 참여 소비축제 본격화",
+      "url": "https://n.news.naver.com/mnews/article/030/0003480657"
     },
     {
-      "title": "GS건설도 해킹 피해…일부 아파트 입주민 개인정보 유출",
-      "url": "https://n.news.naver.com/mnews/article/001/0016412369"
+      "title": "김치·즉석밥부터 라면·치킨까지…담합 조사 전방위 확대[먹거리 겨눈 공정위①]",
+      "url": "https://n.news.naver.com/mnews/article/003/0014291867"
     },
     {
-      "title": "\"토스, 日 치어증권 주식 전량 취득\" [니혼게이자이]",
-      "url": "https://n.news.naver.com/mnews/article/374/0000540825"
+      "title": "오늘 기름 넣을까...기름값 24주 연속 하락세",
+      "url": "https://n.news.naver.com/mnews/article/023/0004007061"
     },
     {
-      "title": "[속보] YTN 민영화 취소 항소심, 12월 18일 선고",
-      "url": "https://n.news.naver.com/mnews/article/437/0000518337"
+      "title": "롯데온, 블랙프라이데이 맞아 8일까지 '블랙온세일'",
+      "url": "https://n.news.naver.com/mnews/article/001/0016413552"
     },
     {
-      "title": "창립 57주년 삼성전자 “호황 지속 장담 못해, 기술 경쟁력 확보할 때”",
-      "url": "https://n.news.naver.com/mnews/article/005/0001881933"
+      "title": "美 중간선거·주요 경제지표 발표 대기[주간증시전망]",
+      "url": "https://n.news.naver.com/mnews/article/366/0001201706"
     },
     {
-      "title": "FIU, 미신고 가상자산업자 2곳 국내 접속 차단 요청",
-      "url": "https://n.news.naver.com/mnews/article/055/0001399482"
+      "title": "\"수리했는데 또 고장\"…말썽인 내 폰, 교환 대신 환불될까",
+      "url": "https://n.news.naver.com/mnews/hotissue/article/018/0006401109?type=series&cid=1089464"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 5730.74,
+      "change": -206.92,
+      "change_pct": -3.48
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 724.38,
+      "change": -28.85,
+      "change_pct": -3.83
     },
     "nasdaq": {
       "value": 25437.0,
@@ -58,17 +58,17 @@
       "change_pct": -2.86
     },
     "usdkrw": {
-      "value": 1337.98,
-      "change": -2.36,
-      "change_pct": -0.18
+      "value": 1335.1,
+      "change": -2.88,
+      "change_pct": -0.22
     }
   },
   "gold": {
-    "price_usd": 3884.9,
-    "price_krw": 5197918,
-    "change": -146.5,
-    "change_pct": -3.63
+    "price_usd": 3898.9,
+    "price_krw": 5205421,
+    "change": -132.5,
+    "change_pct": -3.29
   },
-  "updated": "2026-10-31 09:18",
+  "updated": "2026-11-01 08:54",
   "error": null
 }
