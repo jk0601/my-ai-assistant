@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "진에어, 외부 해킹으로 1,454명 개인정보 유출…이름·폰번호 등 8개 항목",
-      "url": "https://n.news.naver.com/mnews/article/422/0000920903"
+      "title": "\"지금이 기회\" 이커머스 곳곳서 대규모 할인 행사[주말e커머스]",
+      "url": "https://n.news.naver.com/mnews/article/003/0014291792"
     },
     {
-      "title": "신세계百, 롯데 부산 센텀점 품는다",
-      "url": "https://n.news.naver.com/mnews/article/009/0005756104"
+      "title": "롯데그룹, 모빌리티·바이오·AI 등 신사업 분야 글로벌 시장 공략 가속",
+      "url": "https://n.news.naver.com/mnews/article/366/0001201596"
     },
     {
-      "title": "두산에너빌, 美 최대 SMR 첫 원자로 만든다",
-      "url": "https://n.news.naver.com/mnews/article/016/0002716185"
+      "title": "SK그룹, 사장단 인사…정승일 SK이노 신임 CEO 내정",
+      "url": "https://n.news.naver.com/mnews/article/215/0001271064"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002425534"
+      "title": "한화, 美 해군 군함 첫 수주…필리조선소 인수 2년 만에 쾌거",
+      "url": "https://n.news.naver.com/mnews/article/011/0004677267"
     },
     {
-      "title": "삼성SDI, 3분기 흑자 전환에 2%대 상승…ESS가 실적 견인",
-      "url": "https://n.news.naver.com/mnews/article/015/0005347886"
+      "title": "포스코 3차 파업 피했다… 노사, 기본급 2.6% 인상 합의",
+      "url": "https://n.news.naver.com/mnews/article/011/0004677196"
     },
     {
-      "title": "‘개천서 용 나기’ 더 어려워졌다… 계층 상승률 역대 최저",
-      "url": "https://n.news.naver.com/mnews/article/005/0001881858"
+      "title": "GS건설도 해킹 피해…일부 아파트 입주민 개인정보 유출",
+      "url": "https://n.news.naver.com/mnews/article/001/0016412369"
     },
     {
-      "title": "북미·일본 성장에…아모레퍼시픽그룹, 3분기 영업익 25%↑",
-      "url": "https://n.news.naver.com/mnews/article/277/0005835466"
+      "title": "\"토스, 日 치어증권 주식 전량 취득\" [니혼게이자이]",
+      "url": "https://n.news.naver.com/mnews/article/374/0000540825"
     },
     {
-      "title": "SK하이닉스 이은 삼성전자도 역대급 실적·통큰 배당…주가는 엇갈려",
-      "url": "https://n.news.naver.com/mnews/article/088/0001037138"
+      "title": "[속보] YTN 민영화 취소 항소심, 12월 18일 선고",
+      "url": "https://n.news.naver.com/mnews/article/437/0000518337"
     },
     {
-      "title": "9월 가계대출 금리 5% 육박‥주담대 금리도 14년 만에 최고치",
-      "url": "https://n.news.naver.com/mnews/article/214/0001532210"
+      "title": "창립 57주년 삼성전자 “호황 지속 장담 못해, 기술 경쟁력 확보할 때”",
+      "url": "https://n.news.naver.com/mnews/article/005/0001881933"
     },
     {
-      "title": "전영현 삼성전자 부회장 \"기술 경쟁력 회복 아직…자축할 때 아냐\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009259904"
+      "title": "FIU, 미신고 가상자산업자 2곳 국내 접속 차단 요청",
+      "url": "https://n.news.naver.com/mnews/article/055/0001399482"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5685.22,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 727.01,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26184.72,
-      "change": -365.12,
-      "change_pct": -1.38
+      "value": 25437.0,
+      "change": -747.72,
+      "change_pct": -2.86
     },
     "usdkrw": {
-      "value": 1339.38,
-      "change": -0.96,
-      "change_pct": -0.07
+      "value": 1337.98,
+      "change": -2.36,
+      "change_pct": -0.18
     }
   },
   "gold": {
-    "price_usd": 4021.7,
-    "price_krw": 5386584,
-    "change": -29.9,
-    "change_pct": -0.74
+    "price_usd": 3884.9,
+    "price_krw": 5197918,
+    "change": -146.5,
+    "change_pct": -3.63
   },
-  "updated": "2026-10-30 09:32",
+  "updated": "2026-10-31 09:18",
   "error": null
 }
