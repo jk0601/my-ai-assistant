@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "1년 만에 방한한 올트먼, 삼성·SK와 잇단 회동…AI 동맹 강화",
-      "url": "https://n.news.naver.com/mnews/article/020/0003759173"
+      "title": "[속보] 한양증권에서도 해킹…고객정보 등 일부 정보 유출",
+      "url": "https://n.news.naver.com/mnews/article/015/0005349482"
     },
     {
-      "title": "韓, 세계 네 번째 ‘수출 1조달러 클럽’ 오른다",
-      "url": "https://n.news.naver.com/mnews/article/011/0004677505"
+      "title": "정부, 640억 들여 김장재료 최대 40% 할인",
+      "url": "https://n.news.naver.com/mnews/article/088/0001037946"
     },
     {
-      "title": "\"서울시 민간위탁, ‘회계감사’서 ‘결산서 검사’로 변경 조례안 우려\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006401825"
+      "title": "정부 “물가는 장바구니로 평가”…역대 최대 640억 김장대책 마련",
+      "url": "https://n.news.naver.com/mnews/article/277/0005837048"
     },
     {
-      "title": "롯데마트·슈퍼, 'K-자개 에디션' 잡채 2종 단독 출시",
-      "url": "https://n.news.naver.com/mnews/article/421/0009263372"
+      "title": "샤오펑, 韓사업 지휘봉 '볼보맨'에 맡겼다…이만식 대표 선임",
+      "url": "https://n.news.naver.com/mnews/article/018/0006402609"
     },
     {
-      "title": "‘반도체 정밀부품’ 동원파츠, 일반청약 돌입[오늘청약]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006401781"
+      "title": "김치 담그는 로봇, 불량식품 골라내는 AI…식품공장이 달라진다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005435110"
     },
     {
-      "title": "현대제철·코오롱 등 151곳, 저PBR 꼬리표",
-      "url": "https://n.news.naver.com/mnews/article/011/0004677498"
+      "title": "“납품 전 생산자금 빌려준다”…우리은행, 중소기업에 2000억원 공급",
+      "url": "https://n.news.naver.com/mnews/article/018/0006402598"
     },
     {
-      "title": "동아에스티, 생물농약사 ‘에코윈’ 인수 2년…해외 수출 지연에 성장 제동",
-      "url": "https://n.news.naver.com/mnews/article/366/0001201707"
+      "title": "GTX 삼성역 보강안 2개로 압축…무정차 통과 내년 상반기",
+      "url": "https://n.news.naver.com/mnews/article/079/0004205843"
     },
     {
-      "title": "팍팍한 살림…소득·자산 하위 20%, 생계용 신용대출 비중 최대",
-      "url": "https://n.news.naver.com/mnews/article/001/0016414590"
+      "title": "LG엔솔, 3분기 보조금 빼도 흑자…‘선택과 집중’ 강화",
+      "url": "https://n.news.naver.com/mnews/article/374/0000541332"
     },
     {
-      "title": "현대건설, 용산 한강로 재개발 수주… 도시정비 수주액 13兆 돌파",
-      "url": "https://n.news.naver.com/mnews/article/366/0001201743"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002427429"
     },
     {
-      "title": "‘바이낸스 해킹’에 금융위, 가상자산거래소 등 긴급 소집",
-      "url": "https://n.news.naver.com/mnews/article/056/0012285084"
+      "title": "LG 갤러리 플러스, 'K-헤리티지 컬렉션' 제공…TV로 조선왕실 문화 감상",
+      "url": "https://n.news.naver.com/mnews/article/421/0009266305"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5730.74,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 5717.89,
+      "change": -141.19,
+      "change_pct": -2.41
     },
     "kosdaq": {
-      "value": 724.38,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 717.18,
+      "change": -17.18,
+      "change_pct": -2.34
     },
     "nasdaq": {
-      "value": 25437.0,
-      "change": -747.72,
-      "change_pct": -2.86
+      "value": 25164.36,
+      "change": -272.64,
+      "change_pct": -1.07
     },
     "usdkrw": {
-      "value": 1333.88,
-      "change": -4.1,
-      "change_pct": -0.31
+      "value": 1340.66,
+      "change": 15.14,
+      "change_pct": 1.14
     }
   },
   "gold": {
-    "price_usd": 3906.5,
-    "price_krw": 5210802,
-    "change": 7.6,
-    "change_pct": 0.19
+    "price_usd": 3954.9,
+    "price_krw": 5302176,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-11-02 09:08",
+  "updated": "2026-11-03 11:44",
   "error": null
 }
