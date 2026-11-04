@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "[속보] 한양증권에서도 해킹…고객정보 등 일부 정보 유출",
-      "url": "https://n.news.naver.com/mnews/article/015/0005349482"
+      "title": "쿠팡, 3분기 6423억 적자…누적 영업적자 1.8조",
+      "url": "https://n.news.naver.com/mnews/article/215/0001271574"
     },
     {
-      "title": "정부, 640억 들여 김장재료 최대 40% 할인",
-      "url": "https://n.news.naver.com/mnews/article/088/0001037946"
+      "title": "한양증권 해킹으로 31명 정보 유출…“주민번호·계좌번호 등”",
+      "url": "https://n.news.naver.com/mnews/article/056/0012286177"
     },
     {
-      "title": "정부 “물가는 장바구니로 평가”…역대 최대 640억 김장대책 마련",
-      "url": "https://n.news.naver.com/mnews/article/277/0005837048"
+      "title": "박셀바이오, 첨생법 개정 기대…샤페론·HLB도 주목[바이오맥짚기]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006403286"
     },
     {
-      "title": "샤오펑, 韓사업 지휘봉 '볼보맨'에 맡겼다…이만식 대표 선임",
-      "url": "https://n.news.naver.com/mnews/article/018/0006402609"
+      "title": "신한은행·삼성자산운용 맞손, 퇴직연금 투자정보·상담 강화",
+      "url": "https://n.news.naver.com/mnews/article/016/0002718010"
     },
     {
-      "title": "김치 담그는 로봇, 불량식품 골라내는 AI…식품공장이 달라진다",
-      "url": "https://n.news.naver.com/mnews/article/008/0005435110"
+      "title": "\"세금은 내는데 건보료는 제외\"…분리과세소득에 건보료 부과 검토",
+      "url": "https://n.news.naver.com/mnews/article/055/0001400460"
     },
     {
-      "title": "“납품 전 생산자금 빌려준다”…우리은행, 중소기업에 2000억원 공급",
-      "url": "https://n.news.naver.com/mnews/article/018/0006402598"
+      "title": "‘ESS 대박’ LG에너지솔루션, 3분기 9조6천억 ‘매출 신기록’",
+      "url": "https://n.news.naver.com/mnews/article/032/0003480460"
     },
     {
-      "title": "GTX 삼성역 보강안 2개로 압축…무정차 통과 내년 상반기",
-      "url": "https://n.news.naver.com/mnews/article/079/0004205843"
+      "title": "김장 앞둔 주부들 반길 소식…재료 최대 50% 할인한다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005349490"
     },
     {
-      "title": "LG엔솔, 3분기 보조금 빼도 흑자…‘선택과 집중’ 강화",
-      "url": "https://n.news.naver.com/mnews/article/374/0000541332"
+      "title": "엘앤에프, LG엔솔과 1조 원대 LFP 양극재 공급계약… 배터리 3사 모두 뚫었다",
+      "url": "https://n.news.naver.com/mnews/article/469/0000963425"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002427429"
+      "title": "조원태, 우호지분 결집 속도…한진칼 경영권 방어전 새 국면",
+      "url": "https://n.news.naver.com/mnews/article/014/0005599031"
     },
     {
-      "title": "LG 갤러리 플러스, 'K-헤리티지 컬렉션' 제공…TV로 조선왕실 문화 감상",
-      "url": "https://n.news.naver.com/mnews/article/421/0009266305"
+      "title": "AMD, 분기 매출 ‘사상최고’ 133억달러…주가 시간외서 7% 급등",
+      "url": "https://n.news.naver.com/mnews/article/029/0003056985"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5717.89,
-      "change": -141.19,
-      "change_pct": -2.41
+      "value": 5712.95,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 717.18,
-      "change": -17.18,
-      "change_pct": -2.34
+      "value": 701.98,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25164.36,
-      "change": -272.64,
-      "change_pct": -1.07
+      "value": 25372.01,
+      "change": 207.7,
+      "change_pct": 0.83
     },
     "usdkrw": {
-      "value": 1340.66,
-      "change": 15.14,
-      "change_pct": 1.14
+      "value": 1344.58,
+      "change": -0.23,
+      "change_pct": -0.02
     }
   },
   "gold": {
-    "price_usd": 3954.9,
-    "price_krw": 5302176,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 3936.1,
+    "price_krw": 5292401,
+    "change": -33.5,
+    "change_pct": -0.84
   },
-  "updated": "2026-11-03 11:44",
+  "updated": "2026-11-04 09:59",
   "error": null
 }
