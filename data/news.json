@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "쿠팡, 3분기 6423억 적자…누적 영업적자 1.8조",
-      "url": "https://n.news.naver.com/mnews/article/215/0001271574"
+      "title": "쿠팡 3분기 매출 14조에도 6천억대 적자…“화재 손실·마케팅비 반영 여파”",
+      "url": "https://n.news.naver.com/mnews/article/666/0000130500"
     },
     {
-      "title": "한양증권 해킹으로 31명 정보 유출…“주민번호·계좌번호 등”",
-      "url": "https://n.news.naver.com/mnews/article/056/0012286177"
+      "title": "호반건설, 0.11%p 차로 한진칼 최대주주..\"다음달 다시 바뀔수도\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005436736"
     },
     {
-      "title": "박셀바이오, 첨생법 개정 기대…샤페론·HLB도 주목[바이오맥짚기]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006403286"
+      "title": "“수소가 산업 탈탄소 핵심 수단”…세계 수소 엑스포 2026 개막",
+      "url": "https://n.news.naver.com/mnews/article/011/0004678817"
     },
     {
-      "title": "신한은행·삼성자산운용 맞손, 퇴직연금 투자정보·상담 강화",
-      "url": "https://n.news.naver.com/mnews/article/016/0002718010"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002428539"
     },
     {
-      "title": "\"세금은 내는데 건보료는 제외\"…분리과세소득에 건보료 부과 검토",
-      "url": "https://n.news.naver.com/mnews/article/055/0001400460"
+      "title": "외국인이 끌고 면세점이 밀었다…현대백화점 영업익 30%↑",
+      "url": "https://n.news.naver.com/mnews/article/008/0005436590"
     },
     {
-      "title": "‘ESS 대박’ LG에너지솔루션, 3분기 9조6천억 ‘매출 신기록’",
-      "url": "https://n.news.naver.com/mnews/article/032/0003480460"
+      "title": "삼성D, 중국 인터넷카페 60곳 'QD-OLED 인증점' 지정 프로모션",
+      "url": "https://n.news.naver.com/mnews/article/001/0016423069"
     },
     {
-      "title": "김장 앞둔 주부들 반길 소식…재료 최대 50% 할인한다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005349490"
+      "title": "명동에 찾아온 크리스마스…신세계百, 미디어 파사드 영상 공개",
+      "url": "https://n.news.naver.com/mnews/article/011/0004678958"
     },
     {
-      "title": "엘앤에프, LG엔솔과 1조 원대 LFP 양극재 공급계약… 배터리 3사 모두 뚫었다",
-      "url": "https://n.news.naver.com/mnews/article/469/0000963425"
+      "title": "집값 25%만 내고 입주 … LH·GH 공공분양 새 실험",
+      "url": "https://n.news.naver.com/mnews/article/009/0005759070"
     },
     {
-      "title": "조원태, 우호지분 결집 속도…한진칼 경영권 방어전 새 국면",
-      "url": "https://n.news.naver.com/mnews/article/014/0005599031"
+      "title": "휴젤, 미국 직판 전환 승부수…2028년 매출 9000억 '정조준'",
+      "url": "https://n.news.naver.com/mnews/article/008/0005436564"
     },
     {
-      "title": "AMD, 분기 매출 ‘사상최고’ 133억달러…주가 시간외서 7% 급등",
-      "url": "https://n.news.naver.com/mnews/article/029/0003056985"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012287514"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5712.95,
+      "value": 5476.71,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 701.98,
+      "value": 694.41,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25372.01,
-      "change": 207.7,
-      "change_pct": 0.83
+      "value": 25736.51,
+      "change": 364.5,
+      "change_pct": 1.44
     },
     "usdkrw": {
-      "value": 1344.58,
-      "change": -0.23,
-      "change_pct": -0.02
+      "value": 1338.96,
+      "change": -3.94,
+      "change_pct": -0.29
     }
   },
   "gold": {
-    "price_usd": 3936.1,
-    "price_krw": 5292401,
-    "change": -33.5,
-    "change_pct": -0.84
+    "price_usd": 4103.9,
+    "price_krw": 5494957,
+    "change": 163.5,
+    "change_pct": 4.15
   },
-  "updated": "2026-11-04 09:59",
+  "updated": "2026-11-05 10:14",
   "error": null
 }
