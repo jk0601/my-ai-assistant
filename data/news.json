@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "쿠팡 3분기 매출 14조에도 6천억대 적자…“화재 손실·마케팅비 반영 여파”",
-      "url": "https://n.news.naver.com/mnews/article/666/0000130500"
+      "title": "'코인세' 네 번째 유예…'강행 의지' 내세우던 정부가 돌아선 이유",
+      "url": "https://n.news.naver.com/mnews/article/008/0005437204"
     },
     {
-      "title": "호반건설, 0.11%p 차로 한진칼 최대주주..\"다음달 다시 바뀔수도\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005436736"
+      "title": "“3000평 규모”…제네시스, 광주에 브랜드 최대 전시관 개관",
+      "url": "https://n.news.naver.com/mnews/article/009/0005759882"
     },
     {
-      "title": "“수소가 산업 탈탄소 핵심 수단”…세계 수소 엑스포 2026 개막",
-      "url": "https://n.news.naver.com/mnews/article/011/0004678817"
+      "title": "최태원, SK㈜ 주식 165만 3924주 매각…약 9440억 원 확보(종합)",
+      "url": "https://n.news.naver.com/mnews/article/421/0009273045"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002428539"
+      "title": "美연준 인사 \"금리 더 올려야\"…선거 후 첫 발언",
+      "url": "https://n.news.naver.com/mnews/article/018/0006404727"
     },
     {
-      "title": "외국인이 끌고 면세점이 밀었다…현대백화점 영업익 30%↑",
-      "url": "https://n.news.naver.com/mnews/article/008/0005436590"
+      "title": "3Q 역대 분기 최고 실적 낸 KT&G…향후 4년간 주주환원 5조 약속(종합)",
+      "url": "https://n.news.naver.com/mnews/article/003/0014304647"
     },
     {
-      "title": "삼성D, 중국 인터넷카페 60곳 'QD-OLED 인증점' 지정 프로모션",
-      "url": "https://n.news.naver.com/mnews/article/001/0016423069"
+      "title": "[속보] 증시 급락에 코스피 서킷브레이커 발동…5000피 밑으로",
+      "url": "https://n.news.naver.com/mnews/article/009/0005759871"
     },
     {
-      "title": "명동에 찾아온 크리스마스…신세계百, 미디어 파사드 영상 공개",
-      "url": "https://n.news.naver.com/mnews/article/011/0004678958"
+      "title": "\"CU 야호\"…BGF리테일, 3분기 영업이익 1,008억 원",
+      "url": "https://n.news.naver.com/mnews/article/422/0000923237"
     },
     {
-      "title": "집값 25%만 내고 입주 … LH·GH 공공분양 새 실험",
-      "url": "https://n.news.naver.com/mnews/article/009/0005759070"
+      "title": "삼성전자 제6노조 설립 추진…동행·초기업노조 출신 주도",
+      "url": "https://n.news.naver.com/mnews/article/215/0001271729"
     },
     {
-      "title": "휴젤, 미국 직판 전환 승부수…2028년 매출 9000억 '정조준'",
-      "url": "https://n.news.naver.com/mnews/article/008/0005436564"
+      "title": "에코프로비엠, 3분기 영업익 120억..전년 대비 76.2%↓",
+      "url": "https://n.news.naver.com/mnews/article/008/0005436985"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012287514"
+      "title": "장동현 SK 부회장, SK에코플랜트 대표직 사임",
+      "url": "https://n.news.naver.com/mnews/article/277/0005838827"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5476.71,
+      "value": 4924.51,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 694.41,
+      "value": 629.22,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25736.51,
-      "change": 364.5,
-      "change_pct": 1.44
+      "value": 24315.0,
+      "change": -1421.51,
+      "change_pct": -5.52
     },
     "usdkrw": {
-      "value": 1338.96,
-      "change": -3.94,
-      "change_pct": -0.29
+      "value": 1355.28,
+      "change": 15.21,
+      "change_pct": 1.14
     }
   },
   "gold": {
-    "price_usd": 4103.9,
-    "price_krw": 5494957,
-    "change": 163.5,
-    "change_pct": 4.15
+    "price_usd": 4097.6,
+    "price_krw": 5553395,
+    "change": 24.6,
+    "change_pct": 0.6
   },
-  "updated": "2026-11-05 10:14",
+  "updated": "2026-11-06 10:18",
   "error": null
 }
