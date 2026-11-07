@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "'코인세' 네 번째 유예…'강행 의지' 내세우던 정부가 돌아선 이유",
-      "url": "https://n.news.naver.com/mnews/article/008/0005437204"
+      "title": "주유소 기름값 25주 연속 하락…1천800원대서 횡보",
+      "url": "https://n.news.naver.com/mnews/article/056/0012289273"
     },
     {
-      "title": "“3000평 규모”…제네시스, 광주에 브랜드 최대 전시관 개관",
-      "url": "https://n.news.naver.com/mnews/article/009/0005759882"
+      "title": "배달앱 수수료 낮추면 점주도 웃을까…국회서 규제 실효성 논의",
+      "url": "https://n.news.naver.com/mnews/article/092/0002444226"
     },
     {
-      "title": "최태원, SK㈜ 주식 165만 3924주 매각…약 9440억 원 확보(종합)",
-      "url": "https://n.news.naver.com/mnews/article/421/0009273045"
+      "title": "농식품부, 영농형태양광사업법 시행 앞두고 농업인들과 현장 소통",
+      "url": "https://n.news.naver.com/mnews/article/079/0004207317"
     },
     {
-      "title": "美연준 인사 \"금리 더 올려야\"…선거 후 첫 발언",
-      "url": "https://n.news.naver.com/mnews/article/018/0006404727"
+      "title": "신세계 백화점부문장에 이석구 사장…지원·관리본부 신설",
+      "url": "https://n.news.naver.com/mnews/article/025/0003563347"
     },
     {
-      "title": "3Q 역대 분기 최고 실적 낸 KT&G…향후 4년간 주주환원 5조 약속(종합)",
-      "url": "https://n.news.naver.com/mnews/article/003/0014304647"
+      "title": "미래에셋증권, 고객 3천800여 명·임직원 3만 5천여 명 정보 유출",
+      "url": "https://n.news.naver.com/mnews/article/055/0001401319"
     },
     {
-      "title": "[속보] 증시 급락에 코스피 서킷브레이커 발동…5000피 밑으로",
-      "url": "https://n.news.naver.com/mnews/article/009/0005759871"
+      "title": "YMTC \"최대 70% 국산화\"…中 반도체 자립 가속",
+      "url": "https://n.news.naver.com/mnews/article/215/0001271957"
     },
     {
-      "title": "\"CU 야호\"…BGF리테일, 3분기 영업이익 1,008억 원",
-      "url": "https://n.news.naver.com/mnews/article/422/0000923237"
+      "title": "롯데케미칼, 3분기 영업손실 2813억원…전년 比 적자 폭↑",
+      "url": "https://n.news.naver.com/mnews/article/008/0005437741"
     },
     {
-      "title": "삼성전자 제6노조 설립 추진…동행·초기업노조 출신 주도",
-      "url": "https://n.news.naver.com/mnews/article/215/0001271729"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/374/0000542284"
     },
     {
-      "title": "에코프로비엠, 3분기 영업익 120억..전년 대비 76.2%↓",
-      "url": "https://n.news.naver.com/mnews/article/008/0005436985"
+      "title": "충남도, 첨단 디스플레이 국가연구 프로젝트 본격 추진",
+      "url": "https://n.news.naver.com/mnews/article/421/0009273960"
     },
     {
-      "title": "장동현 SK 부회장, SK에코플랜트 대표직 사임",
-      "url": "https://n.news.naver.com/mnews/article/277/0005838827"
+      "title": "안덕수 국세청장 후보자...주식시장 탈세 겨눈 조사 전문가[프로필]",
+      "url": "https://n.news.naver.com/mnews/article/366/0001203122"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 4924.51,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 629.22,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 24315.0,
-      "change": -1421.51,
-      "change_pct": -5.52
+      "value": 24579.42,
+      "change": 264.42,
+      "change_pct": 1.09
     },
     "usdkrw": {
-      "value": 1355.28,
-      "change": 15.21,
-      "change_pct": 1.14
+      "value": 1356.34,
+      "change": 16.27,
+      "change_pct": 1.21
     }
   },
   "gold": {
-    "price_usd": 4097.6,
-    "price_krw": 5553395,
-    "change": 24.6,
-    "change_pct": 0.6
+    "price_usd": 4079.5,
+    "price_krw": 5533189,
+    "change": -34.0,
+    "change_pct": -0.83
   },
-  "updated": "2026-11-06 10:18",
+  "updated": "2026-11-07 09:34",
   "error": null
 }
