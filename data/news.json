@@ -1,60 +1,60 @@
 {
   "news": [
     {
-      "title": "주유소 기름값 25주 연속 하락…1천800원대서 횡보",
-      "url": "https://n.news.naver.com/mnews/article/056/0012289273"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012289397"
     },
     {
-      "title": "배달앱 수수료 낮추면 점주도 웃을까…국회서 규제 실효성 논의",
-      "url": "https://n.news.naver.com/mnews/article/092/0002444226"
+      "title": "‘640대’ 코스닥 어쩌나…계엄 직후보다 더 낮아졌다",
+      "url": "https://n.news.naver.com/mnews/article/005/0001883589"
     },
     {
-      "title": "농식품부, 영농형태양광사업법 시행 앞두고 농업인들과 현장 소통",
-      "url": "https://n.news.naver.com/mnews/article/079/0004207317"
-    },
-    {
-      "title": "신세계 백화점부문장에 이석구 사장…지원·관리본부 신설",
-      "url": "https://n.news.naver.com/mnews/article/025/0003563347"
-    },
-    {
-      "title": "미래에셋증권, 고객 3천800여 명·임직원 3만 5천여 명 정보 유출",
-      "url": "https://n.news.naver.com/mnews/article/055/0001401319"
-    },
-    {
-      "title": "YMTC \"최대 70% 국산화\"…中 반도체 자립 가속",
-      "url": "https://n.news.naver.com/mnews/article/215/0001271957"
-    },
-    {
-      "title": "롯데케미칼, 3분기 영업손실 2813억원…전년 比 적자 폭↑",
-      "url": "https://n.news.naver.com/mnews/article/008/0005437741"
+      "title": "글로벌 수소 투자 175조 넘었지만…\"경제성 확보·인프라 확대 시급\" [K수소, 녹색성장의 판을 바꾸다]",
+      "url": "https://n.news.naver.com/mnews/article/003/0014307718"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/374/0000542284"
+      "url": "https://n.news.naver.com/mnews/article/214/0001534161"
     },
     {
-      "title": "충남도, 첨단 디스플레이 국가연구 프로젝트 본격 추진",
-      "url": "https://n.news.naver.com/mnews/article/421/0009273960"
+      "title": "11월 분주한 IPO 시장…눈여겨볼 유망주 보니",
+      "url": "https://n.news.naver.com/mnews/article/024/0000109465"
     },
     {
-      "title": "안덕수 국세청장 후보자...주식시장 탈세 겨눈 조사 전문가[프로필]",
-      "url": "https://n.news.naver.com/mnews/article/366/0001203122"
+      "title": "5천피 겨우 지켰는데 \"그래도 1만피 간다\"…글로벌 큰손이 꼽은 4가지 이유",
+      "url": "https://n.news.naver.com/mnews/article/215/0001271967"
+    },
+    {
+      "title": "매경이 전하는 세상의 지식 (매-세-지, 11월 7일)",
+      "url": "https://n.news.naver.com/mnews/article/009/0005760311"
+    },
+    {
+      "title": "금융연 \"금융회사 대주주 심사, 평판·전문성까지 봐야\"",
+      "url": "https://n.news.naver.com/mnews/article/119/0003152489"
+    },
+    {
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/366/0001203191"
+    },
+    {
+      "title": "“1년간 증시 조정” 5천피 꺾이자 재조명된 경고",
+      "url": "https://n.news.naver.com/mnews/article/021/0002831068"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 5059.69,
+      "change": -324.11,
+      "change_pct": -6.02
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 644.27,
+      "change": -34.14,
+      "change_pct": -5.03
     },
     "nasdaq": {
-      "value": 24579.42,
-      "change": 264.42,
+      "value": 24579.43,
+      "change": 264.43,
       "change_pct": 1.09
     },
     "usdkrw": {
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 4079.5,
-    "price_krw": 5533189,
-    "change": -34.0,
-    "change_pct": -0.83
+    "price_usd": 4074.9,
+    "price_krw": 5526949,
+    "change": -38.6,
+    "change_pct": -0.94
   },
-  "updated": "2026-11-07 09:34",
+  "updated": "2026-11-08 09:08",
   "error": null
 }
