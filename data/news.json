@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012289397"
-    },
-    {
-      "title": "‘640대’ 코스닥 어쩌나…계엄 직후보다 더 낮아졌다",
-      "url": "https://n.news.naver.com/mnews/article/005/0001883589"
-    },
-    {
-      "title": "글로벌 수소 투자 175조 넘었지만…\"경제성 확보·인프라 확대 시급\" [K수소, 녹색성장의 판을 바꾸다]",
-      "url": "https://n.news.naver.com/mnews/article/003/0014307718"
+      "title": "분당 600개, K-라면 쏟아진다…농심 수출기지 녹산공장의 ‘30분 승부’ [르포]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002720543"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/214/0001534161"
+      "url": "https://n.news.naver.com/mnews/article/214/0001534279"
     },
     {
-      "title": "11월 분주한 IPO 시장…눈여겨볼 유망주 보니",
-      "url": "https://n.news.naver.com/mnews/article/024/0000109465"
+      "title": "美 반도체주 반등…韓 증시도 낙폭 만회 시도할까[굿모닝증시]",
+      "url": "https://n.news.naver.com/mnews/article/277/0005839684"
     },
     {
-      "title": "5천피 겨우 지켰는데 \"그래도 1만피 간다\"…글로벌 큰손이 꼽은 4가지 이유",
-      "url": "https://n.news.naver.com/mnews/article/215/0001271967"
+      "title": "JTBC, 매각공고 게시…내년 1월 우선협상대상자 선정[시그널]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004680060"
     },
     {
-      "title": "매경이 전하는 세상의 지식 (매-세-지, 11월 7일)",
-      "url": "https://n.news.naver.com/mnews/article/009/0005760311"
+      "title": "당국·증권업계, 신용융자 담보비율 낮추고 반대매매 유예",
+      "url": "https://n.news.naver.com/mnews/article/011/0004679830"
     },
     {
-      "title": "금융연 \"금융회사 대주주 심사, 평판·전문성까지 봐야\"",
-      "url": "https://n.news.naver.com/mnews/article/119/0003152489"
+      "title": "회복력 돋보인 美 반도체…코스피 5000선 딛고 반등 '기대감'",
+      "url": "https://n.news.naver.com/mnews/article/421/0009277707"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/366/0001203191"
+      "title": "메모리 노리는 대만… 삼전닉스 ‘겹악재’[기획]",
+      "url": "https://n.news.naver.com/mnews/article/029/0003057787"
     },
     {
-      "title": "“1년간 증시 조정” 5천피 꺾이자 재조명된 경고",
-      "url": "https://n.news.naver.com/mnews/article/021/0002831068"
+      "title": "CJ올리브영, 美 매장 5곳 추가 출점…내년 상반기 7곳으로",
+      "url": "https://n.news.naver.com/mnews/article/277/0005839709"
+    },
+    {
+      "title": "저축銀, 2분기 대·중견기업 대출 5조원 넘어…1년새 50% ↑",
+      "url": "https://n.news.naver.com/mnews/article/374/0000542402"
+    },
+    {
+      "title": "'소형 → 중형' 갈아타기 비용 '1.7억원'…1년새 30% 줄었다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005351672"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5059.69,
-      "change": -324.11,
-      "change_pct": -6.02
+      "value": 5021.47,
+      "change": -38.22,
+      "change_pct": -0.76
     },
     "kosdaq": {
-      "value": 644.27,
-      "change": -34.14,
-      "change_pct": -5.03
+      "value": 636.42,
+      "change": -7.85,
+      "change_pct": -1.22
     },
     "nasdaq": {
       "value": 24579.43,
@@ -58,17 +58,17 @@
       "change_pct": 1.09
     },
     "usdkrw": {
-      "value": 1356.34,
-      "change": 16.27,
-      "change_pct": 1.21
+      "value": 1358.38,
+      "change": 2.04,
+      "change_pct": 0.15
     }
   },
   "gold": {
-    "price_usd": 4074.9,
-    "price_krw": 5526949,
-    "change": -38.6,
-    "change_pct": -0.94
+    "price_usd": 4083.5,
+    "price_krw": 5546944,
+    "change": 8.6,
+    "change_pct": 0.21
   },
-  "updated": "2026-11-08 09:08",
+  "updated": "2026-11-09 09:25",
   "error": null
 }
