@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "분당 600개, K-라면 쏟아진다…농심 수출기지 녹산공장의 ‘30분 승부’ [르포]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002720543"
+      "title": "삼전·하닉 말고 핫한 ‘이 종목’…1년 반 새 720% 소액주주 늘었다",
+      "url": "https://n.news.naver.com/mnews/article/029/0003058091"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/214/0001534279"
+      "title": "삼성SDI, AI 데이터센터용 배터리로 CES 혁신상…3년 연속 수상",
+      "url": "https://n.news.naver.com/mnews/article/014/0005601762"
     },
     {
-      "title": "美 반도체주 반등…韓 증시도 낙폭 만회 시도할까[굿모닝증시]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005839684"
+      "title": "반포현대 재초환 179억 통지됐다…강남 재건축 시장 '초긴장'",
+      "url": "https://n.news.naver.com/mnews/article/660/0000120927"
     },
     {
-      "title": "JTBC, 매각공고 게시…내년 1월 우선협상대상자 선정[시그널]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004680060"
+      "title": "고기 이력번호 속이면 내년부터 최대 징역형…정부, 판매업체 집중점검",
+      "url": "https://n.news.naver.com/mnews/article/018/0006407163"
     },
     {
-      "title": "당국·증권업계, 신용융자 담보비율 낮추고 반대매매 유예",
-      "url": "https://n.news.naver.com/mnews/article/011/0004679830"
+      "title": "DL이앤씨, '성수 2지구' 수주 굳히기…정비사업 '5조 클럽' 눈앞",
+      "url": "https://n.news.naver.com/mnews/article/015/0005352201"
     },
     {
-      "title": "회복력 돋보인 美 반도체…코스피 5000선 딛고 반등 '기대감'",
-      "url": "https://n.news.naver.com/mnews/article/421/0009277707"
+      "title": "제네시스, ‘GV90 네오룬·GV90’ 출시…최고가 2억3950만원",
+      "url": "https://n.news.naver.com/mnews/article/029/0003058141"
     },
     {
-      "title": "메모리 노리는 대만… 삼전닉스 ‘겹악재’[기획]",
-      "url": "https://n.news.naver.com/mnews/article/029/0003057787"
+      "title": "CJ대한통운, 3분기 영업익 25% ↓… 영업일수 감소·원가 영향",
+      "url": "https://n.news.naver.com/mnews/article/366/0001203665"
     },
     {
-      "title": "CJ올리브영, 美 매장 5곳 추가 출점…내년 상반기 7곳으로",
-      "url": "https://n.news.naver.com/mnews/article/277/0005839709"
+      "title": "이찬진 \"상장사 감리주기 20년→3년까지 단축\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005840371"
     },
     {
-      "title": "저축銀, 2분기 대·중견기업 대출 5조원 넘어…1년새 50% ↑",
-      "url": "https://n.news.naver.com/mnews/article/374/0000542402"
+      "title": "3거래일 동안 30% 급락한 두산…\"주가 하락 과도하다\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005601773"
     },
     {
-      "title": "'소형 → 중형' 갈아타기 비용 '1.7억원'…1년새 30% 줄었다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005351672"
+      "title": "고소득 의사 부부 '위장 퇴사'까지…부정 청약 354건 적발",
+      "url": "https://n.news.naver.com/mnews/article/022/0004173918"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5021.47,
-      "change": -38.22,
-      "change_pct": -0.76
+      "value": 5235.44,
+      "change": 216.59,
+      "change_pct": 4.32
     },
     "kosdaq": {
-      "value": 636.42,
-      "change": -7.85,
-      "change_pct": -1.22
+      "value": 664.35,
+      "change": 25.38,
+      "change_pct": 3.97
     },
     "nasdaq": {
-      "value": 24579.43,
-      "change": 264.43,
-      "change_pct": 1.09
+      "value": 25253.14,
+      "change": 673.71,
+      "change_pct": 2.74
     },
     "usdkrw": {
-      "value": 1358.38,
-      "change": 2.04,
-      "change_pct": 0.15
+      "value": 1346.57,
+      "change": -16.13,
+      "change_pct": -1.18
     }
   },
   "gold": {
-    "price_usd": 4083.5,
-    "price_krw": 5546944,
-    "change": 8.6,
-    "change_pct": 0.21
+    "price_usd": 4120.0,
+    "price_krw": 5547868,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-11-09 09:25",
+  "updated": "2026-11-10 12:05",
   "error": null
 }
