@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "차기 은행연합회장 후보 6명 압축…윤종규·윤종원·손병환 등 포함",
-      "url": "https://n.news.naver.com/mnews/article/629/0000551520"
+      "title": "美 재무부, 정부 보유 비트코인 통합 관리 추진…직접 보관·외부 위탁 병행",
+      "url": "https://n.news.naver.com/mnews/article/421/0009287697"
     },
     {
-      "title": "재초환 폐지론에 홍지선 국토부 장관, 집값·재산권 검토",
-      "url": "https://n.news.naver.com/mnews/article/014/0005603556"
+      "title": "전국 142개 양조장 ‘우리술’, 이번 주말 양재에 모인다",
+      "url": "https://n.news.naver.com/mnews/article/081/0003699304"
     },
     {
-      "title": "대통령 주재 ‘자본시장 정책 간담회’…기업가치 제고·코스닥 개편 논의",
-      "url": "https://n.news.naver.com/mnews/article/056/0012293137"
+      "title": "석유 최고가격 12차도 동결…휘발유 1784원·경유 1773원",
+      "url": "https://n.news.naver.com/mnews/article/014/0005604102"
     },
     {
-      "title": "진에어, 올해 ESG 평가서 '통합 A등급'…4년 연속 달성",
-      "url": "https://n.news.naver.com/mnews/article/421/0009287295"
+      "title": "더본코리아, 3분기 영업손실 37억원…“사업 다각화 집중”",
+      "url": "https://n.news.naver.com/mnews/article/138/0002248505"
     },
     {
-      "title": "일본 젊은층 홀린 K패션…무신사 팝업에 8만명 몰렸다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005353038"
+      "title": "김장용 배추 풍년에도 웃지 못하는 농민들",
+      "url": "https://n.news.naver.com/mnews/article/023/0004009367"
     },
     {
-      "title": "5년 연속 ESG 경영 ‘A클래스’ 입증한 한전KPS…환경·사회·지배구조 전 영역 ‘A’",
-      "url": "https://n.news.naver.com/mnews/article/011/0004681457"
+      "title": "강원랜드, 양양공항 연계 외국인 관광객 유치",
+      "url": "https://n.news.naver.com/mnews/article/003/0014321326"
     },
     {
-      "title": "산업장관, ‘체코 원전 팀코리아 파열’ 수습 위해 직접 점검회의 주재",
-      "url": "https://n.news.naver.com/mnews/article/023/0004009266"
+      "title": "롯데건설, 3분기 누적 영업익 126%↑…원가율·부채비율 동반 개선",
+      "url": "https://n.news.naver.com/mnews/article/005/0001884970"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/449/0000367344"
+      "title": "보험사 투자손익 희비… 삼성만 웃었다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005440599"
     },
     {
-      "title": "하나·부산은행, 상반기 기술금융 평가 1위…기업·경남은행 2위",
-      "url": "https://n.news.naver.com/mnews/article/421/0009286874"
+      "title": "구글, 韓 영토 좌표표시 제한… 軍시설은 정부 영상으로 가린다",
+      "url": "https://n.news.naver.com/mnews/article/021/0002832672"
     },
     {
-      "title": "증시부진·금리상승에 '직격탄'…증권사 3분기 실적 줄줄이 악화(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016439120"
+      "title": "'포인트→지역화폐' 전환추진…공공·민간 전체로 순차 확대",
+      "url": "https://n.news.naver.com/mnews/article/008/0005440788"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5463.78,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 721.77,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 25366.09,
-      "change": -100.1,
-      "change_pct": -0.39
+      "value": 25136.27,
+      "change": -229.82,
+      "change_pct": -0.91
     },
     "usdkrw": {
-      "value": 1330.08,
-      "change": -6.18,
-      "change_pct": -0.46
+      "value": 1333.78,
+      "change": -2.48,
+      "change_pct": -0.19
     }
   },
   "gold": {
-    "price_usd": 3915.1,
-    "price_krw": 5207396,
-    "change": -85.4,
-    "change_pct": -2.13
+    "price_usd": 3887.6,
+    "price_krw": 5185203,
+    "change": 2.3,
+    "change_pct": 0.06
   },
-  "updated": "2026-11-13 10:37",
+  "updated": "2026-11-14 10:11",
   "error": null
 }
