@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "美 재무부, 정부 보유 비트코인 통합 관리 추진…직접 보관·외부 위탁 병행",
-      "url": "https://n.news.naver.com/mnews/article/421/0009287697"
+      "title": "폰에 깔려 있어도 안 쓰던 구글맵…간판 기능 봉인 해제에 네카오 ‘긴장’",
+      "url": "https://n.news.naver.com/mnews/article/009/0005763567"
     },
     {
-      "title": "전국 142개 양조장 ‘우리술’, 이번 주말 양재에 모인다",
-      "url": "https://n.news.naver.com/mnews/article/081/0003699304"
+      "title": "중기중앙회 ‘노란우산’ 개인정보 유출 가능성…“주민번호 등 포함”",
+      "url": "https://n.news.naver.com/mnews/article/005/0001885083"
     },
     {
-      "title": "석유 최고가격 12차도 동결…휘발유 1784원·경유 1773원",
-      "url": "https://n.news.naver.com/mnews/article/014/0005604102"
+      "title": "운전대도 페달도 없는데 4천만원…테슬라 사이버캡, 개인에 판다",
+      "url": "https://n.news.naver.com/mnews/article/088/0001040234"
     },
     {
-      "title": "더본코리아, 3분기 영업손실 37억원…“사업 다각화 집중”",
-      "url": "https://n.news.naver.com/mnews/article/138/0002248505"
+      "title": "오징어 수출하던 나라가 반도체 중심국으로…수출 1조달러의 역사",
+      "url": "https://n.news.naver.com/mnews/article/008/0005441143"
     },
     {
-      "title": "김장용 배추 풍년에도 웃지 못하는 농민들",
-      "url": "https://n.news.naver.com/mnews/article/023/0004009367"
+      "title": "중기부 2차 '모두의창업' 5개월 만에 또 개인정보 뚫렸다",
+      "url": "https://n.news.naver.com/mnews/article/014/0005604136"
     },
     {
-      "title": "강원랜드, 양양공항 연계 외국인 관광객 유치",
-      "url": "https://n.news.naver.com/mnews/article/003/0014321326"
+      "title": "최태원 \"AI 반도체 넘어 서비스까지…성장 선순환 만들어야\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016442201"
     },
     {
-      "title": "롯데건설, 3분기 누적 영업익 126%↑…원가율·부채비율 동반 개선",
-      "url": "https://n.news.naver.com/mnews/article/005/0001884970"
+      "title": "뉴욕증시, 반도체주 약세에 나스닥 0.91%↓…다우는 상승",
+      "url": "https://n.news.naver.com/mnews/article/366/0001204731"
     },
     {
-      "title": "보험사 투자손익 희비… 삼성만 웃었다",
-      "url": "https://n.news.naver.com/mnews/article/008/0005440599"
+      "title": "젠슨 황 쇼크에도 개미 엔비디아 '1억달러 줍줍'…'실적발표' 긴장",
+      "url": "https://n.news.naver.com/mnews/article/421/0009289283"
     },
     {
-      "title": "구글, 韓 영토 좌표표시 제한… 軍시설은 정부 영상으로 가린다",
-      "url": "https://n.news.naver.com/mnews/article/021/0002832672"
+      "title": "젠슨 황 퇴진에 새판 짜는 엔비디아…삼전·닉스 HBM 공급전 변수",
+      "url": "https://n.news.naver.com/mnews/article/003/0014321808"
     },
     {
-      "title": "'포인트→지역화폐' 전환추진…공공·민간 전체로 순차 확대",
-      "url": "https://n.news.naver.com/mnews/article/008/0005440788"
+      "title": "비수기에도 실적 날았다…K뷰티 호황 탄 코스맥스[종목e슈]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006409764"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 5290.53,
+      "change": -52.2,
+      "change_pct": -0.98
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 699.66,
+      "change": 3.13,
+      "change_pct": 0.45
     },
     "nasdaq": {
       "value": 25136.27,
@@ -58,17 +58,17 @@
       "change_pct": -0.91
     },
     "usdkrw": {
-      "value": 1333.78,
-      "change": -2.48,
-      "change_pct": -0.19
+      "value": 1336.2,
+      "change": 2.42,
+      "change_pct": 0.18
     }
   },
   "gold": {
-    "price_usd": 3887.6,
-    "price_krw": 5185203,
-    "change": 2.3,
-    "change_pct": 0.06
+    "price_usd": 3886.3,
+    "price_krw": 5192874,
+    "change": 1.0,
+    "change_pct": 0.03
   },
-  "updated": "2026-11-14 10:11",
+  "updated": "2026-11-15 09:37",
   "error": null
 }
