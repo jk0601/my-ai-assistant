@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "폰에 깔려 있어도 안 쓰던 구글맵…간판 기능 봉인 해제에 네카오 ‘긴장’",
-      "url": "https://n.news.naver.com/mnews/article/009/0005763567"
+      "title": "10분만에 하이닉스와 미팅하고 첨단 EUV 빌린다…K메모리 공장서 소부장 실전경험",
+      "url": "https://n.news.naver.com/mnews/article/011/0004682501"
     },
     {
-      "title": "중기중앙회 ‘노란우산’ 개인정보 유출 가능성…“주민번호 등 포함”",
-      "url": "https://n.news.naver.com/mnews/article/005/0001885083"
+      "title": "LNG 운반선을 해상 터미널로…한화파워, FSRU 개조 수주",
+      "url": "https://n.news.naver.com/mnews/article/119/0003155478"
     },
     {
-      "title": "운전대도 페달도 없는데 4천만원…테슬라 사이버캡, 개인에 판다",
-      "url": "https://n.news.naver.com/mnews/article/088/0001040234"
+      "title": "\"순자산 비슷해도 서울에 집 있으면 더 낮은 상속세율 원해\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016442878"
     },
     {
-      "title": "오징어 수출하던 나라가 반도체 중심국으로…수출 1조달러의 역사",
-      "url": "https://n.news.naver.com/mnews/article/008/0005441143"
+      "title": "삼전·하이닉스에 ‘빚투’ 6.9조…신용융자 27% 쏠렸다 [이런국장 저런주식]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004682250"
     },
     {
-      "title": "중기부 2차 '모두의창업' 5개월 만에 또 개인정보 뚫렸다",
-      "url": "https://n.news.naver.com/mnews/article/014/0005604136"
+      "title": "코스피, 외국인·기관 매도에 상승 출발 후 보합권 등락",
+      "url": "https://n.news.naver.com/mnews/article/009/0005764162"
     },
     {
-      "title": "최태원 \"AI 반도체 넘어 서비스까지…성장 선순환 만들어야\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016442201"
+      "title": "엔비디아·앤트로픽, 결자해지 주목 [이정훈의 코인 위클리뷰]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006409930"
     },
     {
-      "title": "뉴욕증시, 반도체주 약세에 나스닥 0.91%↓…다우는 상승",
-      "url": "https://n.news.naver.com/mnews/article/366/0001204731"
+      "title": "M83, 3분기 영업익 88억·전년비 110억 개선… AI 인프라 타고 ‘역대 최대’",
+      "url": "https://n.news.naver.com/mnews/article/009/0005764138"
     },
     {
-      "title": "젠슨 황 쇼크에도 개미 엔비디아 '1억달러 줍줍'…'실적발표' 긴장",
-      "url": "https://n.news.naver.com/mnews/article/421/0009289283"
+      "title": "삼성SDI 해냈다…미국서 수조원대 LFP 배터리 공급 계약 체결",
+      "url": "https://n.news.naver.com/mnews/article/015/0005354100"
     },
     {
-      "title": "젠슨 황 퇴진에 새판 짜는 엔비디아…삼전·닉스 HBM 공급전 변수",
-      "url": "https://n.news.naver.com/mnews/article/003/0014321808"
+      "title": "LH, 도심복합 지연 진짜 원인?…\"서울시 사전기획협의\"",
+      "url": "https://n.news.naver.com/mnews/article/648/0000052640"
     },
     {
-      "title": "비수기에도 실적 날았다…K뷰티 호황 탄 코스맥스[종목e슈]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006409764"
+      "title": "전월세 물가 1.4%↑, 3년10개월 만에 최대폭…월세는 12년10개월 만",
+      "url": "https://n.news.naver.com/mnews/article/003/0014322689"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5290.53,
-      "change": -52.2,
-      "change_pct": -0.98
+      "value": 5282.04,
+      "change": -8.49,
+      "change_pct": -0.16
     },
     "kosdaq": {
-      "value": 699.66,
-      "change": 3.13,
-      "change_pct": 0.45
+      "value": 692.69,
+      "change": -6.97,
+      "change_pct": -1.0
     },
     "nasdaq": {
       "value": 25136.27,
@@ -58,17 +58,17 @@
       "change_pct": -0.91
     },
     "usdkrw": {
-      "value": 1336.2,
-      "change": 2.42,
-      "change_pct": 0.18
+      "value": 1334.18,
+      "change": 0.4,
+      "change_pct": 0.03
     }
   },
   "gold": {
-    "price_usd": 3886.3,
-    "price_krw": 5192874,
-    "change": 1.0,
-    "change_pct": 0.03
+    "price_usd": 3893.4,
+    "price_krw": 5194496,
+    "change": 7.1,
+    "change_pct": 0.18
   },
-  "updated": "2026-11-15 09:37",
+  "updated": "2026-11-16 09:37",
   "error": null
 }
