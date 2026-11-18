@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "HD현대, 북미 최대 청정 에너지 전시회 참가…시장 공략 속도",
-      "url": "https://n.news.naver.com/mnews/article/011/0004682604"
+      "title": "'AI로 화장품 피부 안전성 예측' 화학연-한국콜마 공동연구",
+      "url": "https://n.news.naver.com/mnews/article/014/0005605963"
     },
     {
-      "title": "[속보]코스피, 장중 한때 '오천피' 아래로…美 AI주 급락 여파",
-      "url": "https://n.news.naver.com/mnews/article/018/0006410886"
+      "title": "GH, ‘비즈앤 광교’ 앵커기업 유치 본격화",
+      "url": "https://n.news.naver.com/mnews/article/011/0004683392"
     },
     {
-      "title": "해수부·한화오션, 거제 앞바다에 1.59㎢ 바다숲 조성…13억 투입",
-      "url": "https://n.news.naver.com/mnews/article/003/0014326607"
+      "title": "뉴욕증시 하락세 이어져…S&P500, 7월 이후 최저",
+      "url": "https://n.news.naver.com/mnews/article/422/0000927248"
     },
     {
-      "title": "한은 \"AI로 아낀 업무시간 2.4배로…생산성 효과는 제한적\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016446154"
+      "title": "엔비디아 “삼성전기와 기판 신규 계약 체결”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004683368"
     },
     {
-      "title": "제주공항, 갑자기 날아든 드론에 ‘아찔’…8월까지 항공기 194편 지연",
-      "url": "https://n.news.naver.com/mnews/article/025/0003565632"
+      "title": "삼성SDI, AI 데이터센터용 차세대 배터리 공개",
+      "url": "https://n.news.naver.com/mnews/article/016/0002725036"
     },
     {
-      "title": "지역 중소·중견기업에 4.5조원 저리대출…지자체 역량 따라 차등 배분",
-      "url": "https://n.news.naver.com/mnews/article/008/0005442246"
+      "title": "현대로템, 서산 항공우주추진시험센터 제2시험동 준공",
+      "url": "https://n.news.naver.com/mnews/article/421/0009294474"
     },
     {
-      "title": "배민, 음식·배달 별점 분리…가게 평점엔 음식 평가만 반영",
-      "url": "https://n.news.naver.com/mnews/article/011/0004683037"
+      "title": "카뱅, 몽골 디지털은행 지분 15% 확보…본격 중앙아시아 진출",
+      "url": "https://n.news.naver.com/mnews/article/014/0005605932"
     },
     {
-      "title": "온코닉테라퓨틱스, 비만약 병용 비임상서 근육 손실 억제 효과 확인",
-      "url": "https://n.news.naver.com/mnews/article/366/0001205318"
+      "title": "보스턴다이내믹스, 반도체 공장에 아틀라스 투입…로봇 사업 영역 넓힌다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006411651"
     },
     {
-      "title": "악재에 악재 하락세 지속하는 '비트코인'[크립토 레이더]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005843102"
+      "title": "미래에셋생명 해킹 유출 1만명 넘어…스트리미 2천명으로 늘어",
+      "url": "https://n.news.naver.com/mnews/article/001/0016447755"
     },
     {
-      "title": "아리바이오 먹는 치매약, 임상 3상 1차 목표 달성…전체 환자군선 효과 입증 못해",
-      "url": "https://n.news.naver.com/mnews/article/366/0001205240"
+      "title": "준공 전에 첫 상업 수주…롯데바이오로직스, 송도 1공장 ‘첫 결실’",
+      "url": "https://n.news.naver.com/mnews/article/138/0002248857"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5051.91,
-      "change": -48.59,
-      "change_pct": -0.95
+      "value": 4959.37,
+      "change": -9.11,
+      "change_pct": -0.18
     },
     "kosdaq": {
-      "value": 659.91,
-      "change": -5.74,
-      "change_pct": -0.86
+      "value": 648.15,
+      "change": -1.91,
+      "change_pct": -0.29
     },
     "nasdaq": {
-      "value": 24509.76,
-      "change": -626.51,
-      "change_pct": -2.49
+      "value": 24328.38,
+      "change": -181.38,
+      "change_pct": -0.74
     },
     "usdkrw": {
-      "value": 1339.03,
-      "change": 5.78,
-      "change_pct": 0.43
+      "value": 1328.64,
+      "change": -7.03,
+      "change_pct": -0.53
     }
   },
   "gold": {
-    "price_usd": 3877.0,
-    "price_krw": 5191419,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 3808.3,
+    "price_krw": 5059859,
+    "change": -44.7,
+    "change_pct": -1.16
   },
-  "updated": "2026-11-17 12:20",
+  "updated": "2026-11-18 11:41",
   "error": null
 }
