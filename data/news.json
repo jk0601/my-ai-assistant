@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "'AI로 화장품 피부 안전성 예측' 화학연-한국콜마 공동연구",
-      "url": "https://n.news.naver.com/mnews/article/014/0005605963"
+      "title": "수능일, 주식시장 1시간 늦은 오전 10시 개장",
+      "url": "https://n.news.naver.com/mnews/article/032/0003483641"
     },
     {
-      "title": "GH, ‘비즈앤 광교’ 앵커기업 유치 본격화",
-      "url": "https://n.news.naver.com/mnews/article/011/0004683392"
+      "title": "펩트론, 월 1회 비만약 ‘PT403’ 1상 승인…12월 첫 투여 목표",
+      "url": "https://n.news.naver.com/mnews/article/011/0004683870"
     },
     {
-      "title": "뉴욕증시 하락세 이어져…S&P500, 7월 이후 최저",
-      "url": "https://n.news.naver.com/mnews/article/422/0000927248"
+      "title": "'강남·대형' 내리고 '강북·소형' 상승…서울 아파트값 온도차",
+      "url": "https://n.news.naver.com/mnews/article/277/0005844736"
     },
     {
-      "title": "엔비디아 “삼성전기와 기판 신규 계약 체결”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004683368"
+      "title": "롯데 “의약품 연간 12만ℓ 생산”… K바이오 전환점",
+      "url": "https://n.news.naver.com/mnews/article/021/0002833709"
     },
     {
-      "title": "삼성SDI, AI 데이터센터용 차세대 배터리 공개",
-      "url": "https://n.news.naver.com/mnews/article/016/0002725036"
+      "title": "\"한한령 해제 디딤돌\" 한중 FTA '최혜국 대우'에 K팝·중소 기획사 재평가 기대",
+      "url": "https://n.news.naver.com/mnews/article/008/0005443353"
     },
     {
-      "title": "현대로템, 서산 항공우주추진시험센터 제2시험동 준공",
-      "url": "https://n.news.naver.com/mnews/article/421/0009294474"
+      "title": "금감원 금소처장, 인천대 찾아 '사기가담 알바·로맨스스캠' 특강",
+      "url": "https://n.news.naver.com/mnews/article/277/0005844910"
     },
     {
-      "title": "카뱅, 몽골 디지털은행 지분 15% 확보…본격 중앙아시아 진출",
-      "url": "https://n.news.naver.com/mnews/article/014/0005605932"
+      "title": "BTS 넘어 일본 아이돌까지…\"하이브, 현지 엔터사 인수로 사업 확장 기대\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005606559"
     },
     {
-      "title": "보스턴다이내믹스, 반도체 공장에 아틀라스 투입…로봇 사업 영역 넓힌다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006411651"
+      "title": "국토부, 이혜훈 '원펜타스' 계약 취소 요청…조합에 공문",
+      "url": "https://n.news.naver.com/mnews/article/003/0014330715"
     },
     {
-      "title": "미래에셋생명 해킹 유출 1만명 넘어…스트리미 2천명으로 늘어",
-      "url": "https://n.news.naver.com/mnews/article/001/0016447755"
+      "title": "NH농협은행, 'NH임베디드플랫폼' 서비스 확대…기업카드·외환·대출상담 연동",
+      "url": "https://n.news.naver.com/mnews/article/030/0003487072"
     },
     {
-      "title": "준공 전에 첫 상업 수주…롯데바이오로직스, 송도 1공장 ‘첫 결실’",
-      "url": "https://n.news.naver.com/mnews/article/138/0002248857"
+      "title": "우리은행, 소비자가 평가한 '금융소비자보호 우수기업'",
+      "url": "https://n.news.naver.com/mnews/article/277/0005844862"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 4959.37,
-      "change": -9.11,
-      "change_pct": -0.18
+      "value": 5001.72,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 648.15,
-      "change": -1.91,
-      "change_pct": -0.29
+      "value": 655.43,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 24328.38,
-      "change": -181.38,
-      "change_pct": -0.74
+      "value": 24429.88,
+      "change": 101.5,
+      "change_pct": 0.42
     },
     "usdkrw": {
-      "value": 1328.64,
-      "change": -7.03,
-      "change_pct": -0.53
+      "value": 1331.18,
+      "change": -1.83,
+      "change_pct": -0.14
     }
   },
   "gold": {
-    "price_usd": 3808.3,
-    "price_krw": 5059859,
-    "change": -44.7,
-    "change_pct": -1.16
+    "price_usd": 3752.7,
+    "price_krw": 4995519,
+    "change": -111.5,
+    "change_pct": -2.89
   },
-  "updated": "2026-11-18 11:41",
+  "updated": "2026-11-19 11:11",
   "error": null
 }
