@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "앤트로픽 ‘성공적’ 데뷔라는데 왜…코스피 4900도 ‘위태’",
-      "url": "https://n.news.naver.com/mnews/article/022/0004176752"
+      "title": "포스코 노사, 2026년 임금교섭 잠정안 재도출…“조속한 현장 안정화 공감대”",
+      "url": "https://n.news.naver.com/mnews/article/016/0002726422"
     },
     {
-      "title": "\"외국인 26조원 팔아치웠다\"…국내 증시서 두 달째 매도 행렬",
-      "url": "https://n.news.naver.com/mnews/article/014/0005607209"
+      "title": "삼성전자, 전영현·노태문 투톱 체제 유지…큰 변화 없이 계속 간다",
+      "url": "https://n.news.naver.com/mnews/article/032/0003483982"
     },
     {
-      "title": "앤트로픽 드디어 나스닥 데뷔…외인 K증시 돌아올까 [분석+]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005356122"
+      "title": "내년 공시가격 현실화율 69% 유지키로‥5년 연속 동결",
+      "url": "https://n.news.naver.com/mnews/article/214/0001537019"
     },
     {
-      "title": "삼성전자 \"2인 대표이사 체제 유지..반도체 성과 주도 부사장들 승진\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005607247"
+      "title": "알럭스, 럭셔리 패션 2500개 브랜드 참여 '블랙 프라이데이' 개최",
+      "url": "https://n.news.naver.com/mnews/article/030/0003487892"
     },
     {
-      "title": "“대출 없이 198억 현금 매입”…유재석, 강남 신축 건물 완공 ‘새 사옥설’ 솔솔",
-      "url": "https://n.news.naver.com/mnews/article/009/0005766509"
+      "title": "\"버거에 무신사 감성 입혔다\"...롯데리아·무신사, 이색 협업 컬렉션 선봬",
+      "url": "https://n.news.naver.com/mnews/article/014/0005607401"
     },
     {
-      "title": "반포현대 재초환 부담금, 시한 연장 없이 다음 달 부과 전망",
-      "url": "https://n.news.naver.com/mnews/article/469/0000966566"
+      "title": "\"기름값 2~3주 지나야 1원 정도 싸져\"...27주간 하락에도 1800원대",
+      "url": "https://n.news.naver.com/mnews/article/014/0005607622"
     },
     {
-      "title": "[속보] ‘수출 1조 달러 돌파’ 소식 처음 알린 李대통령 … ‘19일 오후 2시 9분 38초’",
-      "url": "https://n.news.naver.com/mnews/article/081/0003701137"
+      "title": "SK하이닉스, 日 키옥시아 전환사채 주식 전환…지분 14.1% 보유",
+      "url": "https://n.news.naver.com/mnews/article/003/0014336498"
     },
     {
-      "title": "10월 생산자물가 0.1%↓…3개월 만에 하락 전환",
-      "url": "https://n.news.naver.com/mnews/article/056/0012297806"
+      "title": "'14.2 라이트' 배포 확대...테슬라 안내 보니[FSD 온로드]",
+      "url": "https://n.news.naver.com/mnews/article/293/0000093619"
     },
     {
-      "title": "금감원, 가상자산사업자 28곳 CISO 소집…보안 부실 책임 경고",
-      "url": "https://n.news.naver.com/mnews/article/031/0001076888"
+      "title": "한수원, 체코서 '두코바니 원전 냉각탑 입찰' 현장 설명회",
+      "url": "https://n.news.naver.com/mnews/article/422/0000928206"
     },
     {
-      "title": "백승태 LG전자 HS사업본부장 사장[프로필]",
-      "url": "https://n.news.naver.com/mnews/article/008/0005443805"
+      "title": "'반포현대 2.2억' '은마 4.6억'…재초환 집행 현실화에 줄소송 예고",
+      "url": "https://n.news.naver.com/mnews/article/003/0014335384"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 4918.41,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 656.3,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 23879.2,
-      "change": -550.68,
-      "change_pct": -2.25
+      "value": 22617.73,
+      "change": -1261.47,
+      "change_pct": -5.28
     },
     "usdkrw": {
-      "value": 1337.68,
-      "change": 7.28,
-      "change_pct": 0.55
+      "value": 1334.79,
+      "change": 4.39,
+      "change_pct": 0.33
     }
   },
   "gold": {
-    "price_usd": 3574.8,
-    "price_krw": 4781938,
-    "change": -167.1,
-    "change_pct": -4.47
+    "price_usd": 3539.0,
+    "price_krw": 4723821,
+    "change": -146.5,
+    "change_pct": -3.98
   },
-  "updated": "2026-11-20 10:58",
+  "updated": "2026-11-21 10:55",
   "error": null
 }
