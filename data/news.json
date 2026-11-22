@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "포스코 노사, 2026년 임금교섭 잠정안 재도출…“조속한 현장 안정화 공감대”",
-      "url": "https://n.news.naver.com/mnews/article/016/0002726422"
+      "title": "수능 끝나자 할인 쏟아진다…수험표 한 장으로 누리는 혜택",
+      "url": "https://n.news.naver.com/mnews/article/022/0004176985"
     },
     {
-      "title": "삼성전자, 전영현·노태문 투톱 체제 유지…큰 변화 없이 계속 간다",
-      "url": "https://n.news.naver.com/mnews/article/032/0003483982"
+      "title": "삼성전자, 주당 4601원씩 '30조 배당' 27일 지급…증시 반등 이끌까",
+      "url": "https://n.news.naver.com/mnews/article/123/0002394551"
     },
     {
-      "title": "내년 공시가격 현실화율 69% 유지키로‥5년 연속 동결",
-      "url": "https://n.news.naver.com/mnews/article/214/0001537019"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/437/0000521801"
     },
     {
-      "title": "알럭스, 럭셔리 패션 2500개 브랜드 참여 '블랙 프라이데이' 개최",
-      "url": "https://n.news.naver.com/mnews/article/030/0003487892"
+      "title": "고려아연 지분 YPC에 넘긴 영풍…배당금 못 받고 금융자산 처분",
+      "url": "https://n.news.naver.com/mnews/article/648/0000052850"
     },
     {
-      "title": "\"버거에 무신사 감성 입혔다\"...롯데리아·무신사, 이색 협업 컬렉션 선봬",
-      "url": "https://n.news.naver.com/mnews/article/014/0005607401"
+      "title": "포스코 노사, 1차 합의안 부결 13일 만에 임금협상 재합의",
+      "url": "https://n.news.naver.com/mnews/article/016/0002726532"
     },
     {
-      "title": "\"기름값 2~3주 지나야 1원 정도 싸져\"...27주간 하락에도 1800원대",
-      "url": "https://n.news.naver.com/mnews/article/014/0005607622"
+      "title": "해수부 장관, '해광호 실종사고' 수색 현황 점검",
+      "url": "https://n.news.naver.com/mnews/article/052/0002436166"
     },
     {
-      "title": "SK하이닉스, 日 키옥시아 전환사채 주식 전환…지분 14.1% 보유",
-      "url": "https://n.news.naver.com/mnews/article/003/0014336498"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000928558"
     },
     {
-      "title": "'14.2 라이트' 배포 확대...테슬라 안내 보니[FSD 온로드]",
-      "url": "https://n.news.naver.com/mnews/article/293/0000093619"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002435984"
     },
     {
-      "title": "한수원, 체코서 '두코바니 원전 냉각탑 입찰' 현장 설명회",
-      "url": "https://n.news.naver.com/mnews/article/422/0000928206"
+      "title": "최태원 “AI 방향 이끌 인재 키워야…새 거버넌스 필요”",
+      "url": "https://n.news.naver.com/mnews/article/029/0003060368"
     },
     {
-      "title": "'반포현대 2.2억' '은마 4.6억'…재초환 집행 현실화에 줄소송 예고",
-      "url": "https://n.news.naver.com/mnews/article/003/0014335384"
+      "title": "1만명 개인정보 털렸다…컬리 \"피해액 전액 보상\"",
+      "url": "https://n.news.naver.com/mnews/article/215/0001273456"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 4869.96,
+      "change": -267.93,
+      "change_pct": -5.21
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 645.68,
+      "change": -39.13,
+      "change_pct": -5.71
     },
     "nasdaq": {
       "value": 22617.73,
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 3539.0,
-    "price_krw": 4723821,
-    "change": -146.5,
-    "change_pct": -3.98
+    "price_usd": 3515.4,
+    "price_krw": 4692320,
+    "change": -170.1,
+    "change_pct": -4.62
   },
-  "updated": "2026-11-21 10:55",
+  "updated": "2026-11-22 09:51",
   "error": null
 }
