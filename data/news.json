@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "수능 끝나자 할인 쏟아진다…수험표 한 장으로 누리는 혜택",
-      "url": "https://n.news.naver.com/mnews/article/022/0004176985"
+      "title": "“추풍낙엽 같은 하락” 코스피, 3%대 하락…17만전자·100만닉스로 주저앉아",
+      "url": "https://n.news.naver.com/mnews/article/081/0003702028"
     },
     {
-      "title": "삼성전자, 주당 4601원씩 '30조 배당' 27일 지급…증시 반등 이끌까",
-      "url": "https://n.news.naver.com/mnews/article/123/0002394551"
+      "title": "비트코인, 2년 만의 최저치 찍고 반등…6만달러 선 회복",
+      "url": "https://n.news.naver.com/mnews/article/366/0001206447"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/437/0000521801"
+      "title": "한전 150만명 개인정보 털렸다…계좌번호 금융정보까지",
+      "url": "https://n.news.naver.com/mnews/article/015/0005356795"
     },
     {
-      "title": "고려아연 지분 YPC에 넘긴 영풍…배당금 못 받고 금융자산 처분",
-      "url": "https://n.news.naver.com/mnews/article/648/0000052850"
+      "title": "아즈코나, TCR 월드투어 드라이버 정상…현대차 경주차 6번째 타이틀",
+      "url": "https://n.news.naver.com/mnews/article/014/0005608032"
     },
     {
-      "title": "포스코 노사, 1차 합의안 부결 13일 만에 임금협상 재합의",
-      "url": "https://n.news.naver.com/mnews/article/016/0002726532"
+      "title": "여성 임금, 남성의 72%…한국 남녀 임금 격차 OECD 최고",
+      "url": "https://n.news.naver.com/mnews/article/032/0003484338"
     },
     {
-      "title": "해수부 장관, '해광호 실종사고' 수색 현황 점검",
-      "url": "https://n.news.naver.com/mnews/article/052/0002436166"
+      "title": "차기 은행연합회장에 박종복 전 SC제일은행장…26일 총회서 선출",
+      "url": "https://n.news.naver.com/mnews/article/008/0005444733"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000928558"
+      "title": "블랙먼데이 공포에…증안펀드 가동 착수",
+      "url": "https://n.news.naver.com/mnews/article/011/0004684880"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002435984"
+      "title": "이재근 KB금융 회장 \"목표는 글로벌 선도 금융플랫폼\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005846258"
     },
     {
-      "title": "최태원 “AI 방향 이끌 인재 키워야…새 거버넌스 필요”",
-      "url": "https://n.news.naver.com/mnews/article/029/0003060368"
+      "title": "차바이오텍, 루푸스 신염 치료제 국가과제 최종 선정",
+      "url": "https://n.news.naver.com/mnews/article/015/0005356892"
     },
     {
-      "title": "1만명 개인정보 털렸다…컬리 \"피해액 전액 보상\"",
-      "url": "https://n.news.naver.com/mnews/article/215/0001273456"
+      "title": "“미국 주식 폭락, 매력적인 매수기회 생겼다”…골드만삭스의 분석",
+      "url": "https://n.news.naver.com/mnews/article/009/0005767442"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 4869.96,
-      "change": -267.93,
-      "change_pct": -5.21
+      "value": 4706.22,
+      "change": -163.74,
+      "change_pct": -3.36
     },
     "kosdaq": {
-      "value": 645.68,
-      "change": -39.13,
-      "change_pct": -5.71
+      "value": 634.83,
+      "change": -10.85,
+      "change_pct": -1.68
     },
     "nasdaq": {
       "value": 22617.73,
@@ -58,17 +58,17 @@
       "change_pct": -5.28
     },
     "usdkrw": {
-      "value": 1334.79,
-      "change": 4.39,
-      "change_pct": 0.33
+      "value": 1344.68,
+      "change": 9.89,
+      "change_pct": 0.74
     }
   },
   "gold": {
-    "price_usd": 3515.4,
-    "price_krw": 4692320,
-    "change": -170.1,
-    "change_pct": -4.62
+    "price_usd": 3602.9,
+    "price_krw": 4844747,
+    "change": 87.5,
+    "change_pct": 2.49
   },
-  "updated": "2026-11-22 09:51",
+  "updated": "2026-11-23 10:20",
   "error": null
 }
