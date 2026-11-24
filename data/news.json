@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "“추풍낙엽 같은 하락” 코스피, 3%대 하락…17만전자·100만닉스로 주저앉아",
-      "url": "https://n.news.naver.com/mnews/article/081/0003702028"
+      "title": "홈플러스, 26일부터 온라인 배송 중단…“상품 수급 차질”",
+      "url": "https://n.news.naver.com/mnews/article/025/0003567450"
     },
     {
-      "title": "비트코인, 2년 만의 최저치 찍고 반등…6만달러 선 회복",
-      "url": "https://n.news.naver.com/mnews/article/366/0001206447"
+      "title": "이찬진 \"부산 해양금융 저변 확대...정책·민간금융 힘 합쳐야\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006414687"
     },
     {
-      "title": "한전 150만명 개인정보 털렸다…계좌번호 금융정보까지",
-      "url": "https://n.news.naver.com/mnews/article/015/0005356795"
+      "title": "삼성운용 'KODEX 미국AI에이전트액티브', 앤스로픽 19.4% 편입",
+      "url": "https://n.news.naver.com/mnews/article/277/0005846807"
     },
     {
-      "title": "아즈코나, TCR 월드투어 드라이버 정상…현대차 경주차 6번째 타이틀",
-      "url": "https://n.news.naver.com/mnews/article/014/0005608032"
+      "title": "전기차 관심 1년 새 두 배…미보유자 절반 \"5년 내 구매\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005846785"
     },
     {
-      "title": "여성 임금, 남성의 72%…한국 남녀 임금 격차 OECD 최고",
-      "url": "https://n.news.naver.com/mnews/article/032/0003484338"
+      "title": "코스닥, 4%대 급등에 코스피 이어 ‘매수 사이드카’ 발동",
+      "url": "https://n.news.naver.com/mnews/article/366/0001206855"
     },
     {
-      "title": "차기 은행연합회장에 박종복 전 SC제일은행장…26일 총회서 선출",
-      "url": "https://n.news.naver.com/mnews/article/008/0005444733"
+      "title": "'솔로' 30대…30대 미혼 비중, 25년만에 4배",
+      "url": "https://n.news.naver.com/mnews/article/374/0000545537"
     },
     {
-      "title": "블랙먼데이 공포에…증안펀드 가동 착수",
-      "url": "https://n.news.naver.com/mnews/article/011/0004684880"
+      "title": "성과는 반도체, 미래는 로봇…삼성전자 2027년 인사에 담긴 과제(종합)",
+      "url": "https://n.news.naver.com/mnews/article/119/0003158703"
     },
     {
-      "title": "이재근 KB금융 회장 \"목표는 글로벌 선도 금융플랫폼\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005846258"
+      "title": "비자레알 한국지엠 사장, 보령공장 점검…지역사회 차량 기증도",
+      "url": "https://n.news.naver.com/mnews/article/009/0005768009"
     },
     {
-      "title": "차바이오텍, 루푸스 신염 치료제 국가과제 최종 선정",
-      "url": "https://n.news.naver.com/mnews/article/015/0005356892"
+      "title": "중기부, 대웅제약·경희대 등과 맞손…바이오中企 해외진출 지원",
+      "url": "https://n.news.naver.com/mnews/article/001/0016460321"
     },
     {
-      "title": "“미국 주식 폭락, 매력적인 매수기회 생겼다”…골드만삭스의 분석",
-      "url": "https://n.news.naver.com/mnews/article/009/0005767442"
+      "title": "BNK부산은행, 중진공과 정책자금 관리 전용통장 출시",
+      "url": "https://n.news.naver.com/mnews/article/014/0005608761"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 4706.22,
-      "change": -163.74,
-      "change_pct": -3.36
+      "value": 5052.04,
+      "change": 343.5,
+      "change_pct": 7.3
     },
     "kosdaq": {
-      "value": 634.83,
-      "change": -10.85,
-      "change_pct": -1.68
+      "value": 668.1,
+      "change": 32.65,
+      "change_pct": 5.14
     },
     "nasdaq": {
-      "value": 22617.73,
-      "change": -1261.47,
-      "change_pct": -5.28
+      "value": 24089.56,
+      "change": 1471.83,
+      "change_pct": 6.51
     },
     "usdkrw": {
-      "value": 1344.68,
-      "change": 9.89,
-      "change_pct": 0.74
+      "value": 1342.08,
+      "change": -2.23,
+      "change_pct": -0.17
     }
   },
   "gold": {
-    "price_usd": 3602.9,
-    "price_krw": 4844747,
-    "change": 87.5,
-    "change_pct": 2.49
+    "price_usd": 3651.4,
+    "price_krw": 4900470,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-11-23 10:20",
+  "updated": "2026-11-24 14:05",
   "error": null
 }
