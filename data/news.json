@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "홈플러스, 26일부터 온라인 배송 중단…“상품 수급 차질”",
-      "url": "https://n.news.naver.com/mnews/article/025/0003567450"
+      "title": "코인시장 판이 바뀐다…은행엔 열린 문, 거래소엔 높아지는 벽",
+      "url": "https://n.news.naver.com/mnews/article/008/0005445947"
     },
     {
-      "title": "이찬진 \"부산 해양금융 저변 확대...정책·민간금융 힘 합쳐야\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006414687"
+      "title": "교보증권, ‘대한민국 지속가능성보고서상’ 5년 연속 수상",
+      "url": "https://n.news.naver.com/mnews/article/018/0006415222"
     },
     {
-      "title": "삼성운용 'KODEX 미국AI에이전트액티브', 앤스로픽 19.4% 편입",
-      "url": "https://n.news.naver.com/mnews/article/277/0005846807"
+      "title": "전주·창원 도심융합특구 후보지 선정… 전주는 AI, 창원은 방위·원자력 거점",
+      "url": "https://n.news.naver.com/mnews/article/032/0003484729"
     },
     {
-      "title": "전기차 관심 1년 새 두 배…미보유자 절반 \"5년 내 구매\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005846785"
+      "title": "삼성중공업, 2027년 정기 임원인사…부사장 3명 등 10명 승진",
+      "url": "https://n.news.naver.com/mnews/article/008/0005446104"
     },
     {
-      "title": "코스닥, 4%대 급등에 코스피 이어 ‘매수 사이드카’ 발동",
-      "url": "https://n.news.naver.com/mnews/article/366/0001206855"
+      "title": "자동차 산업 미래 경쟁력 이번주 분수령…자동차업계 촉각",
+      "url": "https://n.news.naver.com/mnews/article/001/0016459990"
     },
     {
-      "title": "'솔로' 30대…30대 미혼 비중, 25년만에 4배",
-      "url": "https://n.news.naver.com/mnews/article/374/0000545537"
+      "title": "중기부, 조폐공사·LG전자 등 '윈윈 아너스' 우수사례 10건 선정",
+      "url": "https://n.news.naver.com/mnews/article/001/0016460471"
     },
     {
-      "title": "성과는 반도체, 미래는 로봇…삼성전자 2027년 인사에 담긴 과제(종합)",
-      "url": "https://n.news.naver.com/mnews/article/119/0003158703"
+      "title": "비트코인 또 6만달러 붕괴…한달새 ETF 7조원 이탈[코인 모닝콜]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006415120"
     },
     {
-      "title": "비자레알 한국지엠 사장, 보령공장 점검…지역사회 차량 기증도",
-      "url": "https://n.news.naver.com/mnews/article/009/0005768009"
+      "title": "\"사람이 없어요\" 반도체 공장 짓기도 전에 난리…26만명 더 필요하다는데",
+      "url": "https://n.news.naver.com/mnews/article/277/0005847043"
     },
     {
-      "title": "중기부, 대웅제약·경희대 등과 맞손…바이오中企 해외진출 지원",
-      "url": "https://n.news.naver.com/mnews/article/001/0016460321"
+      "title": "수출 1조 달러 이끈 65년 저력…\"2020년대 경제 성장 기여 비중 51.7%\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014343271"
     },
     {
-      "title": "BNK부산은행, 중진공과 정책자금 관리 전용통장 출시",
-      "url": "https://n.news.naver.com/mnews/article/014/0005608761"
+      "title": "출생아 27개월째 늘었는데…혼인은 11.7% 감소",
+      "url": "https://n.news.naver.com/mnews/article/029/0003061054"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5052.04,
-      "change": 343.5,
-      "change_pct": 7.3
+      "value": 4724.86,
+      "change": -281.17,
+      "change_pct": -5.62
     },
     "kosdaq": {
-      "value": 668.1,
-      "change": 32.65,
-      "change_pct": 5.14
+      "value": 650.45,
+      "change": -15.43,
+      "change_pct": -2.32
     },
     "nasdaq": {
-      "value": 24089.56,
-      "change": 1471.83,
-      "change_pct": 6.51
+      "value": 23733.54,
+      "change": -356.03,
+      "change_pct": -1.48
     },
     "usdkrw": {
-      "value": 1342.08,
-      "change": -2.23,
-      "change_pct": -0.17
+      "value": 1342.98,
+      "change": 1.96,
+      "change_pct": 0.15
     }
   },
   "gold": {
-    "price_usd": 3651.4,
-    "price_krw": 4900470,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 3549.9,
+    "price_krw": 4767444,
+    "change": -101.5,
+    "change_pct": -2.78
   },
-  "updated": "2026-11-24 14:05",
+  "updated": "2026-11-25 12:54",
   "error": null
 }
