@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "코인시장 판이 바뀐다…은행엔 열린 문, 거래소엔 높아지는 벽",
-      "url": "https://n.news.naver.com/mnews/article/008/0005445947"
+      "title": "3분기 물가 상승 반영한 가계 실질소득 감소…양극화도 커져",
+      "url": "https://n.news.naver.com/mnews/article/056/0012301649"
     },
     {
-      "title": "교보증권, ‘대한민국 지속가능성보고서상’ 5년 연속 수상",
-      "url": "https://n.news.naver.com/mnews/article/018/0006415222"
+      "title": "삼성생명·삼성화재 임원 인사 단행…CEO는 유임 가닥",
+      "url": "https://n.news.naver.com/mnews/article/018/0006415790"
     },
     {
-      "title": "전주·창원 도심융합특구 후보지 선정… 전주는 AI, 창원은 방위·원자력 거점",
-      "url": "https://n.news.naver.com/mnews/article/032/0003484729"
+      "title": "‘안정’ 택한 현대차그룹 인사…현대차 무뇨스, 기아 송호성 유임",
+      "url": "https://n.news.naver.com/mnews/article/025/0003568132"
     },
     {
-      "title": "삼성중공업, 2027년 정기 임원인사…부사장 3명 등 10명 승진",
-      "url": "https://n.news.naver.com/mnews/article/008/0005446104"
+      "title": "포스코1%나눔재단, AI·철강 기술 결집해 산불 대응 안전망 구축",
+      "url": "https://n.news.naver.com/mnews/article/079/0004214010"
     },
     {
-      "title": "자동차 산업 미래 경쟁력 이번주 분수령…자동차업계 촉각",
-      "url": "https://n.news.naver.com/mnews/article/001/0016459990"
+      "title": "베트남 북남고속철도 사업, 추진 일정 확정… 2028년 말 착공 목표",
+      "url": "https://n.news.naver.com/mnews/article/014/0005609690"
     },
     {
-      "title": "중기부, 조폐공사·LG전자 등 '윈윈 아너스' 우수사례 10건 선정",
-      "url": "https://n.news.naver.com/mnews/article/001/0016460471"
+      "title": "'자금난' 홈플러스, 점포 영업 일시 중단...온·오프라인 유통망 사실상 '셧다운'",
+      "url": "https://n.news.naver.com/mnews/article/660/0000122200"
     },
     {
-      "title": "비트코인 또 6만달러 붕괴…한달새 ETF 7조원 이탈[코인 모닝콜]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006415120"
+      "title": "은행·저축은행 손잡고 10%대 중금리 대출 푼다…건전성 규제 완화",
+      "url": "https://n.news.naver.com/mnews/article/029/0003061269"
     },
     {
-      "title": "\"사람이 없어요\" 반도체 공장 짓기도 전에 난리…26만명 더 필요하다는데",
-      "url": "https://n.news.naver.com/mnews/article/277/0005847043"
+      "title": "삼성전자서비스, 제31회 기술경진대회 개최…AI 활용 역량 평가",
+      "url": "https://n.news.naver.com/mnews/article/366/0001207388"
     },
     {
-      "title": "수출 1조 달러 이끈 65년 저력…\"2020년대 경제 성장 기여 비중 51.7%\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014343271"
+      "title": "공정위원장, 중소기업계 만나 현장 애로·건의사항 청취",
+      "url": "https://n.news.naver.com/mnews/article/001/0016464916"
     },
     {
-      "title": "출생아 27개월째 늘었는데…혼인은 11.7% 감소",
-      "url": "https://n.news.naver.com/mnews/article/029/0003061054"
+      "title": "에스원, 2027년 정기 임원인사…김송범 부사장 승진",
+      "url": "https://n.news.naver.com/mnews/article/366/0001207478"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 4724.86,
-      "change": -281.17,
-      "change_pct": -5.62
+      "value": 4725.34,
+      "change": 27.83,
+      "change_pct": 0.59
     },
     "kosdaq": {
-      "value": 650.45,
-      "change": -15.43,
-      "change_pct": -2.32
+      "value": 659.55,
+      "change": 8.91,
+      "change_pct": 1.37
     },
     "nasdaq": {
-      "value": 23733.54,
-      "change": -356.03,
-      "change_pct": -1.48
+      "value": 23585.8,
+      "change": -147.74,
+      "change_pct": -0.62
     },
     "usdkrw": {
-      "value": 1342.98,
-      "change": 1.96,
-      "change_pct": 0.15
+      "value": 1343.16,
+      "change": 0.51,
+      "change_pct": 0.04
     }
   },
   "gold": {
-    "price_usd": 3549.9,
-    "price_krw": 4767444,
-    "change": -101.5,
-    "change_pct": -2.78
+    "price_usd": 3610.0,
+    "price_krw": 4848807,
+    "change": 48.1,
+    "change_pct": 1.35
   },
-  "updated": "2026-11-25 12:54",
+  "updated": "2026-11-26 12:20",
   "error": null
 }
