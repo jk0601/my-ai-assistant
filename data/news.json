@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "3분기 물가 상승 반영한 가계 실질소득 감소…양극화도 커져",
-      "url": "https://n.news.naver.com/mnews/article/056/0012301649"
+      "title": "“금리 올려 이자 장사” 은행들 48조 벌었다",
+      "url": "https://n.news.naver.com/mnews/article/050/0000113853"
     },
     {
-      "title": "삼성생명·삼성화재 임원 인사 단행…CEO는 유임 가닥",
-      "url": "https://n.news.naver.com/mnews/article/018/0006415790"
+      "title": "삼성바이오에피스, 中 이노타 테라퓨틱스 선정…글로벌 오픈이노베이션 확대",
+      "url": "https://n.news.naver.com/mnews/article/138/0002250123"
     },
     {
-      "title": "‘안정’ 택한 현대차그룹 인사…현대차 무뇨스, 기아 송호성 유임",
-      "url": "https://n.news.naver.com/mnews/article/025/0003568132"
+      "title": "CJ올리브영도 뚫렸다…790명 정보 유출",
+      "url": "https://n.news.naver.com/mnews/article/015/0005358840"
     },
     {
-      "title": "포스코1%나눔재단, AI·철강 기술 결집해 산불 대응 안전망 구축",
-      "url": "https://n.news.naver.com/mnews/article/079/0004214010"
+      "title": "오락가락 증시에 놀란 정부, 공매도 점검 결과 “특이 동향 없어”",
+      "url": "https://n.news.naver.com/mnews/article/005/0001887838"
     },
     {
-      "title": "베트남 북남고속철도 사업, 추진 일정 확정… 2028년 말 착공 목표",
-      "url": "https://n.news.naver.com/mnews/article/014/0005609690"
+      "title": "'금감원 칼날 무뎌지나'…금융위 사전협의 등 통제권 강화·저인망식 검사 금지",
+      "url": "https://n.news.naver.com/mnews/article/014/0005610636"
     },
     {
-      "title": "'자금난' 홈플러스, 점포 영업 일시 중단...온·오프라인 유통망 사실상 '셧다운'",
-      "url": "https://n.news.naver.com/mnews/article/660/0000122200"
+      "title": "오프라인·글로벌 동반 호조...무신사 3분기 매출 4058억",
+      "url": "https://n.news.naver.com/mnews/article/008/0005447302"
     },
     {
-      "title": "은행·저축은행 손잡고 10%대 중금리 대출 푼다…건전성 규제 완화",
-      "url": "https://n.news.naver.com/mnews/article/029/0003061269"
+      "title": "고려아연, 울산 8개 학교에 발전기금 1억4500만원 전달",
+      "url": "https://n.news.naver.com/mnews/article/119/0003160007"
     },
     {
-      "title": "삼성전자서비스, 제31회 기술경진대회 개최…AI 활용 역량 평가",
-      "url": "https://n.news.naver.com/mnews/article/366/0001207388"
+      "title": "LH, 영주귀국 사할린 동포 223명에 임대주택 지원",
+      "url": "https://n.news.naver.com/mnews/article/001/0016467224"
     },
     {
-      "title": "공정위원장, 중소기업계 만나 현장 애로·건의사항 청취",
-      "url": "https://n.news.naver.com/mnews/article/001/0016464916"
+      "title": "롯데웰푸드 '닥터자일리톨버스', 거제 수해 어린이집서 치과 진료 봉사",
+      "url": "https://n.news.naver.com/mnews/article/003/0014348681"
     },
     {
-      "title": "에스원, 2027년 정기 임원인사…김송범 부사장 승진",
-      "url": "https://n.news.naver.com/mnews/article/366/0001207478"
+      "title": "삼성SDI, 역대 최대 3차 ESS 입찰 63% 수주…SK온 37% 확보",
+      "url": "https://n.news.naver.com/mnews/article/421/0009313733"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 4725.34,
-      "change": 27.83,
-      "change_pct": 0.59
+      "value": 4844.12,
+      "change": 132.91,
+      "change_pct": 2.82
     },
     "kosdaq": {
-      "value": 659.55,
-      "change": 8.91,
-      "change_pct": 1.37
+      "value": 693.72,
+      "change": 38.01,
+      "change_pct": 5.8
     },
     "nasdaq": {
       "value": 23585.8,
@@ -58,17 +58,17 @@
       "change_pct": -0.62
     },
     "usdkrw": {
-      "value": 1343.16,
-      "change": 0.51,
-      "change_pct": 0.04
+      "value": 1341.58,
+      "change": -1.39,
+      "change_pct": -0.1
     }
   },
   "gold": {
-    "price_usd": 3610.0,
-    "price_krw": 4848807,
-    "change": 48.1,
-    "change_pct": 1.35
+    "price_usd": 3653.0,
+    "price_krw": 4900791,
+    "change": 117.2,
+    "change_pct": 3.31
   },
-  "updated": "2026-11-26 12:20",
+  "updated": "2026-11-27 12:25",
   "error": null
 }
