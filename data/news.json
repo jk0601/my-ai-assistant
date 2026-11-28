@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "“금리 올려 이자 장사” 은행들 48조 벌었다",
-      "url": "https://n.news.naver.com/mnews/article/050/0000113853"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012303076"
     },
     {
-      "title": "삼성바이오에피스, 中 이노타 테라퓨틱스 선정…글로벌 오픈이노베이션 확대",
-      "url": "https://n.news.naver.com/mnews/article/138/0002250123"
+      "title": "\"中에 1%라도 임대하면 판매 중단\" 엔비디아 판매상 강경방침",
+      "url": "https://n.news.naver.com/mnews/article/422/0000930350"
     },
     {
-      "title": "CJ올리브영도 뚫렸다…790명 정보 유출",
-      "url": "https://n.news.naver.com/mnews/article/015/0005358840"
+      "title": "F4 \"공매도 추이, 특이 동향 없어…시장상황 대응태세 유지\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005447312"
     },
     {
-      "title": "오락가락 증시에 놀란 정부, 공매도 점검 결과 “특이 동향 없어”",
-      "url": "https://n.news.naver.com/mnews/article/005/0001887838"
+      "title": "외국인 삼성전자 배당 15조 ‘역대 최대’…재투자시 수급개선, 환전땐 환율 부담",
+      "url": "https://n.news.naver.com/mnews/article/016/0002729494"
     },
     {
-      "title": "'금감원 칼날 무뎌지나'…금융위 사전협의 등 통제권 강화·저인망식 검사 금지",
-      "url": "https://n.news.naver.com/mnews/article/014/0005610636"
+      "title": "'중국'으로 '중국' 잡는다…현대차 배터리부터 AI까지 현지화 총력전",
+      "url": "https://n.news.naver.com/mnews/article/008/0005447468"
     },
     {
-      "title": "오프라인·글로벌 동반 호조...무신사 3분기 매출 4058억",
-      "url": "https://n.news.naver.com/mnews/article/008/0005447302"
+      "title": "생방송 눈물, 이유 밝힌 주식 전문가 \"추가 하락 경고해야 하는 부담 때문에\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005849047"
     },
     {
-      "title": "고려아연, 울산 8개 학교에 발전기금 1억4500만원 전달",
-      "url": "https://n.news.naver.com/mnews/article/119/0003160007"
-    },
-    {
-      "title": "LH, 영주귀국 사할린 동포 223명에 임대주택 지원",
-      "url": "https://n.news.naver.com/mnews/article/001/0016467224"
-    },
-    {
-      "title": "롯데웰푸드 '닥터자일리톨버스', 거제 수해 어린이집서 치과 진료 봉사",
-      "url": "https://n.news.naver.com/mnews/article/003/0014348681"
+      "title": "박홍근 “미래대응기금, 운용체계 갖출 때까지 연기금투자풀에 위탁 검토”",
+      "url": "https://n.news.naver.com/mnews/article/032/0003485568"
     },
     {
       "title": "삼성SDI, 역대 최대 3차 ESS 입찰 63% 수주…SK온 37% 확보",
       "url": "https://n.news.naver.com/mnews/article/421/0009313733"
+    },
+    {
+      "title": "씨티 \"증안펀드 20∼40조 확대 가능…이르면 12월 1∼2조 투입\"",
+      "url": "https://n.news.naver.com/mnews/article/374/0000546367"
+    },
+    {
+      "title": "[단독]홈플러스 인수 후보 윤곽..부동산 개발사 '더와이즈그룹' 출사표",
+      "url": "https://n.news.naver.com/mnews/article/018/0006416600"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 4844.12,
-      "change": 132.91,
-      "change_pct": 2.82
+      "value": 4915.68,
+      "change": 204.47,
+      "change_pct": 4.34
     },
     "kosdaq": {
-      "value": 693.72,
-      "change": 38.01,
-      "change_pct": 5.8
+      "value": 708.99,
+      "change": 53.28,
+      "change_pct": 8.13
     },
     "nasdaq": {
-      "value": 23585.8,
-      "change": -147.74,
-      "change_pct": -0.62
+      "value": 24129.5,
+      "change": 543.7,
+      "change_pct": 2.31
     },
     "usdkrw": {
-      "value": 1341.58,
-      "change": -1.39,
-      "change_pct": -0.1
+      "value": 1343.53,
+      "change": 0.56,
+      "change_pct": 0.04
     }
   },
   "gold": {
-    "price_usd": 3653.0,
-    "price_krw": 4900791,
-    "change": 117.2,
-    "change_pct": 3.31
+    "price_usd": 3668.5,
+    "price_krw": 4928739,
+    "change": 132.7,
+    "change_pct": 3.75
   },
-  "updated": "2026-11-27 12:25",
+  "updated": "2026-11-28 12:01",
   "error": null
 }
